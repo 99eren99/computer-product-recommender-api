@@ -1,0 +1,39 @@
+version: '3.8'
+services:
+
+  dataflow:
+    build: 
+      context: ./workflow_orchestration/
+    restart: always
+    networks:
+      - backnet
+    depends_on:
+      - recommenderDB
+    volumes:
+      -./workflow_orchestration/backups:/usr/src/app/backups
+      -./sqlite_db:/usr/src/app/db
+
+  proxy:
+    build: 
+      context: ./proxy/
+    restart: always
+    ports:
+      - "80:80"
+    networks:
+      - frontnet
+
+  api:
+    build:
+      context: ./api/
+    networks:
+      - backnet
+      - frontnet
+    depends_on:
+      - recommenderDB
+      - proxy
+    volumes:
+      -./sqlite_db:/usr/src/app/db
+
+networks:
+  - frontnet:
+  - backnet:

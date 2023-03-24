@@ -1,0 +1,4072 @@
+İşlemci Modeli,İşlemci Skoru
+AMD EPYC 9654,124.119
+AMD Ryzen Threadripper PRO 5995WX,96.237
+AMD EPYC 7773X,90.731
+AMD EPYC 7763,85.944
+AMD EPYC 7J13,85.661
+AMD EPYC 7713,85.521
+AMD EPYC 7713P,83.439
+AMD Ryzen Threadripper PRO 3995WX,83.044
+AMD EPYC 7V13,82.878
+AMD Ryzen Threadripper 3990X,81.252
+AMD EPYC 9354P,79.341
+AMD EPYC 7B13,77.460
+AMD EPYC 7643,76.455
+AMD Ryzen Threadripper PRO 5975WX,76.398
+AMD EPYC 7T83,74.892
+AMD EPYC 7662,73.143
+AMD EPYC 7702,70.628
+AMD EPYC 75F3,68.505
+AMD EPYC 7543P,67.081
+AMD Ryzen Threadripper PRO 5965WX,66.157
+AMD EPYC 7742,65.629
+AMD EPYC 7R32,64.727
+AMD Ryzen Threadripper 3970X,63.507
+AMD Ryzen 9 7950X,63.423
+AMD Ryzen Threadripper PRO 3975WX,62.845
+Intel Core i9-13900KS,62.773
+Intel Xeon Platinum 8380 @ 2.30GHz,62.318
+AMD EPYC 7702P,62.278
+AMD EPYC 74F3,60.472
+AMD EPYC 7642,60.115
+Intel Core i9-13900K,60.088
+AMD EPYC 7513,59.988
+Intel Core i9-13900KF,59.761
+Intel Xeon W-3365 @ 2.70GHz,59.038
+Intel Core i9-13900F,58.554
+AMD EPYC 7443P,57.645
+AMD EPYC 7542,56.728
+AMD EPYC 7543,56.562
+AMD EPYC 7532,55.483
+AMD Ryzen Threadripper 3960X,54.766
+Intel Xeon Platinum 8358 @ 2.60GHz,54.416
+Intel Xeon W-3375 @ 2.50GHz,53.266
+Intel Xeon Gold 6348 @ 2.60GHz,52.276
+AMD Ryzen 9 7900X,52.077
+Intel Xeon Platinum 8375C @ 2.90GHz,51.836
+AMD EPYC 7443,51.764
+Intel Core i9-13900T,51.210
+Intel Xeon Gold 6314U @ 2.30GHz,51.014
+Intel Core i9-13900,50.765
+AMD EPYC 7413,50.223
+AMD EPYC 7453,50.209
+AMD Ryzen Threadripper PRO 5955WX,49.585
+Intel Xeon Platinum 8347C @ 2.10GHz,49.386
+AMD EPYC 7502P,49.191
+AMD EPYC 7502,49.178
+AMD Ryzen 9 7900,48.477
+Intel Xeon W-3345 @ 3.00GHz,48.261
+AMD EPYC 7402,47.668
+Intel Xeon Gold 6342 @ 2.80GHz,47.320
+Intel Core i7-13700K,47.030
+AMD Ryzen 9 7845HX,46.791
+Intel Xeon Gold 6338N @ 2.20GHz,46.583
+Intel Core i7-13700KF,46.472
+ARM Neoverse-N1 128 Core 3000 MHz,46.271
+AMD EPYC 73F3,46.085
+AMD Ryzen 9 5950X,45.889
+Intel Xeon Gold 6336Y @ 2.40GHz,45.517
+AMD EPYC 7343,44.930
+Intel Core i9-12900KS,44.549
+Intel Xeon Gold 6312U @ 2.40GHz,44.275
+Intel Xeon Gold 6330 @ 2.00GHz,43.056
+AMD EPYC 7551P,42.608
+AMD EPYC 7402P,42.419
+AMD EPYC 7601,42.244
+AMD EPYC 7313P,42.057
+AMD EPYC 7452,41.871
+Intel Core i9-12900K,41.589
+Intel Xeon Gold 6354 @ 3.00GHz,41.445
+Intel Core i9-12900KF,41.421
+AMD EPYC 7313,41.060
+AMD EPYC 7F52,41.023
+Apple M1 Ultra 20 Core,40.913
+Intel Xeon Platinum 8275CL @ 3.00GHz,40.794
+AMD Ryzen Threadripper PRO 5945WX,40.784
+AMD EPYC 7K62,40.487
+Intel Xeon W-3275M @ 2.50GHz,40.444
+AMD Ryzen Threadripper PRO 3955WX,40.294
+Intel Core i7-13700,40.028
+AMD EPYC 7352,39.999
+Intel Xeon W-3265M @ 2.70GHz,39.618
+AMD Ryzen 9 5900X,39.272
+Intel Xeon W-3335 @ 3.40GHz,39.040
+AMD Ryzen 9 3950X,39.005
+Intel Core i7-13700F,38.686
+Intel Xeon Gold 6248R @ 3.00GHz,38.604
+Intel Core i5-13600K,38.459
+Intel Core i5-13600KF,38.395
+Intel Xeon Gold 6346 @ 3.10GHz,37.626
+Intel Xeon Platinum 8280 @ 2.70GHz,37.575
+Intel Xeon Gold 5320 @ 2.20GHz,37.558
+Intel Xeon Gold 6238R @ 2.20GHz,37.511
+Intel Core i9-12900F,37.300
+Intel Xeon Silver 4316 @ 2.30GHz,37.264
+Intel Xeon W-3175X @ 3.10GHz,37.167
+AMD Ryzen 7 7700X,36.448
+ARM Neoverse-N1 80 Core 3000 MHz,36.400
+AMD EPYC 7D12,35.853
+Intel Core i9-12900HX,35.730
+Intel Xeon Gold 6326 @ 2.90GHz,35.328
+Intel Xeon Platinum 8180 @ 2.50GHz,35.208
+AMD Ryzen 7 7700,35.082
+Intel Core i9-12900,35.010
+Intel Xeon Gold 6242R @ 3.10GHz,34.963
+Intel Core i7-12700K,34.758
+AMD Ryzen 9 5900,34.567
+Intel Core i7-12700KF,34.532
+AMD Ryzen 9 PRO 5945,34.271
+Intel Xeon Gold 6230R @ 2.10GHz,34.145
+Intel Xeon Platinum 8260M @ 2.30GHz,33.970
+AMD EPYC 7302,33.863
+Intel Core i7-12800HX,33.793
+Intel Xeon D-2799 @ 2.40GHz,33.792
+AMD Ryzen Threadripper PRO 3945WX,33.412
+Intel Xeon Gold 5220R @ 2.20GHz,33.370
+Intel Xeon Platinum 8259CL @ 2.50GHz,33.279
+Intel Core i9-10980XE @ 3.00GHz,33.127
+Intel Xeon Gold 6278C @ 2.60GHz,32.835
+AMD Ryzen 9 3900XT,32.825
+Intel Core i9-12950HX,32.812
+AMD Ryzen 9 3900X,32.738
+Intel Xeon Platinum 8168 @ 2.70GHz,32.616
+AMD EPYC 7302P,32.543
+Intel Core i5-13500,32.392
+Intel Core i9-9980XE @ 3.00GHz,32.256
+Intel Core i5-13600,32.185
+AMD Ryzen Threadripper 2990WX,32.093
+Intel Xeon Platinum 8173M @ 2.00GHz,31.837
+Intel Xeon Gold 5318Y @ 2.10GHz,31.695
+Intel Xeon Platinum 8268 @ 2.90GHz,31.632
+Intel Core i9-12900T,31.592
+Intel Core i9-12900E,31.530
+AMD Ryzen 9 PRO 3900,31.473
+Intel Xeon W-2295 @ 3.00GHz,31.177
+Intel Core i7-12700F,31.146
+Intel Core i7-12700,31.142
+AMD EPYC 7371,31.094
+Intel Core i5-13600T,30.886
+Intel Xeon Platinum 8171M @ 2.60GHz,30.632
+AMD Ryzen 9 3900,30.610
+AMD EPYC Embedded 7292P,30.542
+Intel Core i9-9960X @ 3.10GHz,30.539
+Intel Core i9-7980XE @ 2.60GHz,30.534
+Intel Xeon Gold 6246R @ 3.40GHz,30.220
+Intel Core i9-9990XE @ 4.00GHz,30.162
+Intel Xeon W-3265 @ 2.70GHz,30.105
+AMD Ryzen Threadripper 2970WX,29.990
+Intel Core i7-12850HX,29.895
+Intel Core i7-12800HE,29.805
+Intel Xeon W-3245 @ 3.20GHz,29.803
+AMD EPYC 7282,29.489
+AMD Ryzen Threadripper 2950X,29.445
+Intel Xeon Platinum 8260 @ 2.40GHz,29.360
+Intel Xeon Gold 6254 @ 3.10GHz,29.356
+Intel Xeon Silver 4314 @ 2.40GHz,29.347
+Intel Xeon W-2191B @ 2.30GHz,29.269
+Intel Xeon Gold 6148 @ 2.40GHz,29.197
+Intel Xeon Gold 6248 @ 2.50GHz,29.120
+Intel Core i9-12900H,28.943
+Intel Xeon Gold 6210U @ 2.50GHz,28.915
+Intel Core i9-12900HK,28.877
+Intel Xeon Gold 6154 @ 3.00GHz,28.848
+AMD Ryzen 5 7600X,28.740
+Intel Xeon Gold 6253CL @ 3.10GHz,28.549
+Intel Core i9-9940X @ 3.30GHz,28.411
+Intel Core i7-12700E,28.292
+AMD EPYC 7401P,28.282
+Intel Xeon W-2195 @ 2.30GHz,28.210
+Intel Core i9-10940X @ 3.30GHz,28.125
+AMD Ryzen 7 5800X,28.086
+ARM Neoverse-N1 64 Core 0 MHz,28.079
+Intel Xeon W-2275 @ 3.30GHz,28.037
+AMD Ryzen 7 5800X3D,27.860
+Intel Core i5-12600K,27.789
+AMD Ryzen Threadripper 1950X,27.745
+AMD Ryzen 5 7600,27.665
+Intel Xeon Gold 6238 @ 2.10GHz,27.617
+Intel Xeon W-3245M @ 3.20GHz,27.503
+Intel Xeon Gold 6212U @ 2.40GHz,27.470
+AMD EPYC 7571,27.445
+Intel Core i5-12600KF,27.422
+Intel Xeon Gold 5317 @ 3.00GHz,27.402
+Intel Xeon Platinum 8124M @ 3.00GHz,27.336
+AMD EPYC 72F3,27.252
+Intel Xeon Gold 6252 @ 2.10GHz,27.148
+Intel Xeon Gold 6226R @ 2.90GHz,27.092
+Intel Xeon Gold 6208U @ 2.90GHz,27.085
+Intel Core i9-7960X @ 2.80GHz,27.016
+Intel Xeon Gold 6230 @ 2.10GHz,26.920
+AMD Ryzen 7 PRO 5845,26.807
+Intel Core i7-12700H,26.798
+AMD Ryzen 7 5700X,26.751
+Intel Xeon Platinum 8175M @ 2.50GHz,26.659
+Intel Xeon Platinum 8160 @ 2.10GHz,26.485
+AMD Ryzen Threadripper 2990X,26.469
+AMD EPYC 7272,26.446
+Apple M2 Max 12 Core 3680 MHz,26.429
+Intel Core i9-10920X @ 3.50GHz,26.385
+Apple M2 Pro 12 Core 3480 MHz,26.340
+Intel Core i9-7940X @ 3.10GHz,26.307
+Intel Xeon Gold 6242 @ 2.80GHz,26.288
+Intel Core i5-13400,26.205
+Intel Xeon W-2265 @ 3.50GHz,26.052
+Intel Xeon W-3235 @ 3.30GHz,26.042
+AMD Ryzen 7 5800,25.954
+Intel Xeon Gold 5218R @ 2.10GHz,25.916
+Intel Xeon W-3323 @ 3.50GHz,25.875
+Intel Core i5-13400F,25.779
+AMD Ryzen 7 7735HS,25.635
+Intel Xeon E5-2698R v4 @ 2.20GHz,25.605
+Intel Core i9-11900K @ 3.50GHz,25.535
+Intel Xeon Gold 6150 @ 2.70GHz,25.487
+AMD EPYC 7351P,25.484
+Intel Xeon W-1390P @ 3.50GHz,25.451
+Intel Core i9-11900KF @ 3.50GHz,25.423
+Intel Xeon Platinum 8167M @ 2.00GHz,25.396
+Intel Xeon E5-2696 v4 @ 2.20GHz,25.323
+Intel Core i9-9920X @ 3.50GHz,25.251
+Intel Core i7-1370P,25.032
+Intel Xeon W-1370P @ 3.60GHz,24.961
+AMD EPYC 7501,24.925
+AMD Ryzen Threadripper 2920X,24.860
+Intel Xeon Gold 6138T @ 2.00GHz,24.800
+Intel Xeon Gold 6143 @ 2.80GHz,24.786
+Intel Xeon Gold 5220 @ 2.20GHz,24.736
+Intel Core i7-12650H,24.672
+Intel Core i7-11700K @ 3.60GHz,24.663
+AMD Ryzen 7 PRO 5750G,24.615
+AMD Ryzen 7 5700G,24.612
+AMD Ryzen 9 6900HX,24.594
+Intel Xeon E5-2699 v4 @ 2.20GHz,24.561
+Intel Xeon Gold 6246 @ 3.30GHz,24.446
+Intel Core i7-12800H,24.444
+Intel Xeon E5-2679 v4 @ 2.50GHz,24.131
+Intel Core i5-13500H,24.074
+Intel Core i7-11700KF @ 3.60GHz,24.063
+AMD Ryzen 9 6900HS,24.006
+Intel Core i5-12600HX,23.988
+Intel Xeon W-2170B @ 2.50GHz,23.964
+Intel Xeon W-1370 @ 2.90GHz,23.908
+Intel Xeon W-1390 @ 2.80GHz,23.902
+AMD Ryzen 7 7736U,23.860
+Intel Xeon E-2388G @ 3.20GHz,23.844
+AMD Ryzen 7 6800H,23.789
+Intel Xeon Gold 6122 @ 1.80GHz,23.781
+AMD Ryzen 7 3800XT,23.734
+Intel Xeon W-11865MRE @ 2.60GHz,23.702
+AMD Ryzen 9 5980HX,23.649
+AMD Ryzen 7 5700,23.586
+Intel Core i9-7920X @ 2.90GHz,23.582
+AMD EPYC 7351,23.566
+Intel Xeon Gold 6146 @ 3.20GHz,23.432
+Intel Xeon E5-2696 v3 @ 2.30GHz,23.426
+Intel Core i9-10900K @ 3.70GHz,23.383
+AMD Ryzen 9 PRO 6950H,23.378
+Intel Xeon Silver 4310 @ 2.10GHz,23.372
+Intel Core i9-11980HK @ 2.60GHz,23.341
+AMD Ryzen 9 PRO 6950HS,23.311
+AMD Ryzen 7 3800X,23.274
+Intel Core i9-11900KB @ 3.30GHz,23.228
+Intel Xeon Platinum 8176 @ 2.10GHz,23.179
+Intel Xeon W-2175 @ 2.50GHz,23.139
+Intel Xeon W-11955M @ 2.60GHz,23.130
+Intel Core i9-10900KF @ 3.70GHz,23.050
+Intel Core i9-11900 @ 2.50GHz,23.029
+AMD EPYC 7F32,23.026
+AMD Ryzen 7 PRO 6850H,23.026
+AMD Ryzen 7 PRO 3700,23.026
+Intel Core i9-11900F @ 2.50GHz,22.961
+Intel Xeon E5-2698 v4 @ 2.20GHz,22.959
+AMD Ryzen 7 6800HS Creator Edition,22.950
+AMD Ryzen 7 6800HS,22.944
+AMD Ryzen 9 5900HX,22.888
+Intel Xeon W-1290P @ 3.70GHz,22.825
+Intel Core i7-11700B @ 3.20GHz,22.807
+Intel Xeon Gold 6152 @ 2.10GHz,22.802
+Intel Core i9-10850K @ 3.60GHz,22.781
+Intel Xeon E-2378G @ 2.80GHz,22.755
+AMD Ryzen Threadripper 1920X,22.745
+Intel Xeon Gold 6140 @ 2.30GHz,22.733
+Intel Core i5-12600H,22.704
+AMD Ryzen 7 3700X,22.689
+Intel Xeon Platinum P-8124 @ 3.00GHz,22.674
+Intel Core i9-10900X @ 3.70GHz,22.541
+AMD Ryzen 9 6900HS Creator Edition,22.537
+Intel Xeon Gold 5218 @ 2.30GHz,22.376
+Intel Xeon W-2255 @ 3.70GHz,22.375
+Intel Xeon Gold 6136 @ 3.00GHz,22.266
+Intel Xeon Gold 6132 @ 2.60GHz,22.225
+Apple M2 Pro 10 Core 3480 MHz,22.205
+AMD Ryzen 7 5700GE,22.196
+Intel Xeon Gold 6334 @ 3.60GHz,22.160
+AMD Ryzen 7 PRO 5750GE,22.158
+Apple M1 Max 10 Core 3200 MHz,22.158
+AMD Ryzen 9 5900HS Creator Edition,22.138
+AMD Ryzen 9 5900HS,22.069
+AMD Ryzen Threadripper 1920,22.066
+AMD EPYC 7551,22.005
+AMD EPYC 7281,21.981
+Intel Xeon E5-2673 v4 @ 2.30GHz,21.970
+Apple M1 Pro 10 Core 3200 MHz,21.954
+AMD Ryzen 5 5600X,21.931
+Intel Core i9-9900X @ 3.50GHz,21.863
+Intel Core i9-11950H @ 2.60GHz,21.857
+Intel Xeon Gold 6130T @ 2.10GHz,21.804
+Intel Core i9-10910 @ 3.60GHz,21.796
+AMD Ryzen 5 PRO 5645,21.762
+Intel Core i5-12500H,21.746
+Intel Xeon E5-2697A v4 @ 2.60GHz,21.665
+Intel Core i7-12700T,21.623
+Intel Xeon E7-8891 v3 @ 2.80GHz,21.615
+AMD Ryzen 5 5600,21.539
+AMD Ryzen 7 PRO 6850HS,21.457
+Intel Xeon Gold 5218T @ 2.10GHz,21.433
+Intel Core i5-12600,21.372
+AMD Ryzen 7 5800H,21.300
+Intel Xeon W-2155 @ 3.30GHz,21.239
+Intel Core i7-11700F @ 2.50GHz,21.190
+AMD Ryzen 7 5800HS Creator Edition,21.166
+Intel Core i9-11900H @ 2.50GHz,21.146
+Intel Core i9-7900X @ 3.30GHz,21.144
+AMD Ryzen 9 5980HS,21.058
+Intel Core i7-11800H @ 2.30GHz,21.047
+AMD Ryzen 7 PRO 6850U,20.983
+Intel Xeon Silver 4310T @ 2.30GHz,20.973
+AMD Ryzen 9 5900H,20.960
+Intel Core i7-7900X @ 3.30GHz,20.927
+Intel Core i7-11850H @ 2.50GHz,20.918
+Intel Xeon Gold 6250 @ 3.90GHz,20.915
+AMD Ryzen 7 PRO 6860Z,20.908
+Intel Xeon Gold 6130 @ 2.10GHz,20.861
+AMD Ryzen 7 PRO 4700G,20.848
+Intel Xeon E5-2697R v4 @ 2.30GHz,20.843
+AMD EPYC 7262,20.827
+Intel Xeon D-2796TE @ 2.00GHz,20.806
+Intel Core i5-12490F,20.797
+Intel Xeon Gold 5315Y @ 3.20GHz,20.724
+Intel Core i7-12700TE,20.712
+Intel Core i9-10900E @ 2.80GHz,20.658
+AMD Ryzen 7 6800U,20.631
+AMD Ryzen 7 5800HS,20.628
+AMD Ryzen 7 PRO 4750G,20.579
+Intel Core i7-1280P,20.547
+Intel Core i9-10900F @ 2.80GHz,20.540
+Intel Xeon E5-2697 v4 @ 2.30GHz,20.472
+AMD EPYC 7451,20.471
+Intel Xeon W-2150B @ 3.00GHz,20.356
+Intel Core i9-10900 @ 2.80GHz,20.230
+AMD Ryzen 7 4700GE,20.218
+AMD Ryzen 7 4700G,20.212
+AMD Ryzen 5 PRO 6650H,20.103
+Intel Xeon W-1290 @ 3.20GHz,20.100
+AMD Ryzen 5 PRO 5650G,20.094
+Intel Xeon E5-2699C v4 @ 2.20GHz,20.079
+Intel Xeon E5-2690 v4 @ 2.60GHz,20.067
+Intel Core i7-11700 @ 2.50GHz,20.064
+Intel Xeon Silver 4216 @ 2.10GHz,20.062
+Intel Xeon W-1350P @ 4.00GHz,20.032
+Intel Xeon E5-2699 v3 @ 2.30GHz,20.012
+Intel Core i5-12500,19.922
+AMD Ryzen 5 5600G,19.861
+Intel Core i5-1250P,19.843
+Intel Xeon D-1747NTE @ 2.50GHz,19.822
+Intel Xeon Gold 6226 @ 2.70GHz,19.810
+Intel Core i5-11600K @ 3.90GHz,19.758
+Intel Core i5-12400F,19.730
+Intel Core i5-11600KF @ 3.90GHz,19.722
+Intel Xeon E5-2682 v4 @ 2.50GHz,19.702
+Intel Xeon E5-2695 v4 @ 2.10GHz,19.656
+Intel Core i9-9820X @ 3.30GHz,19.650
+AMD EPYC 7252,19.616
+Intel Core i9-9900KS @ 4.00GHz,19.585
+Intel Xeon W-1290E @ 3.50GHz,19.581
+Intel Core i5-12400,19.532
+AMD Ryzen 5 5500,19.506
+Intel Xeon Gold 6244 @ 3.60GHz,19.500
+Intel Xeon W-2245 @ 3.90GHz,19.481
+Intel Xeon E5-2686 v4 @ 2.30GHz,19.422
+Intel Xeon Gold 6137 @ 3.90GHz,19.365
+Intel Xeon E-2386G @ 3.50GHz,19.339
+AMD Ryzen 9 4900HS,19.282
+AMD Ryzen 9 4900H,19.265
+Intel Xeon Silver 4309Y @ 2.80GHz,19.253
+Intel Xeon W-1270P @ 3.80GHz,19.245
+Intel Xeon E-2356G @ 3.20GHz,19.241
+Intel Xeon Gold 6126 @ 2.60GHz,19.223
+Intel Xeon Gold 6138 @ 2.00GHz,19.207
+Intel Core i7-10700K @ 3.80GHz,19.121
+AMD Ryzen 5 6600HS Creator Edition,19.019
+Intel Xeon W-1350 @ 3.30GHz,19.015
+Intel Core i7-10700KF @ 3.80GHz,19.007
+Intel Xeon E5-2676 v4 @ 2.40GHz,18.978
+AMD Ryzen 5 6600H,18.926
+AMD Ryzen 5 5600GE,18.879
+AMD Ryzen 7 4800H,18.845
+Hygon C86 7255 16-core,18.831
+ARM Neoverse-N1 80 Core 2600 MHz,18.823
+Intel Xeon E5-2697 v3 @ 2.60GHz,18.817
+Intel Xeon E5-2698 v3 @ 2.30GHz,18.764
+AMD Ryzen 7 4800HS,18.720
+AMD Ryzen 5 3600XT,18.706
+AMD Ryzen 7 5800U,18.689
+Intel Xeon Gold 6144 @ 3.50GHz,18.656
+Intel Xeon W-1270E @ 3.40GHz,18.635
+AMD Ryzen 5 PRO 5650GE,18.592
+Intel Core i9-9900K @ 3.60GHz,18.562
+Intel Core i9-9900KF @ 3.60GHz,18.520
+AMD Ryzen 7 PRO 4750GE,18.497
+AMD Ryzen 7 5825U,18.449
+Intel Xeon W-1290T @ 1.90GHz,18.409
+Intel Xeon D-2183IT @ 2.20GHz,18.385
+Intel Xeon W-11855M @ 3.20GHz,18.365
+AMD Ryzen Embedded V3C48,18.361
+Intel Core i9-11900T @ 1.50GHz,18.341
+Intel Core i7-11850HE @ 2.60GHz,18.335
+AMD Ryzen 7 Extreme Edition,18.261
+AMD Ryzen 5 3600X,18.259
+Intel Xeon E7-8880 v3 @ 2.30GHz,18.244
+Intel Core i5-11600 @ 2.80GHz,18.184
+Intel Xeon E5-2686 v3 @ 2.00GHz,18.148
+Intel Core i7-9800X @ 3.80GHz,18.138
+Intel Xeon Silver 4214R @ 2.40GHz,18.130
+Intel Xeon Gold 5120T @ 2.20GHz,18.127
+Intel Xeon D-2187NT @ 2.00GHz,18.070
+Intel Xeon W-2145 @ 3.70GHz,18.069
+Intel Core i5-12450H,18.059
+AMD 4700S,18.019
+Intel Xeon E5-2680 v4 @ 2.40GHz,17.966
+Intel Xeon E-2378 @ 2.60GHz,17.952
+AMD Ryzen 5 6600U,17.904
+Intel Core i9-10900TE @ 1.80GHz,17.888
+Intel Xeon D-1736NT @ 2.70GHz,17.826
+Intel Xeon E5-2687W v4 @ 3.00GHz,17.809
+AMD Ryzen 5 PRO 3600,17.807
+Intel Core i5-11500B @ 3.30GHz,17.801
+AMD Ryzen 5 3600,17.794
+Intel Xeon W-1270 @ 3.40GHz,17.707
+Intel Xeon Gold 5120 @ 2.20GHz,17.686
+AMD Ryzen 7 2700X,17.596
+Intel Core i7-1270P,17.509
+Intel Core i5-11500 @ 2.70GHz,17.505
+AMD Ryzen 7 4980U Microsoft Surface Edition,17.469
+Intel Xeon E5-4669 v3 @ 2.10GHz,17.430
+Intel Xeon E5-2683 v4 @ 2.10GHz,17.422
+Intel Xeon E-2288G @ 3.70GHz,17.418
+Intel Xeon W-3223 @ 3.50GHz,17.402
+Intel Core i7-6950X @ 3.00GHz,17.373
+AMD Ryzen 7 PRO 5850U,17.317
+Intel Core i5-1240P,17.305
+Intel Xeon W-2140B @ 3.20GHz,17.278
+Intel Core i7-1260P,17.232
+Intel Core i7-7820X @ 3.60GHz,17.224
+Apple M1 Pro 8 Core 3200 MHz,17.221
+Intel Core i5-11400F @ 2.60GHz,17.201
+AMD Ryzen Embedded V2748,17.166
+Intel Xeon E-2336 @ 2.90GHz,17.165
+Intel Core i5-12500T,17.155
+AMD Ryzen 5 5600H,17.152
+Intel Core i5-12600T,17.147
+Intel Core i5-11400 @ 2.60GHz,17.052
+Intel Xeon E5-2689 v4 @ 3.10GHz,17.040
+AMD Ryzen 5 7530U,17.037
+AMD Ryzen Threadripper 1900X,17.022
+AMD EPYC 7232P,17.017
+AMD Ryzen 7 4800U,16.965
+Intel Xeon E-2278G @ 3.40GHz,16.964
+Intel Core i7-10700F @ 2.90GHz,16.941
+Intel Xeon E5-2680R v4 @ 2.40GHz,16.865
+AMD Ryzen 7 PRO 2700X,16.846
+Intel Core i5-12400T,16.832
+Intel Core i9-9900 @ 3.10GHz,16.762
+Intel Core i7-10700 @ 2.90GHz,16.750
+Intel Xeon Gold 6134 @ 3.20GHz,16.601
+AMD Ryzen 5 PRO 6650U,16.599
+Intel Core i5-12500TE,16.584
+AMD Ryzen Embedded V2718,16.500
+Intel Xeon E5-2695 v3 @ 2.30GHz,16.455
+Intel Core i7-10700E @ 2.90GHz,16.418
+AMD Ryzen 7 1800X,16.406
+Intel Xeon E5-2690 v3 @ 2.60GHz,16.370
+AMD Ryzen 5 PRO 4400G,16.354
+Intel Core i7-10700TE @ 2.00GHz,16.332
+AMD Ryzen 5 PRO 4650G,16.317
+Intel Xeon Gold 5118 @ 2.30GHz,16.237
+AMD Ryzen 5 4500,16.190
+Intel Core i5-11500H @ 2.90GHz,16.150
+Intel Xeon E5-2669 v3 @ 2.30GHz,16.107
+Intel Xeon Silver 4214 @ 2.20GHz,16.002
+Intel Xeon E5-2660 v4 @ 2.00GHz,15.990
+Intel Core i9-10980HK @ 2.40GHz,15.965
+Intel Xeon W-11865MLE @ 1.50GHz,15.958
+Intel Xeon W-10885M @ 2.40GHz,15.945
+Intel Core i5-11400H @ 2.70GHz,15.926
+AMD Ryzen 7 4850U Mobile,15.920
+AMD Ryzen 7 5700U,15.863
+Intel Core i7-11700T @ 1.40GHz,15.823
+Intel Xeon Gold 5117 @ 2.00GHz,15.816
+Intel Xeon D-2733NT @ 2.10GHz,15.799
+AMD Ryzen 5 4600G,15.752
+AMD Ryzen 7 2700,15.748
+AMD Ryzen 7 PRO 1700X,15.695
+AMD Ryzen 7 1700X,15.691
+Intel Core i5-11260H @ 2.60GHz,15.666
+AMD Ryzen 5 4600GE,15.641
+AMD Ryzen 5 PRO 4650GE,15.628
+Intel Core i7-11600H @ 2.90GHz,15.527
+Intel Xeon D-1726 @ 2.90GHz,15.511
+Intel Core i9-10885H @ 2.40GHz,15.440
+Intel Xeon Gold 5217 @ 3.00GHz,15.429
+Intel Xeon Gold 5215 @ 2.50GHz,15.420
+Intel Xeon E5-2680 v3 @ 2.50GHz,15.404
+AMD Ryzen 5 5600U,15.401
+Intel Xeon E5-4667 v3 @ 2.00GHz,15.397
+Apple M2 8 Core 3500 MHz,15.388
+Intel Core i3-13100F,15.378
+AMD Ryzen 7 PRO 5875U,15.360
+AMD Ryzen 7 PRO 4750U,15.282
+AMD Ryzen 7 PRO 2700,15.275
+Intel Core i7-10875H @ 2.30GHz,15.260
+Intel Xeon E-2278GE @ 3.30GHz,15.252
+Intel Xeon Silver 4214Y @ 2.20GHz,15.248
+Intel Xeon Silver 4210R @ 2.40GHz,15.191
+Intel Xeon Silver 4116T @ 2.10GHz,15.187
+Intel Xeon E-2286M @ 2.40GHz,15.168
+Intel Core i3-1220P,15.157
+Intel Core i9-10900T @ 1.90GHz,15.146
+AMD Ryzen 5 5560U,15.140
+Intel Xeon D-2166NT @ 2.00GHz,15.105
+AMD Ryzen 5 PRO 5650U,15.066
+Intel Xeon Silver 4215R @ 3.20GHz,15.056
+AMD EPYC 7301,14.991
+AMD Ryzen 5 5625U,14.988
+AMD EPYC 7251,14.935
+Intel Xeon Silver 4116 @ 2.10GHz,14.931
+Intel Xeon E5-2699A v4 @ 2.40GHz,14.917
+Intel Xeon E5-2658A v3 @ 2.20GHz,14.879
+Intel Xeon D-1733NT @ 2.00GHz,14.849
+AMD Ryzen 7 1700,14.845
+Intel Core i3-12300,14.843
+Intel Core i7-10870H @ 2.20GHz,14.842
+Intel Xeon E5-1681 v3 @ 2.90GHz,14.820
+AMD Ryzen 5 PRO 4400GE,14.795
+Intel Core i9-10880H @ 2.30GHz,14.736
+Intel Xeon E5-2687W v3 @ 3.10GHz,14.716
+Intel Core i5-11600T @ 1.70GHz,14.713
+AMD Ryzen 7 2700E,14.657
+Intel Xeon Gold 5115 @ 2.40GHz,14.649
+Intel Xeon E5-2678 v3 @ 2.50GHz,14.645
+AMD Ryzen 5 4600H,14.625
+Intel Xeon E5-2683 v3 @ 2.00GHz,14.596
+AMD Ryzen 5 4600HS,14.588
+AMD Ryzen 7 PRO 1700,14.568
+Intel Core i7-9700K @ 3.60GHz,14.556
+Intel Core i7-8086K @ 4.00GHz,14.506
+Intel Core i9-9980HK @ 2.40GHz,14.505
+AMD Ryzen 5 PRO 5675U,14.498
+Intel Core i5-10600KF @ 4.10GHz,14.482
+Intel Core i5-10600K @ 4.10GHz,14.474
+Intel Xeon W-1250P @ 4.10GHz,14.440
+Intel Xeon Silver 4215 @ 2.50GHz,14.439
+Intel Xeon E5-2658 v4 @ 2.30GHz,14.434
+Intel Xeon Silver 4123 @ 3.00GHz,14.405
+Intel Core i7-6900K @ 3.20GHz,14.401
+Intel Core i7-9700KF @ 3.60GHz,14.398
+Intel Core i5-1240U,14.323
+Intel Core i3-12100F,14.321
+Intel Xeon W-2235 @ 3.80GHz,14.321
+Intel Xeon E5-2666 v3 @ 2.90GHz,14.309
+Intel Xeon E5-2697 v2 @ 2.70GHz,14.303
+Intel Xeon E-2236 @ 3.40GHz,14.297
+Intel Xeon E5-2696 v2 @ 2.50GHz,14.289
+Apple M1 8 Core 3200 MHz,14.265
+Intel Xeon E5-4660 v3 @ 2.10GHz,14.256
+Intel Xeon D-1732TE @ 1.90GHz,14.254
+Intel Core i3-13100,14.237
+Intel Xeon E5-2650 v4 @ 2.20GHz,14.190
+Intel Xeon E5-1680 v4 @ 3.40GHz,14.169
+Intel Xeon W-2135 @ 3.70GHz,14.161
+Intel Xeon E5-2673 v3 @ 2.40GHz,14.098
+Intel Xeon E-2246G @ 3.60GHz,14.050
+AMD Ryzen 5 2600X,13.987
+AMD EPYC 3251,13.965
+Intel Xeon E5-2667 v4 @ 3.20GHz,13.954
+Intel Core i9-9880H @ 2.30GHz,13.950
+Intel Xeon E-2186G @ 3.80GHz,13.940
+Intel Xeon Silver 4210 @ 2.20GHz,13.908
+Intel Core i3-12300T,13.898
+AMD Ryzen 3 PRO 5350G,13.898
+Intel Xeon W-1250E @ 3.50GHz,13.888
+Intel Xeon E-2374G @ 3.70GHz,13.860
+Intel Xeon E5-2676 v3 @ 2.40GHz,13.855
+Intel Xeon E5-2670 v3 @ 2.30GHz,13.846
+Intel Core i7-1255U,13.844
+Intel Core i3-12100,13.809
+Intel Xeon W-1250 @ 3.30GHz,13.801
+Intel Xeon E-2276G @ 3.80GHz,13.761
+Intel Core i7-8700K @ 3.70GHz,13.760
+Intel Core i5-10600 @ 3.30GHz,13.755
+Intel Core i7-1265U,13.747
+AMD Ryzen 3 PRO 5350GE,13.685
+Intel Core i5-1235U,13.677
+Intel Xeon E-2286G @ 4.00GHz,13.647
+AMD Ryzen 3 5300GE,13.636
+Intel Xeon E-2176G @ 3.70GHz,13.631
+Intel Xeon Gold 6128 @ 3.40GHz,13.605
+Intel Core i7-1250U,13.560
+Intel Xeon W-1270TE @ 2.00GHz,13.553
+AMD Ryzen 7 4700U,13.507
+Intel Core i9-9900T @ 2.10GHz,13.498
+Intel Xeon E5-2695 v2 @ 2.40GHz,13.497
+Intel Xeon E5-2658 v3 @ 2.20GHz,13.487
+AMD Ryzen 5 4600U,13.482
+Intel Xeon E5-2690 v2 @ 3.00GHz,13.463
+Intel Xeon E5-1660 v4 @ 3.20GHz,13.449
+Intel Core i7-9700F @ 3.00GHz,13.441
+Intel Xeon E-2136 @ 3.30GHz,13.381
+Intel Core i5-11400T @ 1.30GHz,13.354
+Intel Core i7-9700 @ 3.00GHz,13.323
+Intel Xeon D-1581 @ 1.80GHz,13.293
+Intel Xeon E-2146G @ 3.50GHz,13.273
+AMD Ryzen 5 PRO 2600,13.250
+AMD Ryzen 5 3500X,13.234
+AMD Ryzen 5 2600,13.231
+AMD Ryzen Embedded V2516,13.225
+Intel Xeon E5-1680 v3 @ 3.20GHz,13.214
+Intel Xeon E-2334 @ 3.40GHz,13.189
+AMD Ryzen 5 5500U,13.162
+Intel Core i5-11500T @ 1.50GHz,13.160
+Intel Core i5-1245U,13.108
+Intel Xeon D-2143IT @ 2.20GHz,13.107
+Intel Xeon E5-2660 v3 @ 2.60GHz,13.106
+AMD Ryzen 5 1600X,13.067
+AMD Ryzen 3 5300G,13.025
+Intel Core i7-8700 @ 3.20GHz,12.970
+Intel Xeon E5-4627 v4 @ 2.60GHz,12.969
+Intel Core i3-12100TE,12.961
+Intel Xeon E5-2685 v3 @ 2.60GHz,12.944
+Intel Core i7-10700T @ 2.00GHz,12.937
+Intel Core i7-1260U,12.935
+Intel Core i5-10500 @ 3.10GHz,12.910
+Intel Core i7-7800X @ 3.50GHz,12.906
+Intel Xeon W-10855M @ 2.80GHz,12.904
+Intel Xeon Silver 4114 @ 2.20GHz,12.883
+AMD Ryzen 5 3500,12.845
+Intel Xeon E5-2618L v4 @ 2.20GHz,12.816
+AMD Ryzen 5 PRO 4650U,12.801
+Intel Core i3-12100T,12.800
+Intel Core i7-9700E @ 2.60GHz,12.751
+Intel Xeon E5-1680 v2 @ 3.00GHz,12.747
+Intel Core i7-5960X @ 3.00GHz,12.739
+AMD Ryzen 3 3300X,12.689
+Intel Xeon E5-2680 v2 @ 2.80GHz,12.632
+Intel Xeon W-2133 @ 3.60GHz,12.574
+Intel Xeon E5-2667 v3 @ 3.20GHz,12.550
+Intel Xeon W-11555MLE @ 1.90GHz,12.505
+Intel Xeon E5-2649 v3 @ 2.30GHz,12.399
+Intel Core i5-10400F @ 2.90GHz,12.353
+Intel Core i5-10505 @ 3.20GHz,12.351
+Intel Xeon E5-1660 v3 @ 3.00GHz,12.330
+AMD Ryzen 5 1600,12.297
+Intel Core i7-11375H @ 3.30GHz,12.280
+Intel Core i5-10400 @ 2.90GHz,12.273
+Intel Xeon E5-2667 v2 @ 3.30GHz,12.223
+Intel Core i7-10750H @ 2.60GHz,12.169
+Intel Xeon E5-2687W v2 @ 3.40GHz,12.163
+Intel Xeon E5-2673 v2 @ 3.30GHz,12.128
+Intel Xeon E5-2692 v2 @ 2.20GHz,12.119
+Intel Xeon D-2141I @ 2.20GHz,12.117
+Intel Core i7-8700B @ 3.20GHz,12.117
+Intel Xeon E5-2640 v4 @ 2.40GHz,12.097
+AMD Ryzen 5 PRO 4500U,12.049
+Intel Core i7-10850H @ 2.70GHz,12.027
+Intel Xeon E-2278GEL @ 2.00GHz,12.024
+Intel Xeon E5-2675 v3 @ 1.80GHz,11.960
+Intel Core i7-11370H @ 3.30GHz,11.918
+Snapdragon 8cx Gen 3 @ 3.0 GHz,11.854
+Intel Xeon E5-2650 v3 @ 2.30GHz,11.821
+AMD Ryzen 3 7330U,11.816
+Intel Xeon E5-2650L v3 @ 1.80GHz,11.806
+Intel Xeon E5-2663 v3 @ 2.80GHz,11.777
+Intel Xeon D-2146NT @ 2.30GHz,11.736
+AMD Ryzen 3 5425U,11.732
+Intel Xeon E-2276M @ 2.80GHz,11.710
+Intel Xeon E5-2630 v4 @ 2.20GHz,11.684
+Intel Xeon D-1577 @ 1.30GHz,11.645
+AMD Ryzen 3 3100,11.645
+Intel Xeon Platinum 8369B @ 2.70GHz,11.613
+Intel Xeon E5-2648L v4 @ 1.80GHz,11.547
+Intel Xeon E5-4669 v4 @ 2.20GHz,11.523
+Intel Core i5-10500H @ 2.50GHz,11.505
+Intel Xeon E5-1650 v4 @ 3.60GHz,11.463
+Intel Core i3-1215U,11.453
+Intel Xeon E5-2670 v2 @ 2.50GHz,11.436
+Intel Xeon E5-2650L v4 @ 1.70GHz,11.436
+Intel Xeon E-2186M @ 2.90GHz,11.436
+Intel Core i7-6850K @ 3.60GHz,11.401
+Intel Core i7-9850H @ 2.60GHz,11.383
+Intel Core i5-1245UE,11.372
+Intel Core i3-11100B @ 3.60GHz,11.357
+Intel Xeon E5-4657L v2 @ 2.40GHz,11.353
+Intel Xeon E5-2640 v3 @ 2.60GHz,11.349
+Intel Xeon E5-4627 v3 @ 2.60GHz,11.344
+Intel Core i3-1210U,11.341
+AMD Ryzen 3 PRO 5475U,11.337
+AMD Ryzen 3 PRO 4200G,11.315
+AMD Ryzen 3 PRO 5450U,11.275
+AMD Ryzen 3 4300GE,11.213
+Intel Core i5-10600T @ 2.40GHz,11.210
+Intel Xeon Silver 4208 @ 2.10GHz,11.141
+AMD Ryzen 3 4100,11.133
+Intel Core i5-1230U,11.105
+Intel Core i7-9750HF @ 2.60GHz,11.087
+Intel Xeon E5-2643 v4 @ 3.40GHz,11.087
+Intel Core i7-9750H @ 2.60GHz,11.084
+Intel Xeon Silver 4209T @ 2.20GHz,11.080
+AMD Ryzen 3 PRO 4350GE,11.079
+Intel Xeon E5-2628L v4 @ 1.90GHz,11.079
+AMD Ryzen 5 4500U,11.048
+Intel Core i5-11300H @ 3.10GHz,11.048
+Intel Xeon E-2226G @ 3.40GHz,11.036
+AMD Ryzen 3 4300G,11.028
+Intel Core i7-1195G7 @ 2.90GHz,11.017
+Intel Core i5-11320H @ 3.20GHz,11.005
+Intel Xeon E5-4650 v2 @ 2.40GHz,11.001
+AMD Ryzen 3 PRO 4350G,10.988
+AMD Ryzen 3 PRO 4200GE,10.930
+Intel Xeon E-2176M @ 2.70GHz,10.916
+Intel Xeon E5-2618L v3 @ 2.30GHz,10.881
+Apple A12X Bionic,10.871
+Intel Xeon E5-2630L v4 @ 1.80GHz,10.864
+Intel Xeon E5-4650 v3 @ 2.10GHz,10.838
+Intel Core i5-10500E @ 3.10GHz,10.827
+Intel Core i5-9600KF @ 3.70GHz,10.800
+Intel Core i7-6800K @ 3.40GHz,10.766
+Intel Core i5-9600K @ 3.70GHz,10.761
+Intel Core i7-9700T @ 2.00GHz,10.752
+Intel Xeon E-2126G @ 3.30GHz,10.747
+Intel Core i7-9700TE @ 1.80GHz,10.740
+Intel Core i9-8950HK @ 2.90GHz,10.719
+Intel Xeon W-2225 @ 4.10GHz,10.702
+Intel Core i7-1185G7 @ 3.00GHz,10.664
+AMD Ryzen 3 5400U,10.615
+Intel Xeon E-2324G @ 3.10GHz,10.603
+Intel Xeon E5-2660 v2 @ 2.20GHz,10.536
+Intel Xeon E5-4620 v3 @ 2.00GHz,10.525
+Intel Core i7-11390H @ 3.40GHz,10.506
+Intel Xeon E5-2643 v3 @ 3.40GHz,10.486
+Intel Xeon D-1567 @ 2.10GHz,10.447
+Intel Core i7-1165G7 @ 2.80GHz,10.447
+Intel Xeon E5-2470 v2 @ 2.40GHz,10.444
+Intel Xeon E5-2630 v3 @ 2.40GHz,10.433
+Intel Xeon E5-1650 v3 @ 3.50GHz,10.427
+Intel Core i5-1145G7E @ 2.60GHz,10.404
+AMD Ryzen 5 PRO 1600,10.401
+Intel Xeon E5-2658 v2 @ 2.40GHz,10.400
+Intel Core i5-9600 @ 3.10GHz,10.395
+Intel Xeon E5-1660 v2 @ 3.70GHz,10.391
+Intel Core i7-8700T @ 2.40GHz,10.374
+Intel Xeon E5-4640 v3 @ 1.90GHz,10.372
+Intel Core i3-10325 @ 3.90GHz,10.354
+Intel Xeon Silver 4109T @ 2.00GHz,10.348
+Intel Core i7-8850H @ 2.60GHz,10.338
+Intel Core i7-5930K @ 3.50GHz,10.331
+Intel Core i5-9500F @ 3.00GHz,10.265
+Intel Core i5-8600K @ 3.60GHz,10.249
+Intel Core i5-10500T @ 2.30GHz,10.212
+Intel Core i7-1185G7E @ 2.80GHz,10.193
+Intel Xeon D-1541 @ 2.10GHz,10.154
+Intel Core i5-1155G7 @ 2.50GHz,10.135
+Intel Core i5-1145G7 @ 2.60GHz,10.097
+Intel Core i7-4960X @ 3.60GHz,10.087
+Intel Core i3-10320 @ 3.80GHz,10.068
+AMD Ryzen 3 PRO 4450U,10.066
+Intel Xeon D-1540 @ 2.00GHz,10.040
+Intel Core i7-8750H @ 2.20GHz,10.029
+Intel Core i5-1135G7 @ 2.40GHz,9.995
+Intel Xeon W-2125 @ 4.00GHz,9.985
+Intel Xeon E5-2650 v2 @ 2.60GHz,9.976
+Intel Core i5-10400T @ 2.00GHz,9.963
+Intel Core i5-10500TE @ 2.30GHz,9.960
+AMD Ryzen 3 5300U,9.958
+Intel Xeon Silver 4110 @ 2.10GHz,9.956
+Intel Xeon E5-2687W @ 3.10GHz,9.951
+Intel Xeon E5-2628L v3 @ 2.00GHz,9.949
+Intel Core i5-8600 @ 3.10GHz,9.926
+Intel Xeon E-2234 @ 3.60GHz,9.903
+Intel Core i7-1068NG7 @ 2.30GHz,9.889
+Intel Core i3-1125G4 @ 2.00GHz,9.884
+Intel Core i7-10710U @ 1.10GHz,9.879
+Intel Xeon E5-2648L v3 @ 1.80GHz,9.847
+Intel Core i7-7740X @ 4.30GHz,9.834
+Intel Core i7-5820K @ 3.30GHz,9.832
+Intel Core i5-1140G7 @ 1.10GHz,9.816
+Intel Xeon E-2244G @ 3.80GHz,9.794
+Intel Xeon E5-2690 @ 2.90GHz,9.791
+Intel Core i5-9500 @ 3.00GHz,9.783
+Intel Xeon E5-2689 @ 2.60GHz,9.760
+Intel Xeon E-2274G @ 4.00GHz,9.712
+Intel Core i7-7700K @ 4.20GHz,9.658
+AMD Ryzen 5 PRO 3350GE,9.643
+Hygon C86 3185 8-core,9.627
+Intel Xeon D-1718T @ 2.60GHz,9.610
+Intel Xeon E-2174G @ 3.80GHz,9.590
+Intel Core i5-8500 @ 3.00GHz,9.578
+Intel Xeon Gold 5222 @ 3.80GHz,9.558
+Intel Xeon E5-4620 v2 @ 2.60GHz,9.540
+Intel Core i5-9400F @ 2.90GHz,9.532
+AMD Ryzen 5 2500X,9.482
+Intel Core i5-9400 @ 2.90GHz,9.457
+Intel Core i5-1038NG7 @ 2.00GHz,9.424
+Intel Xeon E5-2680 @ 2.70GHz,9.400
+Intel Core i3-10300 @ 3.70GHz,9.393
+Intel Core i7-1265UE,9.392
+Intel Core i7-4930K @ 3.40GHz,9.379
+Intel Xeon E5-4655 v3 @ 2.90GHz,9.377
+AMD Ryzen 5 PRO 3350G,9.354
+AMD Ryzen 5 3350GE,9.343
+Intel Xeon E-2144G @ 3.60GHz,9.322
+Intel Xeon E5-4627 v2 @ 3.30GHz,9.320
+AMD Ryzen 5 3400G,9.314
+Intel Xeon E5-1650 v2 @ 3.50GHz,9.303
+AMD Ryzen 5 PRO 1500,9.279
+Intel Core i5-9600T @ 2.30GHz,9.259
+Intel Core i5-8400 @ 2.80GHz,9.249
+Intel Xeon E5-2620 v4 @ 2.10GHz,9.224
+Intel Xeon D-1587 @ 1.70GHz,9.223
+Intel Xeon E5-2651 v2 @ 1.80GHz,9.216
+AMD Ryzen 5 PRO 3400G,9.213
+Intel Core i7-1160G7 @ 1.20GHz,9.205
+Intel Xeon E3-1275 v6 @ 3.80GHz,9.202
+Intel Core i5-1145GRE @ 2.60GHz,9.169
+Intel Core i7-1185GRE @ 2.80GHz,9.142
+Intel Xeon E5-2629 v3 @ 2.40GHz,9.139
+Intel Xeon E5-2643 v2 @ 3.50GHz,9.134
+Intel Core i7-9850HL @ 1.90GHz,9.112
+Intel Core i3-10305 @ 3.80GHz,9.108
+Intel Xeon D-1715TER @ 2.40GHz,9.104
+AMD Ryzen 5 1500X,9.103
+AMD Ryzen 5 3350G,9.102
+Intel Core i3-10105F @ 3.70GHz,9.086
+Intel Core i5-8500B @ 3.00GHz,9.078
+Intel Xeon D-1548 @ 2.00GHz,9.075
+AMD Ryzen 3 7320U,9.064
+Intel Xeon E5-4648 v3 @ 1.70GHz,9.061
+Intel Xeon E5-2450 v2 @ 2.50GHz,9.060
+Intel Core i5-9500TE @ 2.20GHz,9.028
+Intel Core i3-1215UE,8.987
+Intel Xeon E-2134 @ 3.50GHz,8.960
+Intel Core i5-1130G7 @ 1.10GHz,8.947
+Intel Core i7-6700K @ 4.00GHz,8.947
+Intel Xeon E5-2670 @ 2.60GHz,8.946
+Intel Xeon E3-1280 v6 @ 3.90GHz,8.940
+AMD Ryzen 5 3400GE,8.922
+Intel Xeon E5-2630L v3 @ 1.80GHz,8.915
+Intel Xeon E3-1270 v6 @ 3.80GHz,8.891
+Intel Core i5-3170K @ 3.20GHz,8.882
+Intel Core i5-10400H @ 2.60GHz,8.865
+Intel Core i3-10100F @ 3.60GHz,8.840
+Intel Xeon Gold 5122 @ 3.60GHz,8.786
+Intel Xeon Silver 4108 @ 1.80GHz,8.736
+AMD Ryzen 5 2400G,8.736
+Intel Core i3-10100 @ 3.60GHz,8.734
+Intel Xeon E3-1240 v6 @ 3.70GHz,8.696
+Intel Core i7-8559U @ 2.70GHz,8.693
+Intel Core i3-10105 @ 3.70GHz,8.691
+ARM X-Gene 32 Core 3300 MHz,8.684
+Intel Xeon E3-1245 v6 @ 3.70GHz,8.666
+Intel Xeon W-2223 @ 3.60GHz,8.663
+Intel Core i7-8809G @ 3.10GHz,8.658
+Intel Core i7-7700 @ 3.60GHz,8.654
+Intel Atom C5125,8.631
+Intel Xeon E5-4650 @ 2.70GHz,8.630
+Intel Xeon E5-2648L v2 @ 1.90GHz,8.611
+Intel Core i5-10300H @ 2.50GHz,8.602
+Intel Core i5-8600T @ 2.30GHz,8.597
+Intel Core i5-1035G7 @ 1.20GHz,8.565
+AMD EPYC 3201,8.545
+Intel Xeon E3-1285 v6 @ 4.10GHz,8.536
+Apple A14 Bionic,8.523
+Intel Xeon W-2123 @ 3.60GHz,8.503
+Intel Core i7-1065G7 @ 1.30GHz,8.491
+AMD Ryzen Embedded V1807B,8.491
+Intel Xeon E5-4650L @ 2.60GHz,8.472
+Intel Core i7-3960X @ 3.30GHz,8.460
+Intel Xeon E3-1275 v5 @ 3.60GHz,8.452
+Intel Xeon E5-2628 v3 @ 2.50GHz,8.447
+Intel Xeon E5-2665 @ 2.40GHz,8.441
+Intel Xeon E5-1660 @ 3.30GHz,8.422
+Intel Xeon E3-1585 v5 @ 3.50GHz,8.408
+Intel Core i7-8569U @ 2.80GHz,8.408
+Intel Core i7-3970X @ 3.50GHz,8.391
+Intel Core i7-8706G @ 3.10GHz,8.388
+AMD Ryzen 5 PRO 2400G,8.383
+Intel Xeon E3-1280 v5 @ 3.70GHz,8.377
+Intel Core i7-1180G7 @ 1.30GHz,8.358
+Intel Core i5-10200H @ 2.40GHz,8.346
+AMD Opteron 6386 SE,8.320
+Intel Xeon E3-1240 v5 @ 3.50GHz,8.316
+Intel Xeon E3-1270 v5 @ 3.60GHz,8.309
+Intel Xeon E5-2470 @ 2.30GHz,8.296
+Intel Core i5-9400H @ 2.50GHz,8.288
+Intel Core i5-9500T @ 2.20GHz,8.272
+AMD Ryzen 5 PRO 3400GE,8.266
+Intel Core i7-3930K @ 3.20GHz,8.261
+Intel Core i3-10100E @ 3.20GHz,8.229
+AMD Ryzen 7 3750H,8.225
+AMD Ryzen Embedded V1756B,8.216
+Intel Xeon E3-1260L v5 @ 2.90GHz,8.208
+Intel Core i3-10300T @ 3.00GHz,8.205
+ARM X-Gene 32 Core 3000 MHz,8.202
+Intel Xeon E3-1230 v6 @ 3.50GHz,8.194
+Intel Xeon E-2314 @ 2.80GHz,8.187
+Intel Xeon E-2276ME @ 2.80GHz,8.167
+Intel Core i7-10810U @ 1.10GHz,8.136
+Intel Core i3-10305T @ 3.00GHz,8.136
+Intel Xeon E5-2660 @ 2.20GHz,8.115
+Intel Core i7-6700 @ 3.40GHz,8.096
+Intel Xeon E5-1650 @ 3.20GHz,8.094
+Intel Core i5-8259U @ 2.30GHz,8.078
+Intel Xeon E3-1285L v4 @ 3.40GHz,8.074
+AMD Athlon Gold PRO 4150GE,8.070
+Intel Core i7-4790K @ 4.00GHz,8.060
+Intel Core i5-8269U @ 2.60GHz,8.055
+Intel Core i5-1035G4 @ 1.10GHz,8.047
+Intel Xeon E3-1535M v6 @ 3.10GHz,8.046
+AMD Opteron 6348,8.030
+Intel Xeon E3-1230 v5 @ 3.40GHz,8.027
+Intel Xeon E3-1585L v5 @ 3.00GHz,8.021
+Intel Xeon E3-1245 v5 @ 3.50GHz,8.017
+Intel Core i3-10100TE @ 2.30GHz,8.016
+CentaurHauls @2500MHz,7.969
+Intel Core i3-10105T @ 3.00GHz,7.964
+Intel Core i7-8557U @ 1.70GHz,7.940
+Intel Xeon E3-1515M v5 @ 2.80GHz,7.938
+Intel Core i5-8400H @ 2.50GHz,7.933
+Intel Xeon E3-1545M v5 @ 2.90GHz,7.925
+Intel Core i7-8709G @ 3.10GHz,7.921
+AMD Ryzen 5 3550H,7.910
+Intel Core i7-5775R @ 3.30GHz,7.890
+AMD Ryzen 5 2600H,7.876
+Intel Xeon E5-2620 v3 @ 2.40GHz,7.862
+Intel Xeon E5-2640 v2 @ 2.00GHz,7.820
+Intel Core i5-8260U @ 1.60GHz,7.808
+Intel Core i5-9400T @ 1.80GHz,7.807
+Intel Core i7-5775C @ 3.30GHz,7.803
+Intel Core i5-8279U @ 2.40GHz,7.788
+Intel Core i7-8705G @ 3.10GHz,7.782
+AMD Ryzen 5 1400,7.767
+Intel Xeon E3-1575M v5 @ 3.00GHz,7.752
+Intel Core i5-8500T @ 2.10GHz,7.752
+Intel Core i3-9350K @ 4.00GHz,7.722
+Intel Core i5-9300H @ 2.40GHz,7.717
+Intel Xeon E3-1285 v4 @ 3.50GHz,7.712
+AMD Athlon Gold PRO 3150G,7.702
+Intel Core i7-5950HQ @ 2.90GHz,7.696
+Intel Xeon E5-1630 v4 @ 3.70GHz,7.689
+AMD Ryzen 5 3550U,7.681
+Intel Xeon E3-1270L v4 @ 3.00GHz,7.662
+MediaTek MT6895,7.660
+AMD Ryzen 7 2800H,7.656
+Intel Core i5-8257U @ 1.40GHz,7.642
+Intel Xeon E-2224G @ 3.50GHz,7.621
+Intel Pentium Gold 8505,7.600
+AMD Ryzen 3 2300X,7.598
+"Qualcomm Technologies, Inc KONA-IOT",7.592
+Intel Core i5-1035G1 @ 1.00GHz,7.564
+MediaTek MT6983,7.564
+Intel Core i3-9350KF @ 4.00GHz,7.547
+Intel Core i5-9300HF @ 2.40GHz,7.545
+Intel Xeon E3-1271 v3 @ 3.60GHz,7.538
+Intel Core i7-7700T @ 2.90GHz,7.536
+Intel Xeon E5-2450 @ 2.10GHz,7.530
+Intel Xeon E3-1535M v5 @ 2.90GHz,7.520
+Intel Core i5-8300H @ 2.30GHz,7.515
+AMD Ryzen 3 4300U,7.514
+Intel Xeon E5-2630 v2 @ 2.60GHz,7.510
+Intel Core i5-8400T @ 1.70GHz,7.493
+Intel Core i7-7820HK @ 2.90GHz,7.489
+Intel Xeon D-1531 @ 2.20GHz,7.483
+Intel Xeon E5-2667 @ 2.90GHz,7.477
+AMD Ryzen 5 2400GE,7.472
+Intel Xeon E-2124G @ 3.40GHz,7.470
+Intel Xeon E3-1281 v3 @ 3.70GHz,7.463
+AMD Ryzen 5 PRO 2400GE,7.460
+Intel Xeon E5-2637 v3 @ 3.50GHz,7.455
+Intel Core i7-7820EQ @ 3.00GHz,7.453
+Intel Xeon E5-2650L v2 @ 1.70GHz,7.450
+Intel Xeon E5-2608L v4 @ 1.60GHz,7.447
+Intel Xeon E5-1630 v3 @ 3.70GHz,7.419
+Intel Xeon E3-1286 v3 @ 3.70GHz,7.418
+Intel Core i7-7920HQ @ 3.10GHz,7.413
+Intel Xeon E5-1620 v4 @ 3.50GHz,7.389
+Intel Core i7-6920HQ @ 2.90GHz,7.365
+Intel Xeon E3-1276 v3 @ 3.60GHz,7.364
+Intel Xeon @ 2.00GHz,7.363
+Intel Core i3-10100T @ 3.00GHz,7.362
+Intel Core i3-9320 @ 3.70GHz,7.358
+AMD Ryzen 5 3580U,7.357
+Intel Xeon E3-1280 v3 @ 3.60GHz,7.356
+Intel Xeon E5-2650 @ 2.00GHz,7.354
+Intel Xeon D-1559 @ 1.50GHz,7.353
+Intel Xeon E3-1270 v3 @ 3.50GHz,7.332
+Intel Xeon E5-2637 v4 @ 3.50GHz,7.322
+AMD Ryzen 7 PRO 2700U,7.320
+AMD Ryzen 3 3200GE,7.312
+AMD Ryzen 7 PRO 3700U,7.297
+Intel Core i7-995X @ 3.60GHz,7.297
+AMD Opteron 6281,7.279
+Intel Core i3-9300 @ 3.70GHz,7.279
+Intel Xeon E-2224 @ 3.40GHz,7.268
+Intel Xeon E3-1246 v3 @ 3.50GHz,7.259
+Intel Xeon E3-1505M v6 @ 3.00GHz,7.242
+AMD Ryzen 3 PRO 1300,7.234
+Intel Core i7-6700T @ 2.80GHz,7.233
+Intel Xeon E5-4610 v3 @ 1.70GHz,7.229
+Intel Core i7-4790 @ 3.60GHz,7.227
+Intel Xeon W3690 @ 3.47GHz,7.226
+AMD Ryzen 7 3700U,7.223
+Intel Xeon E3-1275 v3 @ 3.50GHz,7.183
+Intel Xeon E5-2628L v2 @ 1.90GHz,7.181
+AMD Ryzen 3 3200G,7.177
+Intel Xeon D-1537 @ 1.70GHz,7.176
+Intel Xeon D-1539 @ 1.60GHz,7.175
+Intel Xeon D-2712T @ 1.90GHz,7.166
+Intel Core i7-7820HQ @ 2.90GHz,7.157
+Intel Xeon E5-2430 v2 @ 2.50GHz,7.147
+AMD Ryzen 7 3700C,7.145
+Intel Xeon E3-1241 v3 @ 3.50GHz,7.124
+Intel Core i7-4940MX @ 3.10GHz,7.123
+Intel Core i7-4770K @ 3.50GHz,7.122
+Intel Xeon D-1557 @ 1.50GHz,7.118
+Intel Core i7-6770HQ @ 2.60GHz,7.105
+Intel Core i7-4771 @ 3.50GHz,7.099
+Intel Xeon X5679 @ 3.20GHz,7.095
+AMD Athlon Gold 3150G,7.093
+MT6893Z_B/CZA,7.081
+Intel Xeon E3-1240 v3 @ 3.40GHz,7.073
+AMD Ryzen 3 PRO 3200GE,7.071
+Intel Core i7-4770 @ 3.40GHz,7.067
+Intel Core i7-990X @ 3.47GHz,7.051
+Intel Xeon E3-1505M v5 @ 2.80GHz,7.041
+Intel Core i7-5850EQ @ 2.70GHz,7.036
+AMD Ryzen 5 3500U,7.034
+Intel Xeon E3-1231 v3 @ 3.40GHz,7.034
+Intel Xeon E3-1245 v3 @ 3.40GHz,7.017
+Intel Xeon E5-4640 @ 2.40GHz,7.012
+AMD Athlon Gold PRO 3150GE,7.006
+Intel Core i7-6820EQ @ 2.80GHz,7.006
+AMD Ryzen 7 2700U,7.006
+Intel Xeon E5-1620 v3 @ 3.50GHz,6.999
+Intel Xeon E-2124 @ 3.30GHz,6.997
+Intel Core i7-4790S @ 3.20GHz,6.993
+Intel Xeon E5-4607 v2 @ 2.60GHz,6.986
+AMD Ryzen 3 PRO 3200G,6.984
+Intel Core i5-8305G @ 2.80GHz,6.984
+Intel Xeon E3-1285 v3 @ 3.60GHz,6.974
+AMD Ryzen 5 PRO 3500U,6.972
+Intel Core i7-7700HQ @ 2.80GHz,6.963
+Intel Xeon X5690 @ 3.47GHz,6.961
+AMD Ryzen 3 1300X,6.955
+Intel Core i3-8350K @ 4.00GHz,6.954
+Intel Xeon E3-1265L v4 @ 2.30GHz,6.954
+Intel Core i7-6820HK @ 2.70GHz,6.953
+Intel Core i7-1060NG7 @ 1.20GHz,6.927
+Intel Xeon E5-2440 v2 @ 1.90GHz,6.927
+Intel Core i7-4930MX @ 3.00GHz,6.927
+AMD Opteron 6287 SE,6.925
+Intel Xeon E5-2623 v4 @ 2.60GHz,6.923
+Intel Core i7-10610U @ 1.80GHz,6.915
+vendor Kirin9000,6.914
+Intel Xeon W3680 @ 3.33GHz,6.895
+Intel Core i7-6820HQ @ 2.70GHz,6.879
+AMD Ryzen 7 3780U,6.875
+Intel Core i7-980 @ 3.33GHz,6.871
+Intel Core i7-5850HQ @ 2.70GHz,6.866
+Intel Xeon E5-2623 v3 @ 3.00GHz,6.866
+Intel Core i5-7600K @ 3.80GHz,6.843
+Intel Xeon D-2123IT @ 2.20GHz,6.841
+Intel Xeon E5-4620 @ 2.20GHz,6.830
+Intel Core i7-980X @ 3.33GHz,6.827
+Intel Xeon E3-1285L v3 @ 3.10GHz,6.819
+Intel Xeon E3-1230 v3 @ 3.30GHz,6.814
+Intel Core i7-6700TE @ 2.40GHz,6.801
+Intel Xeon X5680 @ 3.33GHz,6.797
+Intel Core i5-7640X @ 4.00GHz,6.791
+AMD Ryzen 5 3450U,6.783
+Intel Xeon E5-2448L v2 @ 1.80GHz,6.774
+AMD Ryzen 3 2200G,6.773
+Intel Core i3-9100F @ 3.60GHz,6.770
+Intel Pentium Gold G7400,6.769
+Intel Core i7-4770S @ 3.10GHz,6.765
+AMD FX-9590 Eight-Core,6.758
+AMD Ryzen 3 PRO 2200G,6.756
+Intel Core i7-4980HQ @ 2.80GHz,6.736
+Intel Core i7-10510U @ 1.80GHz,6.735
+Intel Core i7-4960HQ @ 2.60GHz,6.731
+AMD Ryzen Embedded V1605B,6.708
+AMD Opteron 6380,6.685
+Intel Core i3-9100 @ 3.60GHz,6.680
+AMD Ryzen 5 PRO 2500U,6.670
+Intel Xeon Platinum 8151 @ 3.40GHz,6.591
+Intel Xeon E3-1275 V2 @ 3.50GHz,6.589
+"Qualcomm Technologies, Inc SM8350AC",6.588
+Intel Core i5-7600 @ 3.50GHz,6.588
+AMD Ryzen Embedded R2314,6.584
+Intel Xeon E5-1428L v2 @ 2.20GHz,6.566
+"Qualcomm Technologies, Inc SA8195P",6.554
+Intel Core i7-4770R @ 3.20GHz,6.549
+Intel Xeon E3-1280 V2 @ 3.60GHz,6.534
+Intel Xeon E5-1620 v2 @ 3.70GHz,6.533
+AMD Ryzen 5 2500U,6.523
+Intel Core i7-6700HQ @ 2.60GHz,6.521
+Intel Xeon E5-2630L v2 @ 2.40GHz,6.519
+Intel Xeon E3-1290 V2 @ 3.70GHz,6.513
+Intel Core i5-10310U @ 1.70GHz,6.503
+Intel Core i7-970 @ 3.20GHz,6.501
+Intel Core i7-4820K @ 3.70GHz,6.492
+Intel Xeon W3670 @ 3.20GHz,6.485
+"Odin based on Qualcomm Technologies, Inc SM8350",6.472
+Intel Xeon E5-4610 @ 2.40GHz,6.460
+Intel Xeon E3-1286L v3 @ 3.20GHz,6.450
+Intel Core i7-3770K @ 3.50GHz,6.449
+Snapdragon 8cx Gen 2 @ 3.0 GHz,6.448
+Intel Xeon E3-1270 V2 @ 3.50GHz,6.441
+MT6893Z/CZA,6.440
+Virtual @ 2.99GHz,6.419
+Intel Xeon E5-2608L v3 @ 2.00GHz,6.415
+Intel Core i7-4870HQ @ 2.50GHz,6.413
+Intel Xeon X5675 @ 3.07GHz,6.408
+Intel Core i7-3770 @ 3.40GHz,6.400
+Intel Xeon D-1528 @ 1.90GHz,6.396
+Intel Xeon E5-2637 v2 @ 3.50GHz,6.390
+AMD Opteron 6282 SE,6.385
+Intel Xeon Silver 4112 @ 2.60GHz,6.379
+"Qualcomm Technologies, Inc SM8250_AC",6.373
+"taoyao based Qualcomm Technologies, Inc. Yupik IDP",6.359
+Intel Xeon E-2276ML @ 2.00GHz,6.353
+MT6893Z_Z/CZA,6.349
+Intel Core i5-6600K @ 3.50GHz,6.347
+Intel Xeon E3-1245 V2 @ 3.40GHz,6.341
+Intel Xeon E3-1240 V2 @ 3.40GHz,6.333
+Intel Xeon E-2254ML @ 1.70GHz,6.333
+Intel Core i7-4790T @ 2.70GHz,6.333
+Intel Xeon E3-1225 v6 @ 3.30GHz,6.323
+Intel Core i5-10210U @ 1.60GHz,6.322
+Intel Xeon E5-2420 v2 @ 2.20GHz,6.319
+AMD Ryzen 3 1200,6.311
+AMD Ryzen 3 PRO 1200,6.307
+Intel Core i7-8650U @ 1.90GHz,6.305
+Intel Core i7-4760HQ @ 2.10GHz,6.300
+Intel Xeon E5-4617 @ 2.90GHz,6.298
+Intel Xeon E5-2640 @ 2.50GHz,6.284
+Intel Core i5-8365U @ 1.60GHz,6.277
+Intel Core i3-8300 @ 3.70GHz,6.269
+Intel Xeon E5-2620 v2 @ 2.10GHz,6.263
+Intel Core i7-8665U @ 1.90GHz,6.258
+Intel Core i7-4910MQ @ 2.90GHz,6.252
+Intel Core i5-8350U @ 1.70GHz,6.252
+AMD Opteron 6276,6.245
+AMD Ryzen Embedded V1404I,6.241
+Intel Core i7-4850HQ @ 2.30GHz,6.238
+vendor Kirin9000E,6.235
+Intel Core i7-4860HQ @ 2.40GHz,6.232
+Intel Core i7-8565U @ 1.80GHz,6.221
+Intel Xeon D-1622 @ 2.60GHz,6.205
+Intel Xeon E3-1230 V2 @ 3.30GHz,6.202
+Intel Core i3-1115G4 @ 3.00GHz,6.193
+Intel Core i7-8565UC @ 1.80GHz,6.187
+Intel Xeon E3-1265L v3 @ 2.50GHz,6.179
+AMD FX-8370 Eight-Core,6.175
+Intel Xeon E3-1240L v5 @ 2.10GHz,6.173
+Intel Core i3-8100 @ 3.60GHz,6.172
+Snapdragon 8cx Gen 2 @ 3.15 GHz,6.171
+Intel Core i7-3770S @ 3.10GHz,6.167
+Intel Core i3-9300T @ 3.20GHz,6.162
+SM7325,6.152
+MT6893Z_C/CZA,6.139
+Intel Core i7-4900MQ @ 2.80GHz,6.137
+MT6891Z/CZA,6.137
+AMD Ryzen 3 PRO 3300U,6.137
+Intel Core i7-4770HQ @ 2.20GHz,6.122
+SM8350,6.105
+Intel Xeon X5670 @ 2.93GHz,6.102
+Intel Xeon E5-2630 @ 2.30GHz,6.093
+Intel Core i7-5675C @ 3.10GHz,6.089
+Intel Xeon E3-1505L v6 @ 2.20GHz,6.088
+Intel Xeon E3-1268L v5 @ 2.40GHz,6.079
+Intel Xeon X5660 @ 2.80GHz,6.074
+Intel Xeon E5-2658 @ 2.10GHz,6.073
+MT8797Z/CNZA,6.071
+AMD Opteron 6344,6.069
+AMD Ryzen 3 PRO 2200GE,6.066
+Intel Xeon E3-1275L v3 @ 2.70GHz,6.065
+Intel Core i7-4810MQ @ 2.80GHz,6.056
+Intel Core i3-8100B @ 3.60GHz,6.051
+Intel Xeon E5-2440 @ 2.40GHz,6.051
+AMD EPYC 3101 4-Core,6.050
+Intel Core i5-8265U @ 1.60GHz,6.047
+"Qualcomm Technologies, Inc SM8350",6.047
+Rockchip RK3588,6.039
+Intel Core i5-6600 @ 3.30GHz,6.039
+Intel Core i5-7500 @ 3.40GHz,6.037
+AMD Ryzen 3 2200GE,6.031
+MT6893Z_A/CZA,6.029
+AMD FX-8350 Eight-Core,6.023
+AMD FX-9370 Eight-Core,6.022
+Intel Core i7-5700HQ @ 2.70GHz,6.018
+Intel Xeon E5-2650L @ 1.80GHz,6.005
+Intel Core i5-8265UC @ 1.60GHz,5.988
+Intel Core i7-3940XM @ 3.00GHz,5.983
+AMD Ryzen 3 PRO 2300U,5.977
+Intel Core i7-8550U @ 1.80GHz,5.950
+Intel Xeon E-2104G @ 3.20GHz,5.944
+Intel Xeon E3-1225 v5 @ 3.30GHz,5.934
+Intel Core i5-7600T @ 2.80GHz,5.933
+Intel Xeon E5-2430L v2 @ 2.40GHz,5.903
+Intel Core i7-3840QM @ 2.80GHz,5.899
+Intel Xeon D-1521 @ 2.40GHz,5.897
+Intel Core i5-1030NG7 @ 1.10GHz,5.896
+Intel Core i5-8250U @ 1.60GHz,5.896
+AMD Ryzen 3 3350U,5.892
+AMD Opteron 6378,5.889
+Intel Xeon E5-2450L @ 1.80GHz,5.880
+vendor Kirin990,5.878
+Intel Core i7-4770T @ 2.50GHz,5.873
+Intel Core i3-8300T @ 3.20GHz,5.867
+Intel Xeon E5-1620 @ 3.60GHz,5.857
+Intel Core i7-4710MQ @ 2.50GHz,5.843
+Intel Core i7-4800MQ @ 2.70GHz,5.827
+Intel Pentium Gold G7400T,5.816
+Intel Core i7-5700EQ @ 2.60GHz,5.803
+Intel Core i7-3820 @ 3.60GHz,5.794
+MT6891,5.791
+Intel Core i3-1115G4E @ 3.00GHz,5.790
+AMD Opteron 4274 HE,5.776
+Intel Core i7-3820QM @ 2.70GHz,5.771
+Intel Xeon Bronze 3106 @ 1.70GHz,5.769
+"Qualcomm Technologies, Inc SM8250",5.767
+Microsoft SQ2 @ 3.15 GHz,5.762
+Intel Xeon E3-1220 v5 @ 3.00GHz,5.759
+Intel Core i7-4720HQ @ 2.60GHz,5.750
+MT8195AV/ZA,5.735
+Intel Xeon W-2104 @ 3.20GHz,5.726
+Intel Core i7-3740QM @ 2.70GHz,5.725
+Intel Core i5-7440EQ @ 2.90GHz,5.711
+Intel Xeon E3-1220 v6 @ 3.00GHz,5.711
+Intel Xeon X5650 @ 2.67GHz,5.701
+MT6893Z_D/CZA,5.701
+Intel Core i7-2700K @ 3.50GHz,5.694
+Intel Core i7-3720QM @ 2.60GHz,5.682
+Intel Xeon E3-1205 v6 @ 3.00GHz,5.682
+Intel Core i5-4690K @ 3.50GHz,5.672
+MT6883Z/CZA,5.665
+Intel Core i5-6600T @ 2.70GHz,5.665
+AMD Ryzen 3 3300U,5.663
+Intel Core i7-3920XM @ 2.90GHz,5.647
+Intel Core i5-6500 @ 3.20GHz,5.645
+Intel Core i7-4700HQ @ 2.40GHz,5.636
+Intel Core i5-5675C @ 3.10GHz,5.626
+AMD Opteron 6238,5.625
+Intel Core i7-4722HQ @ 2.40GHz,5.620
+Intel Core i7-4750HQ @ 2.00GHz,5.614
+Intel Xeon E3-1280 @ 3.50GHz,5.613
+Intel Core i5-8365UE @ 1.60GHz,5.611
+"Qualcomm Technologies, Inc KONA",5.600
+Intel Core i5-4690 @ 3.50GHz,5.595
+Intel Core i5-7440HQ @ 2.80GHz,5.578
+AMD Opteron 6376,5.572
+Intel Xeon E5-2430 @ 2.20GHz,5.549
+Intel Core i7-3770T @ 2.50GHz,5.546
+"Qualcomm Technologies, Inc SDM778G",5.542
+Intel Core i5-4670K @ 3.40GHz,5.542
+Intel Core i7-3615QE @ 2.30GHz,5.531
+Intel Xeon E3-1226 v3 @ 3.30GHz,5.529
+Intel Core i7-4710HQ @ 2.50GHz,5.516
+Intel Core i3-9100T @ 3.10GHz,5.516
+Snapdragon 7325,5.511
+Intel Core i5-7400 @ 3.00GHz,5.509
+AMD Ryzen 3 2300U,5.506
+Intel Core i7-4702HQ @ 2.20GHz,5.503
+Intel Core i7-4860EQ @ 1.80GHz,5.500
+Intel Core i5-4670 @ 3.40GHz,5.499
+Intel Xeon E5-2643 @ 3.30GHz,5.489
+Intel Core i7-2600K @ 3.40GHz,5.485
+Intel Core i5-5675R @ 3.10GHz,5.475
+Intel Xeon E3-1268L v3 @ 2.30GHz,5.475
+Intel Core i7-4785T @ 2.20GHz,5.474
+ARM Cortex-A72 16 Core 2200 MHz,5.470
+"lisa based Qualcomm Technologies, Inc. SM7325",5.464
+Intel Xeon E3-1275 @ 3.40GHz,5.463
+Intel Core i5-6402P @ 2.80GHz,5.445
+Intel Core i5-760S @ 2.53GHz,5.440
+Intel Xeon E5-1410 v2 @ 2.80GHz,5.436
+Intel Pentium Silver N6005 @ 2.00GHz,5.432
+Intel Core i5-4690S @ 3.20GHz,5.420
+Intel Core i5-6440EQ @ 2.70GHz,5.419
+Intel Xeon E3-1270 @ 3.40GHz,5.418
+AMD Ryzen Embedded V1500B Quad-core @ 2.20GHz,5.417
+vendor Kirin985,5.417
+AMD FX-8320 Eight-Core,5.416
+Intel Xeon E5-2609 v4 @ 1.70GHz,5.385
+Intel Xeon E3-1240 @ 3.30GHz,5.382
+Intel Xeon E5-2418L v2 @ 2.00GHz,5.380
+Intel Core i7-4700MQ @ 2.40GHz,5.360
+"Haydn based on Qualcomm Technologies, Inc SM8350",5.359
+vendor Kirin980,5.358
+Intel Core i5-4590 @ 3.30GHz,5.350
+"Venus based on Qualcomm Technologies, Inc SM8350",5.343
+Intel Core i7-2600 @ 3.40GHz,5.338
+Apple A13 Bionic,5.332
+Intel Xeon E3-1245 @ 3.30GHz,5.326
+Intel Xeon E3-1225 v3 @ 3.20GHz,5.320
+AMD Opteron 6328,5.306
+Intel Xeon E5-2630L @ 2.00GHz,5.305
+Intel Xeon E3-1240L v3 @ 2.00GHz,5.304
+Intel Core i7-4712MQ @ 2.30GHz,5.302
+Intel Xeon E3-1505L v5 @ 2.00GHz,5.301
+Intel Core i3-8100T @ 3.10GHz,5.300
+"Vili based on Qualcomm Technologies, Inc SM8350",5.299
+Intel Core i7-4712HQ @ 2.30GHz,5.295
+AMD FX-8300 Eight-Core,5.292
+Intel Xeon X5687 @ 3.60GHz,5.288
+Intel Xeon E5-2620 @ 2.00GHz,5.288
+AMD Opteron 6274,5.286
+Intel Pentium Gold 7505 @ 2.00GHz,5.280
+Intel Xeon E5-2430L @ 2.00GHz,5.273
+Intel Core i5-7500T @ 2.70GHz,5.272
+Intel Xeon E3-1230L v3 @ 1.80GHz,5.268
+AMD FX-8370E Eight-Core,5.267
+Intel Core i7-8665UE @ 1.70GHz,5.261
+Intel Xeon E5-1607 v4 @ 3.10GHz,5.245
+Samsung Exynos 2100,5.241
+"Star based on Qualcomm Technologies, Inc SM8350",5.241
+Intel Core i7-6822EQ @ 2.00GHz,5.241
+AMD Opteron 6272,5.240
+Intel Core i5-4670R @ 3.00GHz,5.233
+Snapdragon 8c @ 2.46 GHz,5.230
+Intel Xeon E5649 @ 2.53GHz,5.229
+AMD FX-8150 Eight-Core,5.221
+Intel Core i5-4570 @ 3.20GHz,5.219
+AMD Ryzen 5 3500C,5.207
+Intel Xeon E3-1220 v3 @ 3.10GHz,5.198
+Intel Core i5-6400 @ 2.70GHz,5.170
+AMD FX-8310 Eight-Core,5.165
+MT6877V/TTZA,5.152
+Intel Core i7-3615QM @ 2.30GHz,5.145
+Intel Core i7-4702MQ @ 2.20GHz,5.134
+Intel Core i5-4590S @ 3.00GHz,5.127
+Intel Xeon E5-2420 @ 1.90GHz,5.124
+Intel Core i7-3630QM @ 2.40GHz,5.118
+Intel Xeon W-2102 @ 2.90GHz,5.105
+MT6893,5.102
+Microsoft ARM SQ1 @ 3.0 GHz,5.100
+Intel Core i7-10510Y @ 1.20GHz,5.100
+Intel Core i7-3610QM @ 2.30GHz,5.099
+Intel Core i5-6440HQ @ 2.60GHz,5.099
+Intel Xeon E3-1230 @ 3.20GHz,5.096
+Intel Core i5-7300HQ @ 2.50GHz,5.091
+Intel Core i7-4765T @ 2.00GHz,5.085
+Hisilicon Kirin9000,5.083
+AMD FX-8320E Eight-Core,5.066
+Intel Core i5-5575R @ 2.80GHz,5.065
+Intel Xeon X5677 @ 3.47GHz,5.055
+Intel Core i5-4670S @ 3.10GHz,5.045
+Intel Core i5-4670K CPT @ 3.40GHz,5.034
+Intel Core i3-1005G1 @ 1.20GHz,5.033
+Intel Xeon E3-1235 @ 3.20GHz,5.030
+Intel Xeon E3-1265L V2 @ 2.50GHz,5.026
+Intel Core i7-3610QE @ 2.30GHz,5.026
+"Mars based on Qualcomm Technologies, Inc SM8350",5.022
+Intel Xeon E3-1235L v5 @ 2.00GHz,5.013
+Intel Xeon E5645 @ 2.40GHz,4.989
+Intel Xeon E3-1290 @ 3.60GHz,4.988
+Intel Xeon X5672 @ 3.20GHz,4.982
+Intel Core i5-4570S @ 2.90GHz,4.956
+Intel Core i5-3570K @ 3.40GHz,4.953
+Intel Core i7-4700EQ @ 2.40GHz,4.941
+Intel Xeon E5-1607 v3 @ 3.10GHz,4.937
+Intel Core i7-3612QE @ 2.10GHz,4.929
+Intel Core i3-7350K @ 4.20GHz,4.915
+Intel Core i5-3570 @ 3.40GHz,4.910
+SM8450,4.896
+AMD FX-8140 Eight-Core,4.860
+AMD Opteron 6366 HE,4.858
+Intel Core i5-4460 @ 3.20GHz,4.854
+Intel Core i3-7320 @ 4.10GHz,4.853
+"Samsung Technologies, Inc Exynos E1080",4.846
+Intel Xeon Bronze 3204 @ 1.90GHz,4.843
+Intel Core i5-7442EQ @ 2.10GHz,4.834
+Intel Xeon D-1518 @ 2.20GHz,4.830
+Apple A12 Bionic,4.825
+Intel Xeon E5-1603 v4 @ 2.80GHz,4.812
+MT6877V/TZA,4.802
+"Renoir based on Qualcomm Technologies, Inc SM7350",4.780
+Intel Core i5-3550 @ 3.30GHz,4.776
+MT6877V/ZA,4.774
+Intel Core i5-6500T @ 2.50GHz,4.773
+Intel Xeon E3-1225 V2 @ 3.20GHz,4.769
+Intel Core i5-10210Y @ 1.00GHz,4.764
+AMD Opteron 6220,4.753
+Intel Core i5-4440 @ 3.10GHz,4.751
+Intel Atom C3758 @ 2.20GHz,4.750
+Intel Core i5-7400T @ 2.40GHz,4.747
+Intel Core i5-4470S @ 3.00GHz,4.742
+vendor Kirin820,4.715
+Intel Xeon D-1527 @ 2.20GHz,4.710
+Intel Core i7-2960XM @ 2.70GHz,4.710
+Intel Core i5-6300HQ @ 2.30GHz,4.709
+Intel Atom C3858 @ 2.00GHz,4.707
+Intel Xeon E5-1410 @ 2.80GHz,4.701
+Intel Core i7-3635QM @ 2.40GHz,4.698
+Intel Xeon E5-2603 v4 @ 1.70GHz,4.695
+Snapdragon 8cx @ 2.84 GHz,4.694
+Intel Xeon L5640 @ 2.27GHz,4.692
+Intel Core i5-3470 @ 3.20GHz,4.678
+Intel Core i5-4430 @ 3.00GHz,4.677
+Intel Xeon E3-1220 V2 @ 3.10GHz,4.675
+AMD Opteron 4284,4.665
+Intel Core i5-4690T @ 2.50GHz,4.660
+Intel Core i5-6500TE @ 2.30GHz,4.658
+AMD FX-8120 Eight-Core,4.654
+Intel Core i5-3570S @ 3.10GHz,4.635
+AMD Athlon Silver PRO 3125GE,4.633
+Intel Core i7-3612QM @ 2.10GHz,4.628
+Intel Core i7-3632QM @ 2.20GHz,4.624
+Snapdragon 8350,4.599
+Intel Core i5-6442EQ @ 1.90GHz,4.598
+SM8325,4.596
+Intel Core i7-2860QM @ 2.50GHz,4.587
+AMD Ryzen Embedded V1500B,4.584
+Intel Xeon Bronze 3104 @ 1.70GHz,4.576
+Intel Core i7-2600S @ 2.80GHz,4.562
+Intel Core i7-4770TE @ 2.30GHz,4.557
+Intel Core i3-7300 @ 4.00GHz,4.555
+Intel Xeon X5667 @ 3.07GHz,4.551
+AMD Athlon Silver 3050GE,4.545
+Intel Core i5-4460S @ 2.90GHz,4.538
+AMD Athlon 240GE,4.534
+Intel Pentium Gold G6605 @ 4.30GHz,4.534
+MT6877T,4.521
+Intel Core i5-3550S @ 3.00GHz,4.515
+"Qualcomm Technologies, Inc SM8150",4.513
+AMD FX-6350 Six-Core,4.506
+MT6889Z/CZA,4.504
+AMD Opteron 4280,4.504
+Intel Core i3-9100TE @ 2.20GHz,4.501
+Intel Xeon E5-1603 v3 @ 2.80GHz,4.483
+AMD Athlon 3000G,4.478
+"Qualcomm Technologies, Inc SM8150P",4.472
+Intel Core i5-4570R @ 2.70GHz,4.466
+Intel Core i5-3450 @ 3.10GHz,4.466
+AMD Athlon PRO 300GE,4.432
+Intel Xeon X5647 @ 2.93GHz,4.431
+Intel Core i3-7101E @ 3.90GHz,4.430
+AMD Athlon 220GE,4.424
+Intel Pentium 6805 @ 1.10GHz,4.424
+Intel Xeon E5-2609 v3 @ 1.90GHz,4.423
+Intel Core i3-1115GRE @ 3.00GHz,4.421
+Intel Xeon L5639 @ 2.13GHz,4.419
+Intel Celeron G6900,4.415
+Intel Core i3-6320 @ 3.90GHz,4.398
+Intel Pentium Gold G6600 @ 4.20GHz,4.396
+Intel Core i3-8121U @ 2.20GHz,4.393
+MT6875,4.393
+Intel Core i7-2760QM @ 2.40GHz,4.387
+Intel Core i5-3470S @ 2.90GHz,4.382
+Intel Core i7-2820QM @ 2.30GHz,4.380
+AMD Opteron 4386,4.378
+Intel Pentium Gold G6505 @ 4.20GHz,4.378
+Intel Core i5-4440S @ 2.80GHz,4.367
+Intel Core i3-6300 @ 3.80GHz,4.363
+Intel Core i3-7100 @ 3.90GHz,4.358
+AMD FX-6130 Six-Core,4.353
+"Qualcomm Technologies, Inc SDM750G",4.350
+Intel Core i7-2920XM @ 2.50GHz,4.350
+Apple A11 Bionic,4.340
+Intel Core i5-3450S @ 2.80GHz,4.328
+Intel Core i5-4670T @ 2.30GHz,4.311
+Hisilicon Kirin980,4.311
+Intel Core i5-6400T @ 2.20GHz,4.308
+MediaTek MT6789,4.290
+AMD Athlon 320GE,4.285
+Intel Atom C3958 @ 2.00GHz,4.281
+Intel Core i3-8109U @ 3.00GHz,4.279
+Intel Xeon E5-1607 v2 @ 3.00GHz,4.277
+Intel Celeron J6413 @ 1.80GHz,4.276
+Intel Pentium Gold G6405 @ 4.10GHz,4.268
+Intel Core i7-7567U @ 3.50GHz,4.259
+AMD Athlon 300GE,4.256
+Intel Core i5-6350HQ @ 2.30GHz,4.255
+Intel Core i5-3350P @ 3.10GHz,4.254
+Intel Core i5-3340 @ 3.10GHz,4.236
+Intel Xeon E5-2648L @ 1.80GHz,4.235
+Intel Celeron N5095A @ 2.00GHz,4.232
+Intel Atom x6413E @ 1.50GHz,4.228
+Intel Core i3-8140U @ 2.10GHz,4.227
+Intel Core i5-4430S @ 2.70GHz,4.219
+vendor Kirin810,4.215
+Intel Core i5-3475S @ 2.90GHz,4.214
+"Qualcomm Technologies, Inc SM6375",4.205
+Intel N100,4.192
+AMD FX-6330 Six-Core,4.190
+AMD Ryzen 3 PRO 2100GE,4.187
+AMD Ryzen Embedded R1606G,4.186
+Intel Core i5-2550K @ 3.40GHz,4.184
+AMD FX-6300 Six-Core,4.183
+Intel Pentium J6426 @ 2.00GHz,4.176
+Intel Core i5-2450P @ 3.20GHz,4.175
+Intel Pentium Gold G6500 @ 4.10GHz,4.170
+Hisilicon Kirin985,4.162
+MT6833P,4.161
+Intel Core i3-7300T @ 3.50GHz,4.159
+Intel Core i3-6098P @ 3.60GHz,4.154
+Intel Core i3-6100 @ 3.70GHz,4.147
+AMD Athlon PRO 200GE,4.139
+Intel Core i7-7660U @ 2.50GHz,4.136
+Intel Pentium Gold G6400 @ 4.00GHz,4.135
+AMD Opteron 3380,4.134
+Intel Pentium Gold G5600F @ 3.90GHz,4.122
+MT6833V/PNZA,4.120
+Intel Core i5-2500K @ 3.30GHz,4.111
+"Qualcomm Technologies, Inc SM8150_Plus",4.110
+Intel Core i5-2500 @ 3.30GHz,4.106
+Intel Celeron N5105 @ 2.00GHz,4.102
+Intel Pentium Gold G5620 @ 4.00GHz,4.102
+AMD Athlon 200GE,4.100
+Intel Core i5-3330 @ 3.00GHz,4.091
+Intel Core i3-8145UE @ 2.20GHz,4.087
+ARM - 8 Core 1766 MHz,4.080
+AMD FX-6200 Six-Core,4.072
+AMD Opteron 6234,4.072
+MT8789V/T,4.071
+Intel Core i7-2720QM @ 2.20GHz,4.067
+MT8789V/CT,4.060
+Intel Core i5-3570T @ 2.30GHz,4.057
+Intel Core i7-2710QE @ 2.10GHz,4.044
+MT6833V/ZA,4.041
+Intel Xeon E3-1260L @ 2.40GHz,4.040
+AMD FX-8100 Eight-Core,4.037
+AMD Opteron 3365,4.032
+Intel Core i3-6300T @ 3.30GHz,4.029
+Intel Celeron N5095 @ 2.00GHz,4.028
+Intel Celeron G6900T,4.024
+MT6781V/CD,4.021
+Intel Core i5-4590T @ 2.00GHz,4.021
+Intel Core i5-7287U @ 3.30GHz,4.015
+AMD Athlon Gold 3150U,4.008
+AMD Opteron 6212,4.007
+Intel Pentium Gold G6500T @ 3.50GHz,4.005
+Intel Core i5-7360U @ 2.30GHz,3.995
+MediaTek MT6873,3.988
+Intel Core i5-3335S @ 2.70GHz,3.982
+Hisilicon Kirin820,3.974
+Intel Core i3-10110U @ 2.10GHz,3.965
+AMD Opteron 4334,3.949
+AMD Athlon 300U,3.947
+Intel Core i5-7260U @ 2.20GHz,3.945
+Intel Celeron J6412 @ 2.00GHz,3.929
+Intel Core i7-985 @ 3.47GHz,3.928
+AMD Ryzen Embedded R1505G,3.925
+Intel Core i5-3340S @ 2.80GHz,3.918
+Intel Core i3-7101TE @ 3.40GHz,3.911
+AMD Opteron 4332 HE,3.906
+MT6781,3.904
+AMD Ryzen 3 3250U,3.896
+AMD PRO A12-8870,3.887
+Intel Core i7-2675QM @ 2.20GHz,3.884
+ZHAOXIN KaiXian KX-U6780A@2.7GHz,3.881
+Intel Xeon E3-1220 @ 3.10GHz,3.872
+Intel Core i5-7267U @ 3.10GHz,3.869
+AMD Ryzen 3 3200U,3.860
+Intel Core i3-8145U @ 2.10GHz,3.858
+AMD FX-6120 Six-Core,3.857
+Intel Xeon E5640 @ 2.67GHz,3.848
+Intel Core i5-2400 @ 3.10GHz,3.847
+Intel Core i7-2840QM @ 2.40GHz,3.842
+Intel Core i3-4370 @ 3.80GHz,3.837
+Intel Atom x6425E @ 2.00GHz,3.829
+Intel Xeon E3-1225 @ 3.10GHz,3.829
+Intel Core i7-6567U @ 3.30GHz,3.827
+Intel Pentium Gold G5500 @ 3.80GHz,3.822
+Intel Core i5-6287U @ 3.10GHz,3.819
+Intel Core i5-3330S @ 2.70GHz,3.812
+Intel Core i3-1000NG4 @ 1.10GHz,3.811
+Intel Core i7-7560U @ 2.40GHz,3.804
+Intel Core i3-7100T @ 3.40GHz,3.800
+Intel Core i5-2380P @ 3.10GHz,3.797
+Hisilicon Kirin 990,3.794
+AMD Athlon X4 845,3.783
+AMD Phenom II X6 1100T,3.783
+Intel Pentium G4620 @ 3.70GHz,3.775
+Intel Xeon E5-2603 v3 @ 1.60GHz,3.774
+Samsung Exynos 9820,3.771
+MT6833,3.769
+ARM Cortex-A57 8 Core 1766 MHz,3.766
+Intel Pentium N6415 @ 1.20GHz,3.760
+AMD PRO A12-9800,3.758
+Intel Core i7-6660U @ 2.40GHz,3.753
+AMD PRO A10-8850B,3.752
+Intel Pentium Gold G5400 @ 3.70GHz,3.749
+Intel Pentium Gold G6405T @ 3.50GHz,3.746
+Intel N200,3.742
+Intel Core i7-2670QM @ 2.20GHz,3.734
+Intel Xeon E5630 @ 2.53GHz,3.730
+Intel Xeon E5-1607 @ 3.00GHz,3.725
+AMD Opteron 3280,3.723
+AMD Ryzen Embedded R2312,3.720
+Intel Core i7-7600U @ 2.80GHz,3.707
+Intel Xeon L5638 @ 2.00GHz,3.707
+AMD A8-7500,3.706
+Virtual @ 3.14GHz,3.703
+AMD Phenom II X6 1090T,3.700
+Intel Pentium Gold G6505T @ 3.60GHz,3.698
+AMD Opteron 6174,3.697
+Intel Core i5-7300U @ 2.60GHz,3.697
+Intel Pentium Gold G5600 @ 3.90GHz,3.696
+AMD FX-6100 Six-Core,3.689
+AMD Ryzen 3 2200U,3.684
+Intel Core i5-2320 @ 3.00GHz,3.664
+AMD PRO A10-9700,3.664
+AMD Athlon X4 880K,3.663
+AMD A9-9820,3.662
+Samsung Exynos 9825,3.656
+Intel Core i7-7500U @ 2.70GHz,3.656
+Intel Core i5-2310 @ 2.90GHz,3.638
+Snapdragon 7c @ 1.96 GHz,3.628
+Samsung Exynos 9810,3.628
+Intel Pentium Gold G5420 @ 3.80GHz,3.626
+DG1301SML87HY,3.624
+Intel Core i3-8130U @ 2.20GHz,3.623
+Intel Core i3-6100T @ 3.20GHz,3.615
+Intel Core i5-4460T @ 1.90GHz,3.611
+Intel Pentium G4600 @ 3.60GHz,3.609
+MT6833V/NZA,3.606
+MT6853V/TNZA,3.602
+Intel Pentium Gold G5600T @ 3.30GHz,3.601
+Intel Core i7-6650U @ 2.20GHz,3.596
+Intel Pentium Gold G6400T @ 3.40GHz,3.587
+Intel Core i3-4170 @ 3.70GHz,3.578
+Intel Core i3-4360 @ 3.70GHz,3.578
+MT6853V/ZA,3.577
+AMD Embedded R-Series RX-421ND,3.575
+AMD Opteron 6176 SE,3.564
+AMD Athlon X4 950,3.552
+Intel Core i3-4330 @ 3.50GHz,3.550
+Intel Core i3-4340 @ 3.60GHz,3.545
+Intel Xeon E5620 @ 2.40GHz,3.541
+Intel Xeon W3580 @ 3.33GHz,3.535
+AMD A10-9700,3.534
+MT6785,3.533
+AMD Ryzen Embedded V1202B,3.532
+AMD PRO A10-8770,3.524
+Intel Core i7-2630QM @ 2.00GHz,3.519
+Intel Xeon E5-2418L @ 2.00GHz,3.518
+Intel Core i3-4160 @ 3.60GHz,3.512
+Intel Pentium G4560 @ 3.50GHz,3.512
+MediaTek MT6785V/CD,3.510
+AMD A8-7680,3.510
+Intel Pentium Gold G5420T @ 3.20GHz,3.508
+Intel Xeon E5-2407 v2 @ 2.40GHz,3.504
+AMD Opteron 4365 EE,3.485
+AMD A10-7890K,3.482
+Snapdragon 7c Gen 2 @ 2.55 GHz,3.482
+Intel Core i5-6267U @ 2.90GHz,3.480
+AMD A12-9800,3.480
+AMD Opteron 6164 HE,3.478
+Intel Core i3-1110G4 @ 1.80GHz,3.473
+Intel Core i7-6600U @ 2.60GHz,3.467
+Intel Xeon E5-2609 v2 @ 2.50GHz,3.466
+Intel Core i5-4340M @ 2.90GHz,3.461
+Intel Core i3-4350 @ 3.60GHz,3.459
+AMD A10-7870K,3.455
+"Qualcomm Technologies, Inc ATOLL-AB",3.455
+Intel Xeon E5-1603 @ 2.80GHz,3.452
+AMD A12-9800E,3.447
+Intel Xeon X5698 @ 4.40GHz,3.447
+Intel Pentium Silver J5040 @ 2.00GHz,3.443
+Intel Core i5-L16G7 @ 1.40GHz,3.441
+Intel Core i5-2500S @ 2.70GHz,3.436
+Intel Core i3-7100H @ 3.00GHz,3.430
+AMD Embedded R-Series RX-418GD Radeon R6,3.426
+AMD A10 PRO-7850B APU,3.420
+AMD Athlon X4 860K,3.414
+Intel Pentium Silver N5020 @ 1.10GHz,3.404
+"Qualcomm Technologies, Inc SM7250",3.401
+AMD Opteron 4226,3.400
+"Qualcomm Technologies, Inc SDMMAGPIEP",3.398
+Intel Core i5-7200U @ 2.50GHz,3.398
+Intel Core i7-975 @ 3.33GHz,3.396
+Intel Core i3-4360T @ 3.20GHz,3.393
+AMD Athlon X4 870K,3.392
+Intel Xeon E5-4603 @ 2.00GHz,3.391
+AMD A10-7850K APU,3.390
+Intel Xeon W5580 @ 3.20GHz,3.386
+Intel Core i5-2300 @ 2.80GHz,3.383
+AMD Opteron 6136,3.381
+AMD Opteron X3421 APU,3.375
+"Qualcomm Technologies, Inc KHAJE",3.372
+"Qualcomm Technologies, Inc SDM765G 5G",3.370
+AMD Phenom II X6 1065T,3.370
+AMD FX-B4150 Quad-Core,3.369
+Intel Core i3-7167U @ 2.80GHz,3.368
+Intel Core i3-4370T @ 3.30GHz,3.361
+Intel Core i3-4150 @ 3.50GHz,3.359
+Intel Xeon W3565 @ 3.20GHz,3.345
+"Qualcomm Technologies, Inc LAGOON",3.342
+Intel Core i7-965 @ 3.20GHz,3.341
+AMD Phenom II X6 1075T,3.339
+Intel Core i7-6560U @ 2.20GHz,3.338
+AMD Phenom II X6 1405T,3.335
+AMD A10-8850,3.332
+Intel Celeron N5100 @ 1.10GHz,3.331
+AMD FX-4150 Quad-Core,3.327
+Intel Xeon D-1520 @ 2.20GHz,3.324
+AMD FX-9830P,3.320
+Intel Core i3-6100E @ 2.70GHz,3.315
+"Qualcomm Technologies, Inc SM7225",3.308
+MediaTek MT6853T,3.307
+Intel Core i3-4130 @ 3.40GHz,3.305
+Intel Core i7-6498DU @ 2.50GHz,3.303
+AMD Embedded R-Series RX-421BD,3.302
+Intel Xeon L5609 @ 1.87GHz,3.298
+AMD A8-9600,3.296
+"Qualcomm Technologies, Inc SDM730G AIE",3.293
+AMD Athlon Gold 3150C,3.292
+AMD Athlon X4 840,3.290
+"Qualcomm Technologies, Inc SM7125",3.286
+AMD PRO A8-9600,3.285
+"Qualcomm Technologies, Inc LITO",3.284
+MT6853V/NZA,3.278
+Intel Core i7-6500U @ 2.50GHz,3.277
+Intel Core i7-960 @ 3.20GHz,3.274
+Intel Core i3-10110Y @ 1.00GHz,3.269
+AMD FX-4350 Quad-Core,3.259
+Intel Pentium Gold G5500T @ 3.20GHz,3.259
+AMD A10-7860K,3.259
+AMD Phenom II X6 1055T,3.256
+AMD A10 PRO-7800B APU,3.251
+Intel Core i5-4400E @ 2.70GHz,3.251
+Intel Xeon X3480 @ 3.07GHz,3.250
+Intel Core i7-2635QM @ 2.00GHz,3.250
+Intel Xeon X5570 @ 2.93GHz,3.250
+AMD Ryzen Embedded R1600,3.246
+Intel Core i5-6300U @ 2.40GHz,3.246
+MediaTek MT6785V/CC,3.244
+Intel Core i3-4570T @ 2.90GHz,3.244
+AMD A10-8750,3.241
+Intel Pentium D1508 @ 2.20GHz,3.240
+Intel Xeon W5590 @ 3.33GHz,3.239
+"Qualcomm Technologies, Inc SDM720G",3.237
+"Qualcomm Technologies, Inc SDM845",3.231
+ZHAOXIN KaiXian KX-U6580@2.5GHz,3.227
+AMD FX-4330,3.225
+Intel Core i7-2715QE @ 2.10GHz,3.221
+AMD PRO A8-8650B,3.221
+AMD A8-7600 APU,3.217
+AMD A12-9730P,3.216
+Intel Xeon X3470 @ 2.93GHz,3.215
+"Qualcomm Technologies, Inc SM7150",3.208
+Intel Core i7-5557U @ 3.10GHz,3.206
+Intel Xeon W3550 @ 3.07GHz,3.205
+AMD FX-870K Quad Core,3.199
+Intel Core i7-4600M @ 2.90GHz,3.198
+Intel Core i5-6260U @ 1.80GHz,3.192
+Intel Core i3-4170T @ 3.20GHz,3.188
+Intel Core i7-950 @ 3.07GHz,3.185
+Intel Xeon W3570 @ 3.20GHz,3.185
+Intel Pentium Gold G5400T @ 3.10GHz,3.185
+AMD A10-7800 APU,3.185
+AMD A8-7670K,3.182
+Intel Xeon E3-1265L @ 2.40GHz,3.181
+AMD A10-6800K APU,3.178
+Intel Core i5-6198DU @ 2.30GHz,3.169
+Intel Core i5-4330M @ 2.80GHz,3.168
+AMD A10-7700K APU,3.168
+Intel Core i5-4570T @ 2.90GHz,3.167
+AMD PRO A12-9800E,3.165
+Intel Core i5-2400S @ 2.50GHz,3.164
+Intel Xeon Gold 6262V @ 1.90GHz,3.161
+Intel Core i3-6167U @ 2.70GHz,3.156
+Intel Core i5-6360U @ 2.00GHz,3.150
+Intel Core i5-5287U @ 2.90GHz,3.143
+Intel Core i3-4160T @ 3.10GHz,3.142
+Intel Pentium Silver N6000 @ 1.10GHz,3.138
+Intel Pentium G4600T @ 3.00GHz,3.130
+Intel Xeon X5560 @ 2.80GHz,3.124
+"Qualcomm Technologies, Inc SDMMAGPIE",3.122
+Intel Core i5-4200H @ 2.80GHz,3.121
+vendor Kirin970,3.119
+AMD A10-6700 APU,3.118
+Intel Core i5-4310M @ 2.70GHz,3.117
+AMD FX-4200 Quad-Core,3.109
+AMD Ryzen Embedded R1305G,3.109
+Intel Core i5-4570TE @ 2.70GHz,3.106
+AMD PRO A10-8770E,3.101
+Intel Core i3-4330T @ 3.00GHz,3.098
+MT8786V/CA,3.095
+Intel Core i7-870 @ 2.93GHz,3.094
+Intel Core i7-875K @ 2.93GHz,3.089
+Intel Core i3-6100TE @ 2.70GHz,3.085
+Rockchip RK3399,3.084
+Intel Core i7-880 @ 3.07GHz,3.081
+MT6771V/CL,3.079
+AMD A8-7650K,3.076
+Snapdragon 7c @ 2.40 GHz,3.074
+Snapdragon 845 @ 2.8 GHz,3.073
+AMD PRO A12-8870E,3.070
+"Qualcomm Technologies, Inc SM4350",3.070
+Intel Core i7-4610M @ 3.00GHz,3.067
+AMD FX-4170 Quad-Core,3.064
+AMD Phenom II X6 1045T,3.064
+Intel Core i5-24050S @ 2.50GHz,3.061
+AMD Opteron 2435,3.061
+AMD A10-6790K APU,3.060
+Intel Pentium Silver J5005 @ 1.50GHz,3.060
+Intel Core i7-4578U @ 3.00GHz,3.050
+Intel Core i7-5650U @ 2.20GHz,3.050
+Intel Core i5-4300M @ 2.60GHz,3.048
+AMD A10-9700E,3.047
+AMD Ryzen 3 3250C,3.044
+AMD Opteron X3418 APU,3.043
+AMD FX-4320,3.043
+Intel Core i5-5257U @ 2.70GHz,3.042
+Intel Core i3-6100H @ 2.70GHz,3.041
+Intel Pentium GOLD 6500Y @ 1.10GHz,3.041
+Intel Xeon W3530 @ 2.80GHz,3.033
+Intel Core i7-4558U @ 2.80GHz,3.032
+Intel Core i5-4210H @ 2.90GHz,3.032
+Intel Xeon W3540 @ 2.93GHz,3.031
+Samsung Exynos 8895,3.018
+SMDK4x12,3.006
+Intel Core i5-6200U @ 2.30GHz,3.003
+AMD Athlon Silver 3050e,3.000
+AMD Athlon Silver 3050U,2.995
+Intel Core i7-5600U @ 2.60GHz,2.992
+AMD PRO A8-8670E,2.989
+Intel Core i3-7130U @ 2.70GHz,2.986
+Intel Xeon L5630 @ 2.13GHz,2.985
+AMD A8-6600K APU,2.984
+Intel Core i5-4308U @ 2.80GHz,2.983
+Intel Celeron J4125 @ 2.00GHz,2.982
+Intel Core i5-2405S @ 2.50GHz,2.980
+AMD FX-670K Quad-Core,2.980
+Intel Xeon E5-2637 @ 3.00GHz,2.978
+Intel Xeon X5550 @ 2.67GHz,2.974
+AMD FX-4300 Quad-Core,2.968
+AMD A10-5800K APU,2.962
+Intel Core i5-3470T @ 2.90GHz,2.955
+Intel Pentium G4520 @ 3.60GHz,2.952
+Intel Core i7-4560U @ 1.60GHz,2.950
+Intel Core i7-860 @ 2.80GHz,2.949
+AMD Phenom II X6 1035T,2.949
+MT8786V/N,2.947
+Hisilicon Kirin810,2.945
+AMD A10-6800B APU,2.944
+Intel Core i5-2500T @ 2.30GHz,2.942
+Intel Core i3-10100Y @ 1.30GHz,2.941
+AMD A10-5800B APU,2.936
+Hisilicon Kirin 955,2.936
+AMD Opteron 2431,2.936
+Intel Core i5-3380M @ 2.90GHz,2.934
+AMD Opteron 6128 HE,2.932
+Intel Core i7-940 @ 2.93GHz,2.932
+AMD A8 PRO-7600B APU,2.930
+AMD A10-9630P,2.929
+Intel Pentium G4560T @ 2.90GHz,2.929
+AMD PRO A10-9700E,2.924
+Intel Core i7-3540M @ 3.00GHz,2.922
+AMD Athlon X4 760K Quad Core,2.919
+AMD PRO A10-8750B,2.911
+Unisoc ums9230H,2.908
+Intel Core i7-5550U @ 2.00GHz,2.908
+HiSilicon Kirin 970,2.908
+Intel Core m3-8100Y @ 1.10GHz,2.907
+Intel Core i3-4150T @ 3.00GHz,2.907
+Unisoc ums9230T,2.906
+Intel Celeron J4105 @ 1.50GHz,2.906
+Intel Atom x6425RE @ 1.90GHz,2.903
+AMD Athlon X4 830,2.901
+Intel Core i7-930 @ 2.80GHz,2.892
+Intel Core i3-4350T @ 3.10GHz,2.888
+Intel Core i3-4130T @ 2.90GHz,2.885
+Intel Core i5-3360M @ 2.80GHz,2.882
+MediaTek MT6779V/CE,2.881
+Intel Xeon E5-2403 v2 @ 1.80GHz,2.873
+AMD Opteron 4184,2.872
+Intel Xeon X3460 @ 2.80GHz,2.870
+AMD A8-6500B APU,2.868
+Intel Core i5-4210M @ 2.60GHz,2.865
+Intel Core i7-3520M @ 2.90GHz,2.857
+AMD FX-7600P APU,2.856
+Unisoc T612,2.851
+Intel Celeron G5905 @ 3.50GHz,2.850
+AMD Phenom II X4 980,2.839
+Intel Core i5-4278U @ 2.60GHz,2.830
+AMD Opteron 6128,2.826
+AMD Opteron 3350 HE,2.825
+Unisoc T610,2.818
+Intel Xeon X3450 @ 2.67GHz,2.818
+Intel Xeon W3520 @ 2.67GHz,2.814
+AMD FX-8800P,2.813
+AMD A8-5600K APU,2.811
+HiSilicon Kirin 960,2.809
+AMD A8-6500 APU,2.808
+Intel Core m3-7Y32 @ 1.10GHz,2.808
+AMD FX-770K Quad-Core,2.803
+Intel Core i5-8210Y @ 1.60GHz,2.800
+Intel Core i7-920 @ 2.67GHz,2.797
+Intel Core i7-860S @ 2.53GHz,2.796
+Intel Core i3-6157U @ 2.40GHz,2.792
+Intel Core i5-4200M @ 2.50GHz,2.789
+Intel Core i7-870S @ 2.67GHz,2.786
+Intel Core i5-7Y54 @ 1.20GHz,2.785
+AMD Athlon X4 750K Quad Core,2.783
+Intel Core2 Extreme X9775 @ 3.20GHz,2.780
+"Qualcomm Technologies, Inc SM6150",2.779
+Intel Atom C2750 @ 2.40GHz,2.778
+"Qualcomm Technologies, Inc QCM6125",2.775
+AMD A8-8650,2.774
+MT6768G,2.772
+vendor Kirin710,2.768
+Intel Core i5-7Y57 @ 1.20GHz,2.768
+Intel Xeon X5470 @ 3.33GHz,2.757
+Intel Core i7-5500U @ 2.40GHz,2.756
+Intel Core 860 @ 2.80GHz,2.754
+Intel Celeron G5925 @ 3.60GHz,2.753
+Intel Xeon E5-2603 v2 @ 1.80GHz,2.751
+Intel Pentium G4500 @ 3.50GHz,2.747
+AMD A10-5700 APU,2.747
+Intel Core i5-5300U @ 2.30GHz,2.744
+Intel Xeon E5-2609 @ 2.40GHz,2.741
+AMD PRO A12-9800B,2.741
+Intel Xeon E5540 @ 2.53GHz,2.738
+T618,2.737
+Intel Xeon X3440 @ 2.53GHz,2.730
+AMD RX-427BB,2.729
+Intel Xeon E5-2407 @ 2.20GHz,2.729
+"Qualcomm Technologies, Inc MSM8998",2.728
+T610S-Unisoc,2.728
+AMD RX-425BB,2.724
+"ARM Phytium,FT-2000/4 8 Core 2300 MHz",2.720
+Intel Core i3-7100U @ 2.40GHz,2.719
+AMD A6-9400,2.717
+Intel Celeron G4950 @ 3.30GHz,2.714
+Intel Celeron J4115 @ 1.80GHz,2.708
+Intel Xeon X5492 @ 3.40GHz,2.705
+Intel Core i7-4600U @ 2.10GHz,2.694
+AMD Athlon X4 740 Quad Core,2.692
+Intel Core i7-7Y75 @ 1.30GHz,2.691
+AMD 3015e,2.691
+AMD Phenom II X4 B65,2.690
+MT6769V/CZ,2.688
+Intel Xeon E5607 @ 2.27GHz,2.686
+Intel Celeron G5900 @ 3.40GHz,2.684
+MT6769H,2.684
+Intel Core i5-4402E @ 1.60GHz,2.681
+Intel Core i3-4110M @ 2.60GHz,2.678
+ARM D2000/8 8 Core 2300 MHz,2.674
+Intel Core i5-3340M @ 2.70GHz,2.672
+Hisilicon Kirin970,2.664
+MediaTek MT6779V/CV,2.659
+Intel Core2 Extreme X9770 @ 3.20GHz,2.658
+Intel Core i3-3250T @ 3.00GHz,2.650
+Snapdragon 850 @ 2.96 GHz,2.649
+AMD Phenom II X4 970,2.649
+AMD A8-5500B APU,2.643
+Intel Core i5-4288U @ 2.60GHz,2.637
+Intel Core i5-3320M @ 2.60GHz,2.637
+Intel Xeon X5482 @ 3.20GHz,2.636
+AMD PRO A10-9700B,2.634
+AMD FX-4130 Quad-Core,2.634
+Intel Core i5-5350U @ 1.80GHz,2.629
+Intel Core i3-6100U @ 2.30GHz,2.628
+Intel Core i7-3687U @ 2.10GHz,2.628
+MT8788,2.627
+AMD A12-9720P,2.625
+Intel Xeon E5530 @ 2.40GHz,2.624
+"Qualcomm Technologies, Inc SM6225",2.620
+Intel Celeron G5900T @ 3.20GHz,2.620
+AMD Opteron 6172,2.615
+AMD FX-7600P,2.611
+Intel Pentium Silver N5030 @ 1.10GHz,2.610
+Intel Core i5-3610ME @ 2.70GHz,2.608
+Intel Core m3-7Y30 @ 1.00GHz,2.607
+AMD Athlon II X4 559,2.602
+Intel Core i5-760 @ 2.80GHz,2.601
+Intel Pentium G4400 @ 3.30GHz,2.596
+Intel Xeon L3426 @ 1.87GHz,2.590
+Intel Core i3-5157U @ 2.50GHz,2.588
+Intel Pentium Silver N5000 @ 1.10GHz,2.585
+AMD Phenom II X4 965,2.584
+MediaTek MT6771V/CT,2.583
+Intel Core i5-680 @ 3.60GHz,2.580
+AMD PRO A12-8800B,2.580
+Intel Xeon X5460 @ 3.16GHz,2.577
+AMD FX-4100 Quad-Core,2.575
+Intel Core i7-4510U @ 2.00GHz,2.575
+Intel Celeron G4930 @ 3.20GHz,2.571
+"Qualcomm Technologies, Inc SDM710",2.569
+Intel Core i5-4258U @ 2.40GHz,2.569
+Unisoc ums512,2.567
+AMD Athlon II X4 557,2.567
+AMD A8-5500 APU,2.567
+AMD A10-9620P,2.565
+Intel Core i3-7020U @ 2.30GHz,2.564
+MediaTek MT6779V/CU,2.556
+AMD Phenom II X4 B60,2.546
+MediaTek MT6769V/CU,2.544
+AMD Phenom II X4 B99,2.536
+MediaTek MT6771V/C,2.531
+Intel Core i7-8500Y @ 1.50GHz,2.524
+Intel Xeon L5530 @ 2.40GHz,2.522
+Intel Core i5-3230M @ 2.60GHz,2.521
+Intel Core i3-7102E @ 2.10GHz,2.521
+Intel Core i5-4310U @ 2.00GHz,2.519
+Intel Celeron N4120 @ 1.10GHz,2.518
+Intel Xeon E5520 @ 2.27GHz,2.517
+Intel Core i5-670 @ 3.47GHz,2.513
+Unisoc T606,2.513
+Intel Core i5-5200U @ 2.20GHz,2.507
+Apple A9X,2.507
+Intel Core i5-750 @ 2.67GHz,2.505
+AMD Phenom II X4 B55,2.501
+Intel Core i5-4300U @ 1.90GHz,2.499
+AMD Phenom II X4 B97,2.499
+T610-Unisoc,2.498
+Intel Core i5-5250U @ 1.60GHz,2.495
+Intel Xeon L7455 @ 2.13GHz,2.494
+Intel Core i7-2640M @ 2.80GHz,2.493
+Intel Xeon E5450 @ 3.00GHz,2.490
+MT6769V/CT,2.488
+Intel Core i3-4100M @ 2.50GHz,2.484
+Intel Celeron G5920 @ 3.50GHz,2.482
+AMD Opteron 8439 SE,2.479
+Intel Core i7-4500U @ 1.80GHz,2.477
+"Qualcomm Technologies, Inc BENGALP",2.476
+AMD Phenom II X4 955,2.473
+Samsung Exynos 8890,2.472
+Intel Core i5-3210M @ 2.50GHz,2.470
+AMD Athlon X4 750 Quad Core,2.459
+Intel Xeon D-1602 @ 2.50GHz,2.459
+HiSilicon Kirin 950,2.457
+"Qualcomm Technologies, Inc SDM670",2.456
+AMD Athlon II X4 650,2.453
+Intel Xeon E3-1220L V2 @ 2.30GHz,2.452
+Samsung A04S EUR OPEN REV03C board based on EXYNOS,2.452
+"Qualcomm Technologies, Inc SDM712",2.451
+Intel Core i5-661 @ 3.33GHz,2.449
+Unisoc T700,2.449
+Intel Core i7-4610Y @ 1.70GHz,2.446
+AMD 3020e,2.445
+Intel Celeron N4100 @ 1.10GHz,2.443
+AMD A12-9700P,2.441
+AMD Athlon II X4 555,2.439
+Intel Celeron G4900 @ 3.10GHz,2.436
+Snapdragon 662,2.434
+AMD FX-9800P,2.434
+Intel Core2 Quad Q9650 @ 3.00GHz,2.434
+AMD Phenom II X4 975,2.433
+Intel Core i7-2620M @ 2.70GHz,2.430
+Intel Pentium J4205 @ 1.50GHz,2.428
+Intel Pentium G3470 @ 3.60GHz,2.428
+Intel Core i5-4350U @ 1.40GHz,2.425
+Intel Xeon X5450 @ 3.00GHz,2.424
+AMD Athlon II X4 553,2.418
+Intel Atom C3558 @ 2.20GHz,2.417
+Intel Xeon X3370 @ 3.00GHz,2.417
+Intel Core i3-3250 @ 3.50GHz,2.417
+"Qualcomm Technologies, Inc SDA660",2.415
+Intel Celeron G3950 @ 3.00GHz,2.412
+MediaTek MT6769Z,2.411
+UIS7862A,2.411
+Unisoc T618,2.407
+Hisilicon Kirin710,2.407
+Intel Celeron G4920 @ 3.20GHz,2.406
+Intel Core2 Extreme X9650 @ 3.00GHz,2.403
+Unisoc ums9230,2.396
+"Qualcomm Technologies, Inc BENGAL",2.395
+Intel Core i7-4650U @ 1.70GHz,2.393
+AMD PRO A10-8730B,2.392
+AMD PRO A8-9600B,2.387
+MediaTek MT6769T,2.385
+AMD Opteron 4170 HE,2.382
+Intel Core i7-3667U @ 2.00GHz,2.381
+Intel Core i5-660 @ 3.33GHz,2.379
+Intel Pentium G4500T @ 3.00GHz,2.378
+Intel Celeron N4505 @ 2.00GHz,2.378
+AMD Phenom II X4 977,2.377
+Intel Core i5-2390T @ 2.70GHz,2.375
+MediaTek MT6771V/W,2.373
+AMD Phenom II X4 840,2.372
+"Qualcomm Technologies, Inc TRINKET",2.371
+Intel Core m7-6Y75 @ 1.20GHz,2.366
+Intel Xeon E5606 @ 2.13GHz,2.365
+Intel Atom T5700 @ 1.70GHz,2.363
+Intel Xeon E5-2603 @ 1.80GHz,2.362
+Apple A8X,2.358
+Intel Atom C2758 @ 2.40GHz,2.356
+AMD Phenom II X4 B95,2.353
+Intel Xeon X3360 @ 2.83GHz,2.351
+Intel Xeon E5440 @ 2.83GHz,2.351
+Intel Core i5-4260U @ 1.40GHz,2.350
+Intel Core i3-6102E @ 1.90GHz,2.349
+Intel Core2 Extreme X9750 @ 3.16GHz,2.348
+AMD Opteron 4130,2.347
+Intel Celeron G3920 @ 2.90GHz,2.346
+Intel Core m5-6Y57 @ 1.10GHz,2.345
+Intel Pentium 6405U @ 2.40GHz,2.344
+AMD Phenom II X4 B35,2.341
+AMD Athlon II X4 651 Quad-Core,2.338
+Intel Pentium G4400T @ 2.90GHz,2.335
+AMD A8-3850 APU,2.334
+MediaTek MT6769V/CB,2.333
+Virtual @ 2.55GHz,2.332
+Intel Xeon X5365 @ 3.00GHz,2.331
+AMD Phenom II X4 945,2.327
+MediaTek MT6771V/WT,2.326
+Intel Core i5-2540M @ 2.60GHz,2.323
+AMD Athlon II X4 645,2.323
+"Qualcomm Technologies, Inc SDM660",2.322
+Intel Core i7-3517UE @ 1.70GHz,2.320
+AMD A8-3870K APU,2.320
+"Qualcomm Technologies, Inc SDM665",2.317
+Intel Core2 Quad Q9550 @ 2.83GHz,2.314
+AMD A10-6700T APU,2.311
+Intel Xeon X3380 @ 3.16GHz,2.308
+Intel Core i5-4210U @ 1.70GHz,2.308
+Intel Xeon X3430 @ 2.40GHz,2.307
+Intel Core i3-2140 @ 3.50GHz,2.307
+Intel Xeon X3363 @ 2.83GHz,2.307
+AMD Phenom II X4 850,2.307
+Intel Xeon L3360 @ 2.83GHz,2.306
+AMD Phenom II X4 840T,2.305
+T700-Unisoc,2.305
+AMD Phenom II X4 B70,2.303
+AMD Phenom II X4 B50,2.300
+AMD PRO A12-8830B,2.297
+AMD PRO A10-8700B,2.296
+Intel Core i3-3245 @ 3.40GHz,2.295
+Intel Core i3-3240 @ 3.40GHz,2.294
+Intel Core2 Extreme Q6850 @ 3.00GHz,2.292
+Intel Core i5-3437U @ 1.90GHz,2.291
+Intel Celeron G4900T @ 2.90GHz,2.290
+AMD Phenom II X4 960T,2.290
+Intel Core i7-3537U @ 2.00GHz,2.288
+Intel Xeon E5472 @ 3.00GHz,2.286
+Intel Core m5-6Y54 @ 1.10GHz,2.285
+AMD Phenom II X4 940,2.285
+Intel Celeron G4930T @ 3.00GHz,2.284
+Intel Pentium 1403 v2 @ 2.60GHz,2.284
+AMD Opteron 3260 HE,2.283
+Intel Xeon E5-2403 @ 1.80GHz,2.280
+Intel Pentium 4417U @ 2.30GHz,2.280
+Intel Core i3-6006U @ 2.00GHz,2.278
+Intel Xeon L5520 @ 2.27GHz,2.274
+Intel Core i7-4550U @ 1.50GHz,2.272
+MT6771V/WL,2.270
+Intel Core i5-8200Y @ 1.30GHz,2.270
+Intel Pentium 5405U @ 2.30GHz,2.265
+Intel Xeon L5430 @ 2.66GHz,2.260
+AMD A10-9600P,2.259
+AMD Athlon II X4 641 Quad-Core,2.258
+MediaTek MT6768V/CA,2.255
+mt6779,2.255
+Intel Celeron J3455 @ 1.50GHz,2.255
+Intel Celeron G3930 @ 2.90GHz,2.250
+AMD Athlon II X4 638 Quad-Core,2.250
+AArch64 rev 2 (aarch64),2.246
+Intel Xeon E3-1220L @ 2.20GHz,2.246
+Intel Celeron N6211 @ 1.20GHz,2.245
+Intel Core i3-5020U @ 2.20GHz,2.244
+Intel Core i3-3220 @ 3.30GHz,2.242
+AMD A8-8600P,2.240
+AMD Phenom II X4 B40,2.238
+AMD Phenom II X4 B45,2.233
+Intel Core i3-3225 @ 3.30GHz,2.232
+Intel Core i5-2520M @ 2.50GHz,2.232
+AMD Phenom II X4 925,2.230
+Intel Xeon X3353 @ 2.66GHz,2.229
+MT6769V,2.229
+MT6969T,2.228
+Intel Core i5-650 @ 3.20GHz,2.225
+AMD A10-8700P,2.224
+Intel Celeron G3930TE @ 2.70GHz,2.218
+Intel Xeon X5472 @ 3.00GHz,2.218
+Intel Core i5-3427U @ 1.80GHz,2.213
+Intel Core i7-940XM @ 2.13GHz,2.211
+Intel Xeon E5430 @ 2.66GHz,2.210
+AMD Athlon II X4 640,2.208
+AMD Phenom II X4 973,2.204
+Intel Core i5-4250U @ 1.30GHz,2.198
+Samsung Exynos 9610,2.197
+Intel Pentium 4415U @ 2.30GHz,2.197
+AMD A8-3820 APU,2.194
+Intel Core i3-21050 @ 3.10GHz,2.193
+Intel Core M-5Y51 @ 1.10GHz,2.192
+Intel Core2 Quad Q9500 @ 2.83GHz,2.192
+MediaTek MT6769V/WB,2.192
+Intel Pentium G3460 @ 3.50GHz,2.191
+Intel Pentium G4400TE @ 2.40GHz,2.190
+Intel Celeron 7305,2.189
+Intel Core i5-4200U @ 1.60GHz,2.189
+Intel Celeron G3900 @ 2.80GHz,2.185
+Intel Core i3-5010U @ 2.10GHz,2.183
+"Qualcomm Technologies, Inc APQ8094",2.182
+Intel Atom C2750 @ 2.41GHz,2.174
+Intel Core i3-3210 @ 3.20GHz,2.168
+"Qualcomm Technologies, Inc SDM662",2.166
+Intel Core m3-6Y30 @ 0.90GHz,2.165
+"Qualcomm Technologies, Inc SM6125",2.161
+Intel Pentium G3450 @ 3.40GHz,2.160
+MediaTek MT6797X,2.158
+Intel Xeon X3350 @ 2.66GHz,2.158
+AMD Athlon II X4 635,2.158
+Intel Celeron J3455E @ 1.50GHz,2.157
+AMD A8-7200P,2.154
+AMD FirePro A320 APU,2.153
+Intel Pentium N4200 @ 1.10GHz,2.152
+AMD PRO A8-8600B,2.150
+Intel Core2 Extreme Q6800 @ 2.93GHz,2.145
+Intel Core2 Quad Q9450 @ 2.66GHz,2.139
+AMD Phenom II X4 B93,2.136
+Intel Core i5-2560M @ 2.70GHz,2.131
+MediaTek MT6763V/CE,2.130
+Intel Pentium G3440 @ 3.30GHz,2.129
+Intel Pentium G3430 @ 3.30GHz,2.127
+AMD A10-7400P,2.126
+AMD Athlon II X4 630,2.124
+MediaTek MT6771V/WM,2.118
+AMD Athlon X4 640,2.115
+Hardkernel ODROID-N2Plus,2.115
+AMD Athlon X4 730,2.113
+AMD Phenom II X4 B25,2.108
+Intel Pentium G3440T @ 2.80GHz,2.107
+Intel Pentium 4405U @ 2.10GHz,2.105
+Intel Atom E3950 @ 1.60GHz,2.103
+"Qualcomm Technologies, Inc SM4250",2.103
+MT6765H,2.100
+AMD Athlon II X4 631 Quad-Core,2.100
+"Qualcomm Technologies, Inc SDM636",2.096
+Intel Core i5-3337U @ 1.80GHz,2.093
+Intel Core i3-2125 @ 3.30GHz,2.093
+Intel Pentium G2140 @ 3.30GHz,2.092
+Intel Core i5-2415M @ 2.30GHz,2.089
+AMD 3015Ce,2.088
+AMD A6-3670 APU,2.085
+AMD Phenom II X4 830,2.082
+Intel Core2 Quad Q9400 @ 2.66GHz,2.082
+Intel Celeron G3900T @ 2.60GHz,2.081
+Intel Pentium G3258 @ 3.20GHz,2.080
+AMD Opteron 1389,2.079
+AMD Athlon II X4 655,2.078
+Intel Core2 Quad Q6700 @ 2.66GHz,2.076
+AMD Opteron 2384,2.074
+Intel Xeon L5420 @ 2.50GHz,2.073
+Intel Core i5-2435M @ 2.40GHz,2.072
+AMD Phenom II X4 910e,2.072
+Intel Celeron 6305 @ 1.80GHz,2.071
+Intel Celeron G5905T @ 3.30GHz,2.070
+Intel Xeon X3330 @ 2.66GHz,2.069
+Intel Xeon E5462 @ 2.80GHz,2.067
+AMD Phenom II X4 820,2.065
+Intel Pentium G3260 @ 3.30GHz,2.065
+AMD Opteron 3250 HE,2.061
+Intel Celeron G3930T @ 2.70GHz,2.059
+AMD Opteron 4162 EE,2.058
+Intel Core i7-3517U @ 1.90GHz,2.055
+Apple A9,2.053
+Intel Xeon X3230 @ 2.66GHz,2.052
+Intel Core i5-2450M @ 2.50GHz,2.052
+Intel Core i7-640M @ 2.80GHz,2.039
+Intel Celeron G3900E @ 2.40GHz,2.034
+Intel Core2 Quad Q8400 @ 2.66GHz,2.034
+AMD Phenom II X4 920,2.031
+AMD A10-5757M APU,2.031
+Intel Core i3-2102 @ 3.10GHz,2.029
+Intel Xeon E7- 2830 @ 2.13GHz,2.027
+Intel Core i3-5005U @ 2.00GHz,2.025
+Intel Core i3-3240T @ 2.90GHz,2.025
+Intel Core M-5Y71 @ 1.20GHz,2.020
+Intel Core i5-655K @ 3.20GHz,2.017
+Intel Core i7-620M @ 2.67GHz,2.016
+Intel Pentium G3450T @ 2.90GHz,2.016
+Intel Core i3-2130 @ 3.40GHz,2.015
+Intel Core2 Quad Q9505 @ 2.83GHz,2.015
+High Performance Datacenter v,2.012
+Intel Core i3-4330TE @ 2.40GHz,2.012
+Intel Core i5-2430M @ 2.40GHz,2.011
+Intel Core2 Extreme Q9200 @ 2.40GHz,2.011
+MediaTek MT8183,2.008
+AMD A6-3650 APU,2.005
+"ARM Phytium,D2000/8 E8C 8 Core 2300 MHz",2.005
+Intel Xeon E5420 @ 2.50GHz,2.005
+Intel Celeron N4500 @ 1.10GHz,2.004
+Intel Core i7-2655LE @ 2.20GHz,1.999
+AMD Opteron 2427,1.995
+"Qualcomm Technologies, Inc APQ8053",1.992
+Intel Core i5-3317U @ 1.70GHz,1.987
+Intel Core i5-4302Y @ 1.60GHz,1.986
+Intel Xeon X3320 @ 2.50GHz,1.986
+AMD Athlon II X3 460,1.985
+Intel Xeon X5355 @ 2.66GHz,1.979
+Intel Core M-5Y31 @ 0.90GHz,1.979
+"Qualcomm Technologies, Inc 450",1.978
+Intel Celeron N3450 @ 1.10GHz,1.976
+Intel Atom E3940 @ 1.60GHz,1.973
+AMD A8-3800 APU,1.971
+Intel Pentium G3250 @ 3.20GHz,1.970
+AMD Athlon II X4 615e,1.967
+Intel Core i7-3689Y @ 1.50GHz,1.967
+Intel Pentium G3420 @ 3.20GHz,1.966
+"Qualcomm Technologies, Inc SDM460",1.963
+"Qualcomm Technologies, Inc SDM632",1.961
+"Qualcomm Technologies, Inc MSM8976SG",1.961
+AMD Athlon II X4 620,1.961
+Intel Atom C3538 @ 2.10GHz,1.960
+Intel Core i5-2410M @ 2.30GHz,1.959
+Intel Core i7-840QM @ 1.87GHz,1.958
+AMD Athlon II X4 605e,1.957
+Intel Core i5-580M @ 2.67GHz,1.956
+Intel Core2 Quad Q9300 @ 2.50GHz,1.955
+Intel Core i7-920XM @ 2.00GHz,1.955
+SAMSUNG Exynos7420,1.954
+AMD A10-5750M APU,1.953
+Intel Atom E3900 @ 1.60GHz,1.953
+Intel Core i3-4025U @ 1.90GHz,1.952
+Intel Core i3-4120U @ 2.00GHz,1.948
+Intel Core i3-2120 @ 3.30GHz,1.947
+Intel Xeon E5506 @ 2.13GHz,1.946
+AMD Phenom 9850B Quad-Core,1.946
+Intel Pentium G3240 @ 3.10GHz,1.944
+Intel Core i3-5015U @ 2.10GHz,1.940
+Intel Xeon X3220 @ 2.40GHz,1.937
+Intel Core i3-3220T @ 2.80GHz,1.936
+Intel Xeon X6550 @ 2.00GHz,1.936
+Intel Xeon E5603 @ 1.60GHz,1.935
+AMD Phenom II X4 805,1.931
+Intel Xeon E5507 @ 2.27GHz,1.928
+AMD A10 PRO-7350B APU,1.926
+AMD Phenom II X4 905e,1.924
+AMD A10-4600M APU,1.923
+Intel Xeon L5410 @ 2.33GHz,1.921
+MediaTek MT8768CT,1.919
+AMD Opteron 3320 EE,1.918
+Intel Core2 Extreme Q9300 @ 2.53GHz,1.918
+AMD Phenom II X4 810,1.914
+Intel Pentium G3420T @ 2.70GHz,1.912
+Intel Core M-5Y10c @ 0.80GHz,1.911
+AMD Opteron X2170 APU,1.911
+Intel Core i7-2677M @ 1.80GHz,1.909
+Intel Core i3-3130M @ 2.60GHz,1.909
+Samsung Exynos 9611,1.908
+Intel Core i5-3439Y @ 1.50GHz,1.907
+Intel Xeon E5410 @ 2.33GHz,1.907
+Intel Core i5-4422E @ 1.80GHz,1.907
+AMD Phenom II X4 B05e,1.906
+Intel Core M-5Y10a @ 0.80GHz,1.905
+Snapdragon 835,1.905
+Intel Pentium G2130 @ 3.20GHz,1.905
+AMD Opteron 2419 EE,1.902
+AMD FX-7500 APU,1.901
+Intel Celeron G1850 @ 2.90GHz,1.899
+AMD Opteron 1385,1.898
+Intel Core i5-2510E @ 2.50GHz,1.889
+Intel Pentium G3220 @ 3.00GHz,1.888
+AMD PRO A6-8570,1.887
+AMD PRO A6-8550B,1.885
+AMD Phenom 9950 Quad-Core,1.884
+Intel Pentium G2120 @ 3.10GHz,1.882
+Intel Core i5-2515E @ 2.50GHz,1.882
+MediaTek MT8768WT,1.880
+Intel Core i7-3555LE @ 2.50GHz,1.880
+AMD A6-7480,1.879
+Intel Core i5-560M @ 2.67GHz,1.879
+Intel Core M-5Y10 @ 0.80GHz,1.878
+AMD Athlon II X4 610e,1.871
+AMD A6-9500,1.870
+Intel Core i3-4030U @ 1.90GHz,1.869
+Intel Core i3-2105 @ 3.10GHz,1.868
+Intel Xeon E5345 @ 2.33GHz,1.868
+AMD Athlon 5370 APU,1.867
+AMD Opteron 2378,1.864
+AMD Athlon II X3 455,1.860
+Intel Core2 Quad Q8300 @ 2.50GHz,1.859
+AMD A8-5550M APU,1.859
+AMD A6-3620 APU,1.857
+Intel Core i5-4230U @ 1.90GHz,1.853
+Intel Core i3-4110U @ 1.90GHz,1.853
+Intel Pentium 1403 @ 2.60GHz,1.851
+ARM Cortex-A53 6 Core 1896 MHz,1.851
+Intel Celeron G3900TE @ 2.30GHz,1.850
+Intel Core i3-4100E @ 2.40GHz,1.848
+Intel Core i3-2310E @ 2.10GHz,1.845
+MT6757W,1.845
+AMD Phenom II X3 B77,1.844
+"Qualcomm Technologies, Inc SDM630",1.842
+MT8169A,1.838
+Intel Xeon X3323 @ 2.50GHz,1.837
+Intel Core i3-2100 @ 3.10GHz,1.835
+Intel Atom x6211E @ 1.30GHz,1.833
+AMD Phenom 9750 Quad-Core,1.830
+MT6765V/WB,1.829
+AMD Phenom II X4 B15e,1.825
+Intel Core i3-2330E @ 2.20GHz,1.823
+Intel Core i7-610E @ 2.53GHz,1.818
+AMD Athlon II X3 450,1.816
+AMD A8-6500T APU,1.816
+AMD A8-7410 APU,1.813
+AMD Athlon X4 620,1.810
+Intel Core i7-740QM @ 1.73GHz,1.810
+Intel Core i5-2557M @ 1.70GHz,1.806
+MT6765,1.805
+P22,1.802
+Intel Core i5-540M @ 2.53GHz,1.802
+AMD A6-7470K,1.799
+Samsung Exynos 7904,1.797
+AMD Phenom II X940 Quad-Core,1.797
+AMD Athlon II X3 445,1.797
+AMD Opteron 1381,1.797
+Intel Celeron 6305E @ 1.80GHz,1.797
+AMD GX-420MC SOC,1.796
+AArch64 rev 4 (aarch64),1.796
+Intel Core2 Quad Q6600 @ 2.40GHz,1.791
+Intel Core M-5Y70 @ 1.10GHz,1.791
+AMD GX-420CA SOC,1.787
+AMD Athlon X4 530,1.786
+AMD PRO A4-3350B APU,1.784
+AMD Phenom X4 Quad-Core GP-9730,1.784
+AMD Athlon X3 455,1.783
+Intel Core i7-2637M @ 1.70GHz,1.783
+Intel Core2 Quad Q8200 @ 2.33GHz,1.782
+AMD Athlon X3 435,1.781
+Intel Core i3-4000M @ 2.40GHz,1.777
+AMD Phenom II X4 910,1.776
+AMD R-464L APU,1.773
+AMD A8-6410 APU,1.772
+MediaTek MT6765V/CB,1.771
+ASUS Tinker Board 2/2S,1.771
+MT6757WD,1.771
+Samsung Exynos 7885,1.769
+Intel Xeon L5408 @ 2.13GHz,1.769
+AMD Phenom II N830 3+1,1.768
+Intel Core2 Quad Q9100 @ 2.26GHz,1.764
+AMD Phenom 9600B Quad-Core,1.764
+Intel Celeron G1840 @ 2.80GHz,1.761
+AMD GX-424CC SOC,1.761
+AMD A10-4657M APU,1.759
+"Qualcomm Technologies, Inc MSM8953",1.757
+Intel Pentium G3240T @ 2.70GHz,1.755
+Intel Pentium G3260T @ 2.90GHz,1.755
+MediaTek MT6765V/CA,1.752
+AMD Athlon 5350 APU,1.749
+AMD A6-9500E,1.747
+AMD A10-5745M APU,1.746
+MT6797M,1.745
+Intel Pentium G3250T @ 2.80GHz,1.742
+Samsung Exynos 7880,1.741
+HP Hexa-Core 2.0GHz,1.741
+Intel Core i7-820QM @ 1.73GHz,1.739
+AMD A6-7310 APU,1.735
+Intel Celeron 3965U @ 2.20GHz,1.735
+MT6765V/WA,1.734
+AMD A8-5557M APU,1.734
+AMD PRO A6-9500,1.733
+AMD Opteron 2356,1.733
+MediaTek MT6797,1.730
+AMD A10-7300 APU,1.729
+MT6752,1.728
+Intel Pentium 4425Y @ 1.70GHz,1.726
+AMD Phenom X2 Dual-Core GE-6060,1.722
+Intel Core i3-560 @ 3.33GHz,1.722
+AMD Athlon II X3 440,1.718
+Intel Core i5-520M @ 2.40GHz,1.718
+Intel Core i3-4158U @ 2.00GHz,1.718
+Intel Celeron J4025 @ 2.00GHz,1.714
+AMD Athlon II X4 600e,1.711
+Intel Pentium G2030 @ 3.00GHz,1.710
+Intel Celeron G1630 @ 2.80GHz,1.707
+HiSilicon Kirin 659,1.703
+AMD Opteron 1356,1.703
+Intel Xeon E5405 @ 2.00GHz,1.702
+AMD Phenom FX-5200 Quad-Core,1.699
+Intel Celeron 4305UE @ 2.00GHz,1.699
+Intel Atom x6211E @ 1.20GHz,1.695
+Intel Celeron 4305U @ 2.20GHz,1.694
+Intel Pentium G2100T @ 2.60GHz,1.691
+AMD Phenom 9650 Quad-Core,1.690
+Intel Celeron G1820 @ 2.70GHz,1.687
+Intel Core i7-2617M @ 1.50GHz,1.687
+AMD A4-7210 APU,1.686
+"Qualcomm Technologies, Inc APQ8096",1.682
+AMD PRO A6-7350B,1.679
+Intel Xeon L5335 @ 2.00GHz,1.678
+Intel Core i3-3120M @ 2.50GHz,1.675
+AMD Phenom 9850 Quad-Core,1.673
+AMD Athlon II X3 435,1.672
+AMD Phenom II X920 Quad-Core,1.669
+AMD A6-6310 APU,1.667
+Intel Pentium G2020 @ 2.90GHz,1.667
+AMD A8-4500M APU,1.663
+AMD PRO A6-9500E,1.662
+AMD Phenom II N970 Quad-Core,1.662
+MediaTek MT6757CD,1.657
+Intel Core i7-720QM @ 1.60GHz,1.657
+AMD A4-6250J APU,1.656
+Intel Core i3-4030Y @ 1.60GHz,1.654
+AMD A6-5200 APU,1.654
+Intel Celeron N6210 @ 1.20GHz,1.652
+MT6762,1.652
+AMD Phenom X4 Quad-Core GP-9600,1.649
+Intel Core i3-4005U @ 1.70GHz,1.649
+AMD A4 PRO-3340B,1.645
+AMD A8-7100 APU,1.644
+MediaTek MT8768WA,1.643
+Rockchip RK,1.641
+AMD A6 PRO-7400B,1.641
+MT6755V/W,1.640
+AMD A10-4655M APU,1.637
+"Qualcomm Technologies, Inc APQ8076",1.636
+Nvidia Tegra T210,1.635
+AMD Opteron 2373 EE,1.635
+Intel Core i3-4010U @ 1.70GHz,1.635
+Unisoc UIS8581A,1.633
+AMD Embedded R-Series RX-216GD,1.628
+Intel Core i3-3110M @ 2.40GHz,1.627
+AMD Athlon X3 445,1.626
+AMD A6-3600 APU,1.624
+AMD A8-3510MX APU,1.622
+AMD A9-9430,1.620
+AMD Opteron 1354,1.620
+Intel Core i5 E 520 @ 2.40GHz,1.619
+AMD A6-6400B APU,1.616
+Intel Celeron G1820T @ 2.40GHz,1.614
+"Qualcomm Technologies, Inc MSM8976",1.613
+Intel Pentium G2120T @ 2.70GHz,1.613
+Intel Pentium G3220T @ 2.60GHz,1.613
+Samsung Exynos 7420,1.612
+AMD Phenom 9550 Quad-Core,1.608
+Intel Celeron 2000E @ 2.20GHz,1.607
+Spreadtrum SC9863A Board,1.607
+AMD A6-8550,1.604
+AMD GX-416RA SOC,1.604
+AMD A6-7400K APU,1.600
+AMD Phenom FX-5000 Quad-Core,1.599
+Z3-6540M@2.1GHz,1.599
+Intel Celeron N4020C @ 1.10GHz,1.595
+Intel Core i3-550 @ 3.20GHz,1.594
+Intel Core i5-4220Y @ 1.60GHz,1.591
+Qualcomm MSM8953,1.589
+Qualcomm MSM8996PRO-AB,1.589
+Intel Pentium 4415Y @ 1.60GHz,1.587
+AMD A8-5545M APU,1.584
+AMD Phenom II N930 Quad-Core,1.584
+Intel Core i5-3339Y @ 1.50GHz,1.583
+Intel Celeron J4005 @ 2.00GHz,1.582
+Intel Pentium G2030T @ 2.60GHz,1.581
+Intel Pentium G2010 @ 2.80GHz,1.581
+ARM phytium FT1500a 4 Core 2000 MHz,1.579
+AMD A8-3550MX APU,1.579
+Intel Celeron G1840T @ 2.50GHz,1.576
+Intel Celeron N4020 @ 1.10GHz,1.573
+AMD PRO A6-8500B,1.572
+AMD A8-3530MX APU,1.572
+Intel Pentium G3320TE @ 2.30GHz,1.570
+MT6763V/CT,1.570
+AMD A8 PRO-7150B APU,1.567
+AMD Phenom X2 Dual-Core GE-5060,1.566
+Intel Celeron G1830 @ 2.80GHz,1.560
+AMD Phenom II X3 B75,1.560
+AMD PRO A6-8570E,1.559
+Intel Core i5-4200Y @ 1.40GHz,1.558
+MT6763V/B,1.557
+AMD Athlon II X3 420e,1.557
+Intel Core i5-4210Y @ 1.50GHz,1.553
+Intel Pentium 3560M @ 2.40GHz,1.552
+AMD PRO A4-8350B,1.552
+AMD Phenom II X3 710,1.551
+AMD Athlon II X3 425,1.551
+MediaTek MT6757V,1.550
+AMD A6-6420B APU,1.550
+ZHAOXIN KaiXian KX-6640MA@2.2+GHz,1.549
+Intel Xeon E5335 @ 2.00GHz,1.549
+AMD Phenom 9500 Quad-Core,1.549
+AMD Embedded G-Series GX-420GI Radeon R7E,1.549
+ZHAOXIN KaiXian ZX-C+ C4700@2.0GHz,1.547
+AMD Opteron 1352,1.547
+AMD A4 PRO-7350B,1.544
+AMD A4-6320 APU,1.543
+Intel Celeron G1620T @ 2.40GHz,1.540
+Intel Celeron G1620 @ 2.70GHz,1.539
+AMD A6-6420K APU,1.539
+AMD Phenom II X3 B73,1.538
+Intel Core2 Quad Q9000 @ 2.00GHz,1.534
+MediaTek MT6763V/V,1.533
+Apple A8,1.532
+Samsung A13 USA SINGLE REV02B board based on EXYNO,1.528
+Intel Pentium 4405Y @ 1.50GHz,1.526
+AMD Phenom 9600 Quad-Core,1.526
+AMD A9-9425,1.524
+Intel Xeon X5270 @ 3.50GHz,1.524
+MediaTek MT6765G,1.524
+AMD Phenom II X3 720,1.524
+AMD E2-7110 APU,1.521
+AMD A9-9410,1.520
+"Qualcomm Technologies, Inc SDA450",1.520
+AMD Phenom 9750B Quad-Core,1.520
+AMD A4-7300 APU,1.520
+Intel Xeon E5504 @ 2.00GHz,1.519
+"Qualcomm Technologies, Inc MSM8996pro",1.519
+Intel Core i7-640LM @ 2.13GHz,1.517
+AMD Athlon X3 425,1.516
+Intel Core i3-540 @ 3.07GHz,1.516
+MediaTek MT6762V/WD,1.515
+AMD Phenom II N950 Quad-Core,1.515
+AMD A9-9420,1.511
+AMD Opteron 2354,1.509
+AMD Phenom II X4 900e,1.505
+MediaTek MT6797T,1.504
+Intel Celeron G1610 @ 2.60GHz,1.504
+AMD Athlon X2 370K Dual Core,1.504
+Intel Pentium G870 @ 3.10GHz,1.503
+AMD Phenom 9350e Quad-Core,1.501
+Intel Celeron 2970M @ 2.20GHz,1.501
+AMD PRO A6-8530B,1.498
+Intel Core i3-2120T @ 2.60GHz,1.493
+Intel Celeron 3955U @ 2.00GHz,1.490
+AMD A4-6210 APU,1.489
+MediaTek MT6762V/WR,1.489
+Intel Core i3-2100T @ 2.50GHz,1.488
+Intel Celeron 3867U @ 1.80GHz,1.488
+AMD A4 PRO-7300B APU,1.486
+Intel Core i5-4300Y @ 1.60GHz,1.485
+ARM Falkor V1/Kryo 8 Core 1900 MHz,1.475
+Intel Core m5-7Y54 @ 1.20GHz,1.475
+Pentium Dual-Core E6000 @ 3.46GHz,1.472
+Intel Core i3-530 @ 2.93GHz,1.470
+Intel Xeon E7320 @ 2.13GHz,1.469
+Intel Xeon E5320 @ 1.86GHz,1.469
+Intel Pentium J3710 @ 1.60GHz,1.463
+Intel Celeron 5205U @ 1.90GHz,1.462
+AMD Phenom 9450e Quad-Core,1.455
+Intel Core i5-4202Y @ 1.60GHz,1.453
+Intel Xeon X5272 @ 3.40GHz,1.451
+AMD Phenom II X3 700e,1.451
+AMD A6-6400K APU,1.451
+Intel Pentium G860 @ 3.00GHz,1.449
+Intel Xeon E5240 @ 3.00GHz,1.448
+AMD A6-3430MX APU,1.448
+AMD Opteron X3216 APU,1.447
+AMD Phenom 8600B Triple-Core,1.447
+Intel Core i3-4020Y @ 1.50GHz,1.447
+MediaTek MT6762V/WA,1.445
+AMD A6-8500P,1.445
+Intel Pentium 4410Y @ 1.50GHz,1.444
+Intel Core i5-2467M @ 1.60GHz,1.444
+AMD Athlon II X3 415e,1.441
+AMD A6-5400B APU,1.439
+AMD Athlon X3 440,1.438
+Samsung Exynos 7884,1.437
+"Qualcomm Technologies, Inc MSM8956",1.435
+AMD Phenom II X2 B59,1.431
+AMD A4-6300 APU,1.430
+AMD A8-3500M APU,1.430
+Intel Xeon E3113 @ 3.00GHz,1.429
+ARM Cortex-A73 6 Core 2016 MHz,1.428
+AMD A10 Micro-6700T APU,1.426
+"Qualcomm Technologies, Inc. MSM8940-PMI8940 MTP",1.426
+Samsung M13 EUR OPEN REV02 board based on EXYNOS85,1.425
+Intel Atom C2558 @ 2.40GHz,1.424
+AMD Phenom II X3 740,1.424
+Intel Core i7-620LM @ 2.00GHz,1.423
+Intel Atom C2550 @ 2.40GHz,1.422
+"Qualcomm Technologies, Inc SDM439",1.420
+Intel Celeron N4000 @ 1.10GHz,1.419
+AMD Phenom II X2 560,1.417
+Hisilicon Kirin 930,1.415
+AMD Phenom 9150e Quad-Core,1.414
+Intel Core i7-2610UE @ 1.50GHz,1.409
+Intel Celeron N4000C @ 1.10GHz,1.409
+Intel Xeon E3120 @ 3.16GHz,1.408
+Intel Core2 Duo E8290 @ 2.83GHz,1.408
+Intel Xeon E3-1220L v3 @ 1.10GHz,1.407
+Intel Celeron 1020E @ 2.20GHz,1.406
+Intel Pentium 2030M @ 2.50GHz,1.402
+AMD A8-3520M APU,1.401
+AMD GX-415GA SOC,1.395
+Intel Pentium G850 @ 2.90GHz,1.395
+MT6755V/WS,1.389
+AMD Phenom II P960 Quad-Core,1.386
+AMD E1-6050J APU ,1.385
+AMD Athlon 5150 APU,1.385
+Intel Xeon L5310 @ 1.60GHz,1.385
+Intel Pentium G6951 @ 2.80GHz,1.383
+"Qualcomm Technologies, Inc BENGAL-IOT",1.382
+MT8176,1.380
+AMD A6-3500 APU,1.379
+Intel Core2 Duo E8600 @ 3.33GHz,1.377
+MediaTek MT6762V/CB,1.377
+MT6750V/C,1.375
+Intel Pentium N3710 @ 1.60GHz,1.373
+Intel Celeron G1610T @ 2.30GHz,1.373
+AMD PRO A6-9500B,1.371
+Intel Pentium 2020M @ 2.40GHz,1.370
+Unisoc SC9863a,1.370
+"Qualcomm Technologies, Inc MSM8996",1.369
+AMD Phenom II X2 565,1.368
+AMD A4-5300 APU,1.367
+Unisoc T310,1.365
+Intel Core i3-2370M @ 2.40GHz,1.363
+Intel Core i3-3217UE @ 1.60GHz,1.362
+AMD Phenom II X2 570,1.360
+Intel Core i3-4010Y @ 1.30GHz,1.358
+Intel Pentium 3550M @ 2.30GHz,1.358
+MediaTek MT6762V/WB,1.357
+Intel Pentium G645 @ 2.90GHz,1.356
+AMD A9-9400,1.356
+AMD Athlon II X2 280,1.355
+Intel Pentium G2020T @ 2.50GHz,1.355
+Qualcomm,1.354
+Intel Core i3-2332M @ 2.20GHz,1.353
+VIA QuadCore C4650@2.0GHz,1.352
+AMD A4-5100 APU,1.346
+AMD Phenom 8750 Triple-Core,1.343
+Intel Atom x7-Z8700 @ 1.60GHz,1.343
+Intel Pentium 3825U @ 1.90GHz,1.342
+AMD Phenom II X2 521,1.341
+Intel Celeron 4205U @ 1.80GHz,1.340
+Intel Xeon L3110 @ 3.00GHz,1.338
+Intel Xeon L5240 @ 3.00GHz,1.337
+Intel Atom x7-Z8750 @ 1.60GHz,1.335
+AMD Athlon II X3 405e,1.331
+AMD A6-9225,1.330
+AMD A4-5050 APU,1.328
+AMD A4-6300B APU,1.328
+AMD Athlon X2 280,1.327
+Intel Core i5 750S @ 2.40GHz,1.326
+MT6762V/CR,1.325
+Intel Xeon @ 2.20GHz,1.324
+Qualcomm MSM8996,1.322
+AMD Athlon II X3 400e,1.320
+AMD Phenom II P940 Quad-Core,1.319
+Intel Core i5-480M @ 2.67GHz,1.318
+MT8768WE,1.317
+AMD Opteron 2393 SE,1.317
+AMD Athlon X2 340 Dual Core,1.315
+MT6763V/WT,1.313
+AMD A8-4555M APU,1.312
+ARM Cortex-A57 4 Core 2091 MHz,1.311
+AMD Phenom II X2 555,1.311
+ARM Cortex-A73 6 Core 1992 MHz,1.311
+Intel Xeon E5310 @ 1.60GHz,1.306
+Intel Pentium G640 @ 2.80GHz,1.303
+AMD Phenom X4 Quad-Core GP-9500,1.297
+ARM Cortex-A72 4 Core 2400 MHz,1.295
+AMD Athlon X2 450,1.295
+Intel Core i5-460M @ 2.53GHz,1.294
+Intel Pentium G6960 @ 2.93GHz,1.293
+Intel Xeon X3210 @ 2.13GHz,1.293
+Hisilicon Kirin 935,1.291
+MT6795,1.290
+AMD A4-5000 APU,1.290
+Intel Pentium G630 @ 2.70GHz,1.289
+AMD A6-3420M APU,1.287
+Intel Core i7-660UM @ 1.33GHz,1.284
+AMD Phenom 8850B Triple-Core,1.281
+AMD A6-9230,1.279
+Unisoc UIS8581E,1.279
+"Qualcomm Technologies, Inc SDM450",1.279
+AMD Phenom 9100e Quad-Core,1.279
+MT6755,1.278
+AMD Sempron 240,1.278
+Intel Core i3-3227U @ 1.90GHz,1.275
+Intel Celeron 1020M @ 2.10GHz,1.275
+AMD A6-9220,1.273
+AMD Embedded G-Series GX-224IJ Radeon R4E,1.271
+MT6750V/DN,1.271
+Samsung M13 SWA INS 00 board based on EXYNOS850,1.269
+Intel Celeron G555 @ 2.70GHz,1.268
+Intel Core i3-2348M @ 2.30GHz,1.267
+AMD Athlon II X2 265,1.265
+Intel Celeron 2950M @ 2.00GHz,1.264
+AMD Phenom II X620 Dual-Core,1.262
+AMD A6-5357M APU,1.260
+AMD A6-9210,1.260
+Intel Core i3-330E @ 2.13GHz,1.260
+AMD A4-4020 APU,1.260
+AMD Athlon II X2 270,1.258
+AMD Athlon II X2 B28,1.257
+Unisoc SC9863A1,1.257
+AMD A6-5400K APU,1.256
+Intel Celeron 3855U @ 1.60GHz,1.256
+Intel Celeron 3865U @ 1.80GHz,1.255
+Qualcomm MSM8992,1.255
+AMD Phenom II N870 Triple-Core,1.255
+ARM Cortex-A72 4 Core 2394 MHz,1.254
+AMD Phenom II N850 Triple-Core,1.253
+Intel Celeron 3765U @ 1.90GHz,1.252
+Intel Core i3-2350M @ 2.30GHz,1.251
+Intel Pentium A1020 @ 2.41GHz,1.249
+Intel Celeron J3160 @ 1.60GHz,1.247
+Intel Xeon E3110 @ 3.00GHz,1.242
+Intel Pentium N3700 @ 1.60GHz,1.239
+Intel Core2 Duo E8500 @ 3.16GHz,1.239
+Intel Xeon X5260 @ 3.33GHz,1.238
+AMD Phenom 8650 Triple-Core,1.237
+Intel Pentium J2900 @ 2.41GHz,1.234
+Intel Atom x5-Z8500 @ 1.44GHz,1.233
+AMD A4-5300B APU,1.232
+BCM2835,1.231
+Samsung A13 EUR OPEN REV02B board based on EXYNOS8,1.230
+Intel Core i3-2330M @ 2.20GHz,1.229
+MT6755M,1.229
+AMD Phenom X4 Quad-Core GP-9530,1.228
+Intel Pentium G620 @ 2.60GHz,1.227
+AMD Phenom 8450e Triple-Core,1.225
+Intel Core i3-2328M @ 2.20GHz,1.225
+AMD Phenom II P860 Triple-Core,1.225
+AMD Phenom 8450 Triple-Core,1.225
+Intel Core i5-2537M @ 1.40GHz,1.224
+AMD Phenom II X3 705e,1.222
+AMD A6-3410MX APU,1.222
+MT6755V/BM,1.219
+Intel Core i3-4012Y @ 1.50GHz,1.219
+AMD R-272F APU,1.215
+Intel Celeron G550 @ 2.60GHz,1.214
+Intel Pentium N3540 @ 2.16GHz,1.212
+Intel Core i3-2310M @ 2.10GHz,1.210
+Intel Pentium E6700 @ 3.20GHz,1.210
+AMD Phenom 8600 Triple-Core,1.210
+AMD A4-9125,1.207
+Intel Core i5-450M @ 2.40GHz,1.207
+Intel Celeron N3150 @ 1.60GHz,1.207
+Intel Core i3-3217U @ 1.80GHz,1.203
+AMD A4-9120,1.203
+AMD Opteron 2222,1.198
+Intel Atom Z3795 @ 1.60GHz,1.197
+Intel Core i5-430M @ 2.27GHz,1.197
+ROC-RK3568-PC HDMI (Android),1.197
+Intel Core i7-680UM @ 1.47GHz,1.196
+Intel Core2 Duo T9800 @ 2.93GHz,1.194
+AMD A6-3400M APU,1.192
+AMD Phenom II N830 Triple-Core,1.190
+Rockchip RK3568 EVB1 DDR4 V10 Board,1.189
+AMD Phenom 8750B Triple-Core,1.188
+Intel Pentium N3530 @ 2.16GHz,1.187
+Intel Pentium G840 @ 2.80GHz,1.186
+Intel Core2 Duo E8335 @ 2.66GHz,1.186
+Intel Celeron J3355 @ 2.00GHz,1.184
+AMD R-460L APU,1.183
+MediaTek MT6762G,1.183
+Intel Celeron 3755U @ 1.70GHz,1.182
+Nvidia Tegra T132,1.181
+Intel Core i5-4470 @ 3.30GHz,1.180
+Intel Celeron 3965Y @ 1.50GHz,1.179
+Intel Atom x5-Z8550 @ 1.44GHz,1.179
+Intel Core2 Duo T9900 @ 3.06GHz,1.179
+Intel Core i3-390M @ 2.67GHz,1.178
+Intel Core i3-380M @ 2.53GHz,1.177
+Intel Core2 Duo E8400 @ 3.00GHz,1.176
+AMD Athlon II X2 B26,1.172
+Intel Xeon Gold 6133 @ 2.50GHz,1.172
+ARM Cortex-A57 4 Core 1734 MHz,1.170
+AMD A4-4000 APU,1.170
+ARM Cortex-A72 6 Core 1512 MHz,1.167
+Intel Pentium E6800 @ 3.33GHz,1.166
+AMD Phenom II X640 Dual-Core,1.165
+Intel Pentium G645T @ 2.50GHz,1.164
+AMD Phenom II X2 511,1.163
+AMD Athlon II X2 255,1.162
+MT6757WH,1.161
+AMD Phenom II P920 Quad-Core,1.160
+ARM Cortex-A15 8 Core 1400 MHz,1.160
+MTK6757,1.158
+Intel Core2 Duo E8435 @ 3.06GHz,1.157
+Intel Core2 Extreme X9000 @ 2.80GHz,1.157
+AMD QC-4000,1.155
+AMD Athlon II X2 250e,1.155
+AMD Phenom II X2 550,1.155
+ARM Cortex-A57 4 Core 2014 MHz,1.153
+Intel Xeon W3505 @ 2.53GHz,1.153
+AMD Sempron 3850 APU,1.153
+AMD Phenom II X2 B55,1.151
+Intel Celeron 3215U @ 1.70GHz,1.150
+Intel Celeron N3160 @ 1.60GHz,1.150
+MediaTek MT6750T,1.149
+MediaTek MT6753T,1.149
+Intel Core2 Extreme X9100 @ 3.06GHz,1.148
+AMD A6 Micro-6500T APU,1.146
+Intel Celeron J1900 @ 1.99GHz,1.144
+Intel Pentium N3520 @ 2.16GHz,1.143
+Rockchip RK3399 Excavator Board edp avb (Android),1.143
+AMD Phenom 8850 Triple-Core,1.142
+AMD A6-5350M APU,1.141
+Intel Celeron G540 @ 2.50GHz,1.139
+Intel Pentium G640T @ 2.40GHz,1.139
+Intel Pentium 3805U @ 1.90GHz,1.139
+Intel Pentium E5800 @ 3.20GHz,1.139
+Intel Core2 Extreme X7800 @ 2.60GHz,1.138
+Intel Core i3-2312M @ 2.10GHz,1.138
+AMD Phenom II X2 B53,1.137
+Intel Celeron G540T @ 2.10GHz,1.137
+Intel Core2 Duo E6850 @ 3.00GHz,1.136
+Intel Core2 Duo E7600 @ 3.06GHz,1.134
+AMD Phenom 8400 Triple-Core,1.134
+Intel Pentium E6600 @ 3.06GHz,1.134
+AMD Athlon II X2 245e,1.131
+Intel Core i3-370M @ 2.40GHz,1.130
+"Qualcomm Technologies, Inc SCUBAPIIOT",1.123
+AMD Phenom II X2 545,1.122
+AMD A6-5345M APU,1.122
+Intel Pentium E6500 @ 2.93GHz,1.121
+Intel Core2 Duo P9700 @ 2.80GHz,1.120
+Intel Xeon L5320 @ 1.86GHz,1.118
+AMD A6-1450 APU,1.117
+Intel Pentium A1018 @ 2.10GHz,1.117
+AMD Phenom II P840 Triple-Core,1.116
+Intel Core2 Duo E7500 @ 2.93GHz,1.115
+Intel Celeron G1820TE @ 2.20GHz,1.115
+AMD Athlon II X2 260,1.114
+AMD Phenom 8250 Triple-Core,1.114
+Intel Core i7-640UM @ 1.20GHz,1.114
+MediaTek MT6750V/WT,1.112
+Intel Core2 Duo E8135 @ 2.66GHz,1.112
+Intel Celeron N3350 @ 1.10GHz,1.111
+AMD Athlon II X2 250,1.109
+AMD PRO A4-4350B,1.109
+AMD E2-3800 APU,1.108
+Intel Core2 Extreme X7900 @ 2.80GHz,1.108
+AMD Opteron 2220,1.106
+AMD Athlon II X2 210e,1.105
+Qualcomm MSM8939,1.105
+AMD Athlon II X2 B24,1.104
+AMD A9-9420e,1.103
+Intel Celeron G550T @ 2.20GHz,1.102
+Intel Pentium B970 @ 2.30GHz,1.102
+Samsung EXYNOS5433,1.099
+AMD Phenom II X2 B57,1.099
+Intel Celeron G530 @ 2.40GHz,1.097
+Intel Xeon 3075 @ 2.66GHz,1.096
+AMD E2-6110 APU,1.094
+Intel Celeron 2002E @ 1.50GHz,1.091
+MT6755V/WM,1.090
+AMD Opteron 1222,1.089
+Qualcomm MSM 8939 HUAWEI KIW-L21,1.088
+Intel Celeron G1101 @ 2.27GHz,1.086
+Qualcomm MSM 8939 HUAWEI TEXAS-A1,1.085
+AMD Phenom 8250e Triple-Core,1.084
+AMD Athlon II X2 235e,1.084
+Intel Core2 Duo E8200 @ 2.66GHz,1.084
+Intel Celeron 1005M @ 1.90GHz,1.082
+AMD A4-3420 APU,1.080
+AMD A4-3400 APU,1.080
+AMD Phenom X3 8550,1.079
+Intel Core2 Duo P9600 @ 2.66GHz,1.078
+MT8173,1.077
+"Qualcomm Technologies, Inc MSM8937",1.076
+Intel Core2 Duo E8335 @ 2.93GHz,1.075
+AMD A8-7050,1.074
+MediaTek MT6762V/CA,1.073
+AMD A6-9220C,1.072
+Intel Celeron 1000M @ 1.80GHz,1.070
+MT6755BM,1.070
+Intel Xeon 3085 @ 3.00GHz,1.070
+AMD Phenom II N660 Dual-Core,1.068
+AMD Phenom II P820 Triple-Core,1.068
+Intel Xeon W3503 @ 2.40GHz,1.065
+AMD GX-412HC,1.065
+Qualcomm MSM 8939 HUAWEI KIW-L24,1.065
+AMD A6-9200,1.064
+AMD Phenom X4 Quad-Core GS-6560,1.063
+Intel Pentium E5700 @ 3.00GHz,1.063
+Intel Core i3-350M @ 2.27GHz,1.062
+Intel Pentium G6950 @ 2.80GHz,1.061
+AMD Athlon 7850 Dual-Core,1.058
+AMD Athlon II X2 245,1.058
+Rockchip RK3566 BOX DEMO V10 ANDROID Board,1.058
+Intel Atom E3845 @ 1.91GHz,1.058
+MT6592T,1.056
+Intel Celeron G530T @ 2.00GHz,1.056
+Intel Celeron 2980U @ 1.60GHz,1.056
+Intel Core2 Duo E8235 @ 2.80GHz,1.053
+Intel Core2 Duo E8300 @ 2.83GHz,1.051
+Intel Pentium B980 @ 2.40GHz,1.050
+MT8168B,1.048
+JLQ JR510,1.046
+Intel Celeron N2940 @ 1.83GHz,1.046
+ARM Cortex-A72 6 Core 1416 MHz,1.046
+AMD Athlon II X2 B22,1.045
+Intel Core2 Duo T9500 @ 2.60GHz,1.045
+AMD Embedded G-Series GX-215JJ Radeon R2E,1.044
+Intel Core2 Duo T9600 @ 2.80GHz,1.041
+Intel Core2 Duo P9600 @ 2.53GHz,1.040
+MT8783,1.039
+Intel Pentium 3556U @ 1.70GHz,1.039
+AMD Opteron 2218,1.036
+AMD GX-222GC SOC,1.036
+AMD Opteron 1220,1.036
+Intel Atom x5-E8000 @ 1.04GHz,1.033
+Intel Pentium E6300 @ 2.80GHz,1.029
+Intel Pentium G630T @ 2.30GHz,1.029
+AMD Athlon II X2 220,1.028
+Intel Celeron U1900 @ 1.99GHz,1.028
+AMD A6 PRO-7050B APU,1.027
+Intel Pentium 3558U @ 1.70GHz,1.026
+Intel Xeon 3070 @ 2.66GHz,1.025
+ARM Cortex-A57 8 Core 1500 MHz,1.022
+Qualcomm MSM8937,1.020
+Intel Pentium 2127U @ 1.90GHz,1.019
+Intel Pentium 2117U @ 1.80GHz,1.018
+tn8,1.016
+AMD Turion II Ultra Dual-Core Mobile M640,1.016
+Intel Pentium J2850 @ 2.41GHz,1.016
+AMD Athlon X2 240e,1.015
+Intel Core i5-560UM @ 1.33GHz,1.015
+AMD Phenom II N620 Dual-Core,1.014
+MediaTek MT6750,1.012
+AMD Turion II Ultra Dual-Core Mobile M660,1.011
+AMD Phenom X2 Dual-Core GE-7060,1.010
+AMD A6-7000 ,1.010
+Intel Core i3-330M @ 2.13GHz,1.009
+Intel Pentium E5500 @ 2.80GHz,1.008
+AMD A4-4300M APU,1.006
+Intel Core2 Duo E6750 @ 2.66GHz,1.004
+ARM Cortex-A72 4 Core 2300 MHz,1.004
+AMD A4 Micro-6400T APU,1.004
+Intel Core i3-3229Y @ 1.40GHz,1.004
+Intel Celeron N2930 @ 1.83GHz,1.003
+Rockchip RK3566 EVB3 DDR3 V10 Board,1.003
+AMD Athlon II X2 240e,1.002
+Intel Core i5-540UM @ 1.20GHz,1.002
+AMD Athlon X2 215,996
+Intel Core2 Duo E7400 @ 2.80GHz,996
+Intel Pentium B950 @ 2.10GHz,994
+Intel Core2 Duo P9500 @ 2.53GHz,993
+AMD A6-4400M APU,992
+Intel Celeron 2981U @ 1.60GHz,991
+AMD E2-9010,991
+AMD Athlon II X2 4300e,990
+Snapdragon 435,990
+Intel Core2 Duo E6700 @ 2.66GHz,987
+Intel Pentium Extreme Edition 965 @ 3.73GHz,987
+AMD A6-9220e,986
+ARM Cortex-A72 4 Core 1900 MHz,984
+ARM ARMv7 rev 3 (v7l) 4 Core 2065 MHz,984
+AMD E2-9030,983
+MT8768WD,979
+AMD Opteron 1218 HE,979
+AMD Athlon II X2 4400e,978
+Intel Celeron B840 @ 1.90GHz,978
+Intel Core i3-2340UE @ 1.30GHz,976
+Intel Celeron 1037U @ 1.80GHz,976
+Intel Core2 Duo T7800 @ 2.60GHz,976
+Intel Core2 Duo E7200 @ 2.53GHz,974
+Intel Core2 Duo E8135 @ 2.40GHz,973
+AMD Athlon 64 FX-74,972
+AMD Athlon II X2 240,968
+MT6795M,968
+MediaTek MT6753,967
+Intel Core2 Duo T9400 @ 2.53GHz,966
+AMD Phenom II N640 Dual-Core,965
+Intel Core i7-620UM @ 1.07GHz,964
+Intel Xeon 5160 @ 3.00GHz,963
+Intel Core2 Duo P8700 @ 2.53GHz,961
+AMD Athlon 7750 Dual-Core,960
+Intel Atom C2538 @ 2.40GHz,960
+AMD Turion II P540 Dual-Core,960
+Intel Core2 Duo P8800 @ 2.66GHz,959
+AMD Athlon II X2 215,959
+AMD Opteron 285,956
+MT6750V/CS,955
+AMD Turion II Ultra Dual-Core Mobile M600,955
+Intel Core2 Duo T9300 @ 2.50GHz,955
+AMD R-260H APU,954
+AMD E2-3200 APU,953
+AMD Opteron 290,952
+Intel Core2 Duo P9300 @ 2.26GHz,952
+ARM Cortex-A57 4 Core 1479 MHz,952
+AMD A4-3300 APU,950
+"Qualcomm Technologies, Inc MSM8939",949
+Samsung Exynos 7870,946
+Intel Pentium E5400 @ 2.70GHz,946
+Rockchip RK3566 RK817 TABLET LP4X Board,946
+Intel Core2 Duo E7300 @ 2.66GHz,945
+AMD Athlon 64 FX-62 Dual Core,943
+Intel Celeron J1850 @ 1.99GHz,942
+"Qualcomm Technologies, Inc SDM429",940
+Intel Xeon 3060 @ 2.40GHz,939
+MediaTek MT8166B,939
+AMD Athlon 64 X2 Dual Core 6400+,938
+AMD Athlon X2 255,938
+AMD Athlon 64 X2 Dual Core 6000+,937
+Intel Celeron 3205U @ 1.50GHz,937
+Intel Celeron E3500 @ 2.70GHz,935
+MT8766A,935
+AMD Phenom II P650 Dual-Core,933
+"Qualcomm Technologies, Inc MSM8994",932
+Intel Core2 Duo E6600 @ 2.40GHz,932
+Samsung J7 Max LTE SWA board based on MT6757V/WL,930
+AMD Sempron X2 198 Dual-Core,930
+Intel Core2 Duo T9550 @ 2.66GHz,929
+Intel Atom x5-E3930 @ 1.30GHz,928
+Intel Xeon L3406 @ 2.27GHz,928
+Intel Pentium B960 @ 2.20GHz,927
+Intel Celeron N2920 @ 1.86GHz,926
+AMD E2-9000,926
+Pentium Dual-Core T4500 @ 2.30GHz,921
+AMD Athlon X2 240,921
+MT8165,916
+AMD Athlon 64 X2 Dual Core 5600+,916
+Intel Atom C3338 @ 1.50GHz,915
+Intel Xeon 5148 @ 2.33GHz,912
+AMD Turion II Dual-Core Mobile M540,912
+AMD Opteron 1218,910
+Intel Atom x5-Z8350 @ 1.44GHz,910
+AMD Opteron 2220 SE,909
+AMD Athlon 64 X2 Dual Core 5400+,907
+VIA Eden X4 C4250 @ 1.2+GHz,904
+Intel Pentium E5300 @ 2.60GHz,903
+Intel Xeon 3.73GHz,901
+AMD Athlon II N370 Dual-Core,899
+Intel Pentium G620T @ 2.20GHz,896
+Intel Core i3-2375M @ 1.50GHz,896
+UGOOS UT8 Board,894
+Intel Core2 Duo SP9400 @ 2.40GHz,893
+Unisoc ums312,891
+Intel Core2 Duo T8300 @ 2.40GHz,890
+Intel Celeron 1017U @ 1.60GHz,890
+MT8365,889
+Rockchip RK3566 EVB2 LP4X V10 Board,889
+Intel Xeon 5133 @ 2.20GHz,887
+AMD Phenom X2 Dual-Core GP-7730,884
+ARM FT-2000/4 4 Core 2200 MHz,881
+AMD Sempron X2 190,879
+Intel Core2 Duo T7700 @ 2.40GHz,878
+Intel Pentium N3510 @ 1.99GHz,878
+Samsung Exynos 7580,878
+AMD Turion II N550 Dual-Core,877
+Athlon 64 Dual Core 5600+,875
+Intel Pentium P6200 @ 2.13GHz,875
+AMD Athlon 5000 Dual-Core,872
+"Qualcomm Technologies, Inc MSM8952",872
+"rockchip,rk3368",870
+Intel Celeron P4600 @ 2.00GHz,870
+AMD Athlon 5200 Dual-Core,869
+Intel Xeon 3065 @ 2.33GHz,867
+AMD Athlon II X2 4450e,867
+AMD Turion 64 X2 Mobile TL-68,866
+Intel Core2 Duo P7550 @ 2.26GHz,866
+AMD E2-9000e,865
+Intel Core2 Duo E6550 @ 2.33GHz,863
+Intel Pentium E5200 @ 2.50GHz,860
+Intel Celeron 2955U @ 1.40GHz,860
+Intel Pentium P6100 @ 2.00GHz,860
+Intel Core2 6300 @ 1.86GHz,859
+AMD Athlon 7550 Dual-Core,859
+MT8161AA,857
+Intel Xeon 5140 @ 2.33GHz,857
+AMD Athlon Dual Core 5000B,856
+Intel Pentium B940 @ 2.00GHz,856
+AMD Turion II N530 Dual-Core,855
+AMD Athlon X2 250,855
+Intel Core2 Duo E4600 @ 2.40GHz,854
+SAMSUNG Exynos7580,851
+Athlon 64 Dual Core 5000+,850
+Intel Pentium 3560Y @ 1.20GHz,849
+Intel Core2 Duo P8600 @ 2.40GHz,848
+Intel Celeron E3400 @ 2.60GHz,848
+AMD Athlon 64 X2 Dual Core 5200+,847
+MT6761V/CBB,846
+MT9950,845
+MT6750V/W,845
+AMD A4-9120e,844
+AMD TurionX2 Ultra DualCore Mobile ZM-85,841
+Intel Xeon 3050 @ 2.13GHz,841
+Intel Celeron E1600 @ 2.40GHz,840
+Intel Xeon 5150 @ 2.66GHz,840
+Intel Celeron 2957U @ 1.40GHz,839
+AMD Opteron 275,839
+Intel Celeron E3200 @ 2.40GHz,839
+Intel Xeon E5205 @ 1.86GHz,838
+Intel Xeon E5502 @ 1.87GHz,837
+Intel Atom Z3580 @ 1.33GHz,837
+Intel Core i5-430UM @ 1.20GHz,836
+AMD Turion II Dual-Core Mobile M520,835
+Intel Pentium P6300 @ 2.27GHz,834
+BCM2711,834
+Intel Core2 Duo P8400 @ 2.26GHz,831
+Intel Core2 Duo T7500 @ 2.20GHz,828
+MT6761V/CAB,827
+Intel Core i3-2367M @ 1.40GHz,827
+AMD Athlon Dual Core 5400B,826
+AMD Sempron X2 180,826
+Intel Celeron 1007U @ 1.50GHz,826
+AMD Turion II Neo N54L Dual-Core,825
+Intel Core i3-2365M @ 1.40GHz,825
+AMD A4-9120C,825
+Intel Core i5-520UM @ 1.07GHz,824
+AMD Athlon Dual Core 5200B,823
+Intel Core2 Extreme X6800 @ 2.93GHz,823
+Intel Core i3-2377M @ 1.50GHz,823
+Intel Celeron E3300 @ 2.50GHz,822
+DO-Regular,819
+AMD Turion II P560 Dual-Core,818
+"Qualcomm Technologies, Inc MSM8992",817
+Intel Celeron P4500 @ 1.87GHz,816
+Intel Atom x5-Z8300 @ 1.44GHz,816
+Intel Atom x5-Z8330 @ 1.44GHz,815
+Intel Core2 Duo T7600 @ 2.33GHz,815
+AMD Turion II Ultra Dual-Core Mobile M620,814
+ARM Cortex-A72 4 Core 2200 MHz,812
+Intel Celeron B830 @ 1.80GHz,810
+Intel Pentium T4500 @ 2.30GHz,809
+AMD Athlon Dual Core 5050e,809
+Intel Core2 Duo E6540 @ 2.33GHz,808
+Intel Pentium E2220 @ 2.40GHz,808
+AMD A4-4355M APU,806
+AMD Opteron 1214 HE,806
+Qualcomm MSM8994,805
+Intel Celeron B820 @ 1.70GHz,804
+Intel Xeon E5503 @ 2.00GHz,804
+Intel Core2 Duo P7570 @ 2.26GHz,804
+AMD Athlon64 X2 Dual Core 4600+,803
+Intel Core2 Duo E4700 @ 2.60GHz,802
+MT8161A,800
+AMD Turion II P520 Dual-Core,799
+AMD Turion X2 Ultra Dual-Core Mobile ZM-85,799
+AMD Athlon 64 X2 Dual Core 5800+,797
+hi6210sft,796
+Rockchip RK3566 RK817 ZIDOO TABLET LP4X Board,795
+Intel Xeon 5130 @ 2.00GHz,795
+Intel Atom Z3775D @ 1.49GHz,794
+AMD Turion X2 Ultra Dual-Core Mobile ZM-84,793
+Intel Xeon 3040 @ 1.86GHz,790
+Intel Core2 Duo P7370 @ 2.00GHz,790
+Intel Pentium 997 @ 1.60GHz,789
+AMD Athlon 7450 Dual-Core,789
+Intel Core2 Duo L9600 @ 2.13GHz,788
+Intel Pentium P6000 @ 1.87GHz,787
+MT6761V/CD,784
+AMD Athlon Dual Core 4850e,783
+Intel Core2 Duo SL9400 @ 1.86GHz,782
+AMD GX-217GA SOC,782
+AMD Opteron 1216,781
+Intel Core i3 U 380 @ 1.33GHz,780
+Intel Core2 Duo T6670 @ 2.20GHz,778
+ARM Cortex-A72 4 Core 1800 MHz,778
+Intel Core2 Duo P7450 @ 2.13GHz,777
+Pentium Dual-Core T4200 @ 2.00GHz,775
+M7221,775
+Intel Celeron B810 @ 1.60GHz,775
+MT8766B,774
+AC8257V/WAB,774
+AMD A6-4455M APU,774
+Intel Pentium T4300 @ 2.10GHz,773
+VIA QuadCore L4700 @ 1.2+ GHz,773
+Intel Celeron N2910 @ 1.60GHz,773
+Intel Atom Z3735G @ 1.33GHz,772
+AMD Opteron 1212 HE,771
+AMD Athlon 64 X2 Dual Core 5000+,770
+AMD A4-3310MX APU,769
+MT6761V/WAB,769
+Athlon Dual Core 4850e,769
+Intel Core2 Duo T6600 @ 2.20GHz,768
+AMD Athlon II N350 Dual-Core,767
+AMD Opteron 280,765
+AMD A4-5150M APU,765
+Intel Core i3-2357M @ 1.30GHz,763
+Intel Xeon 5120 @ 1.86GHz,763
+Intel Core i5-470UM @ 1.33GHz,762
+"rockchip,rk3328",761
+Intel Atom Z3735D @ 1.33GHz,761
+MT6797D,758
+Celeron Dual-Core T3500 @ 2.10GHz,756
+Intel Core2 Duo E6400 @ 2.13GHz,756
+AMD Turion 64 X2 Mobile TL-62,756
+AMD GX-218GL SOC,754
+Intel Core2 Duo P7350 @ 2.00GHz,753
+AMD A4-3330MX APU,752
+Rockchip RK3566 EVB1 DDR4 V10 Board,751
+Intel Atom Z3560 @ 1.00GHz,749
+Intel Celeron 1047UE @ 1.40GHz,748
+Dual-Core AMD Opteron 1220 SE,748
+AMD Opteron 180,746
+Intel Pentium Dual T2390 @ 1.86GHz,745
+Intel Pentium T4400 @ 2.20GHz,745
+Intel Core2 Duo T8100 @ 2.10GHz,744
+Intel Pentium D 960 @ 3.60GHz,743
+ARM Cortex-A55 4 Core 2124 MHz,742
+Intel Core2 Duo E6420 @ 2.13GHz,741
+Intel Core2 Duo E4500 @ 2.20GHz,740
+Intel Atom Z3770 @ 1.46GHz,739
+Intel Core2 Duo T6500 @ 2.10GHz,739
+MT8696,738
+AMD Athlon Dual Core 5600B,737
+Intel Pentium D 3.40GHz,736
+Athlon 64 Dual Core 3800+,736
+AMD Opteron 270,736
+Intel Celeron 887 @ 1.50GHz,735
+AMD Turion II Dual-Core Mobile M500,735
+Intel Core2 Duo T6570 @ 2.10GHz,734
+ARM Cortex-A72 4 Core 2000 MHz,734
+Spreadtrum SC9853I-IA,734
+Intel Celeron 2961Y @ 1.10GHz,732
+"Qualcomm Technologies, Inc APQ8096pro",730
+Intel Core2 Duo T7200 @ 2.00GHz,727
+AMD Athlon Dual Core 4850B,727
+AMD Opteron 1216 HE,727
+AMD E2-3000 APU,726
+MT3561S,723
+Intel Pentium T4200 @ 2.00GHz,722
+Intel Pentium E2200 @ 2.20GHz,722
+AMD Athlon II Dual-Core M320,721
+Intel Celeron B815 @ 1.60GHz,720
+ARM Cortex-A55 4 Core 2100 MHz,719
+AMD Athlon Dual Core 4450B,719
+AMD Athlon 64 X2 Dual Core 4600+,718
+AMD A4-3305M APU,718
+Intel Core2 Duo E6320 @ 1.86GHz,717
+Intel Core2 Duo T5870 @ 2.00GHz,712
+AMD Athlon II P360 Dual-Core,711
+MediaTek MT6761V/WBB,710
+ARM Cortex-A55 4 Core 1992 MHz,709
+AMD Athlon 64 FX-60 Dual Core,709
+AMD Turion X2 Dual-Core Mobile RM-75,708
+Rockchip RK3288,708
+AMD Turion X2 Ultra Dual-Core Mobile ZM-82,707
+Intel Core2 Duo T6400 @ 2.00GHz,707
+AMD A4-3300M APU,706
+AMD Athlon Dual Core 4450e,705
+Rockchip RK3368,705
+MT8735T,704
+Intel Atom E3840 @ 1.91GHz,704
+Intel Atom Z3775 @ 1.46GHz,703
+Intel Pentium E2210 @ 2.20GHz,702
+Intel Core2 Duo T7400 @ 2.16GHz,702
+MT5893,702
+MediaTek MT6761V/WE,701
+Intel Core i3-380UM @ 1.33GHz,699
+AMD Opteron 1214,696
+AMD Turion 64 X2 Mobile TL-66,696
+AMD Opteron 185,695
+AMD Turion X2 Ultra Dual-Core Mobile ZM-86,695
+AMD Athlon II P320 Dual-Core,693
+Intel Core2 Duo T7250 @ 2.00GHz,693
+MT6738,692
+AMD Turion X2 Dual Core Mobile RM-76,691
+AMD Athlon II P340 Dual-Core,691
+Intel Atom Z3560 @ 1.83GHz,690
+Intel Core2 Duo L9300 @ 1.60GHz,690
+Intel Celeron P4505 @ 1.87GHz,689
+AMD Turion X2 Ultra Dual-Core Mobile ZM-87,689
+Intel Core2 Duo T5850 @ 2.16GHz,687
+Intel Core2 Duo T7300 @ 2.00GHz,686
+Rockchip RK3566 RK817 TABLET RKG11 LP4 Board,686
+AMD Turion II Neo K685 Dual-Core,684
+Qualcomm MSM8974,683
+AMD Opteron 175,682
+Intel Core2 Duo T5750 @ 2.00GHz,682
+Athlon Dual Core 4450e,681
+Intel Core2 Duo L7800 @ 2.00GHz,680
+AMD Athlon 64 X2 Dual Core 4200+,679
+AMD Athlon 64 X2 Dual Core 4800+,679
+Celeron Dual-Core T3000 @ 1.80GHz,676
+AMD Athlon II Dual-Core M340,676
+AMD Athlon II X2 270u,675
+AMD Turion 64 X2 Mobile TL-64,675
+AMD Athlon X2 Dual Core BE-2400,674
+AMD E2-3000M APU,674
+Intel Celeron J3060 @ 1.60GHz,673
+AMD E2-7015 APU,672
+Intel Pentium E2180 @ 2.00GHz,671
+Intel Celeron E1400 @ 2.00GHz,671
+Intel Pentium D 950 @ 3.40GHz,671
+Athlon Dual Core 4050e,670
+AMD Athlon 64 X2 Dual Core 4000+,669
+Intel Core2 Duo T5600 @ 1.83GHz,668
+AMD Turion X2 Dual-Core Mobile RM-72,666
+AMD Athlon 64 X2 Dual Core 4400+,666
+VIA QuadCore U4650 @ 1.0+ GHz,666
+AMD Athlon II N330 Dual-Core,665
+Intel Pentium 987 @ 1.50GHz,664
+Intel Celeron 877 @ 1.40GHz,664
+AMD Athlon II X2 260u,663
+ARM Cortex-A17 4 Core 1800 MHz,662
+ARM Cortex-A72 4 Core 1500 MHz,661
+AMD Turion Dual-Core RM-75,659
+ARM Cortex-A55 4 Core 1800 MHz,659
+AMD Athlon II Dual-Core M300,658
+Intel Celeron N3060 @ 1.60GHz,655
+Intel Core2 Duo T5900 @ 2.20GHz,652
+Intel Pentium T3400 @ 2.16GHz,650
+Intel Core2 Duo E4400 @ 2.00GHz,650
+AMD Turion Dual-Core RM-72,649
+ARM Cortex-A72 4 Core 2100 MHz,648
+AMD Opteron 170,648
+ARM Cortex-A53 8 Core 1512 MHz,648
+AMD GX-412TC SOC,645
+Samsung EXYNOS5420,645
+Intel Celeron B800 @ 1.50GHz,644
+Intel Pentium 967 @ 1.30GHz,643
+Intel Atom Z3740 @ 1.33GHz,642
+AMD Athlon 64 X2 QL-66,641
+AMD A4-3320M APU,640
+MediaTek MT8168A,640
+MediaTek MT6737T,640
+Intel Pentium E2160 @ 1.80GHz,640
+ARM Cortex-A53 4 Core 1908 MHz,638
+AMD Turion X2 Dual-Core Mobile RM-77,635
+AMD GX-212JC SOC ,629
+Intel Core2 Duo T5800 @ 2.00GHz,628
+Qualcomm APQ 8084 (Flattened Device Tree),628
+Intel Pentium T3200 @ 2.00GHz,627
+Intel Celeron E1500 @ 2.20GHz,626
+Qualcomm MSM8974PRO-AB,625
+AMD Turion X2 Dual-Core Mobile RM-70,624
+Intel Pentium U5600 @ 1.33GHz,624
+AMD Turion X2 Dual-Core Mobile RM-74,623
+Rockchip (Device Tree),623
+Celeron Dual-Core T3300 @ 2.00GHz,623
+AMD Athlon 64 X2 QL-64,622
+Intel Pentium 957 @ 1.20GHz,622
+AMD Athlon 64 X2 Dual Core 3800+,622
+Intel Atom Z3745 @ 1.33GHz,621
+AMD Athlon 64 X2 Dual-Core TK-57,620
+MT6795MM,618
+Qualcomm MSM8917,617
+AMD Athlon Dual Core 4050e,616
+Intel Core2 Duo T7100 @ 1.80GHz,615
+Intel Atom Z3740D @ 1.33GHz,614
+Generic DT based system,612
+MT6739CH,612
+AMD Athlon 64 X2 Dual Core 3600+,610
+Qualcomm MSM8974PRO-AC,609
+Intel Celeron N3000 @ 1.04GHz,608
+Intel Core2 Duo L7700 @ 1.80GHz,607
+AMD Turion 64 X2 Mobile TL-60,606
+MT8167D,605
+AMD Turion X2 Dual Core L510,603
+AMD Turion II Neo N40L Dual-Core,602
+AMD E1 Micro-6200T APU,600
+Intel Xeon 5110 @ 1.60GHz,600
+MediaTek MT8163,600
+AMD TurionX2 Ultra DualCore Mobile ZM-87,599
+Intel Celeron G470 @ 2.00GHz,599
+Intel Atom Z3745D @ 1.33GHz,599
+Intel Pentium T2410 @ 2.00GHz,598
+AMD E1-2500 APU,597
+AMD Sempron 150,597
+Intel Celeron J1750 @ 2.41GHz,595
+Intel Celeron N3050 @ 1.60GHz,595
+AMD Athlon 64 X2 Dual Core BE-2300,594
+AMD Opteron 1212,593
+AMD Athlon II X2 250u,592
+AMD Athlon X2 Dual Core BE-2350,591
+Intel Core2 Duo L7500 @ 1.60GHz,589
+AMD Athlon 64 X2 QL-65,589
+Intel Celeron J1800 @ 2.41GHz,588
+AMD Turion Dual-Core RM-74,588
+Intel Pentium 2129Y @ 1.10GHz,587
+Intel Core2 Duo T5670 @ 1.80GHz,587
+Qualcomm MSM8974PRO-AA,587
+Intel Core2 Duo U9600 @ 1.60GHz,584
+Intel Celeron 847E @ 1.10GHz,584
+AMD E1-7010 APU,584
+Intel Atom C2338 @ 1.74GHz,584
+Intel Celeron N2840 @ 2.16GHz,583
+Intel Core2 Duo T5550 @ 1.83GHz,582
+AMD Athlon 64 X2 QL-67,582
+MT8765WA,582
+Intel Core2 Duo E6300 @ 1.86GHz,582
+Intel Xeon MV 3.20GHz,582
+Intel Atom C2358 @ 1.74GHz,578
+AMD Athlon 64 X2 Dual-Core TK-42,577
+Intel Celeron 1019Y @ 1.00GHz,576
+Intel Celeron N3010 @ 1.04GHz,576
+AMD Athlon 64 X2 Dual Core BE-2350,573
+Celeron Dual-Core T3100 @ 1.90GHz,572
+AMD E2-7015,572
+AMD E1-6015 APU,570
+AMD Athlon X2 Dual Core BE-2300,570
+Intel Core2 Duo T5300 @ 1.73GHz,569
+Intel Celeron 857 @ 1.20GHz,569
+Qualcomm MSM 8974 HAMMERHEAD (Flattened Device Tre,566
+AMD Athlon 64 X2 3800+,566
+Intel Atom Z3530 @ 1.33GHz,565
+AMD Turion II Neo K625 Dual-Core,565
+AMD Athlon X2 Dual Core 6850e,564
+Intel Core2 Duo E4300 @ 1.80GHz,564
+AMD Sempron Dual Core 2200,563
+Amlogic,562
+Intel Celeron 867 @ 1.30GHz,562
+AMD Turion Dual-Core RM-70,561
+AMD Sempron 2650 APU,561
+"Qualcomm Technologies, Inc MSM8929",560
+Intel Celeron U3600 @ 1.20GHz,560
+Intel Atom Z3735E @ 1.33GHz,557
+Intel Pentium T2390 @ 1.86GHz,556
+MediaTek MT6762V/CN,556
+AMD Sempron Dual Core 2300,555
+Intel Pentium T2370 @ 1.73GHz,555
+ARM Cortex-A53 4 Core 1704 MHz,552
+ARM Cortex-A72 4 Core 1600 MHz,552
+Intel Celeron N2830 @ 2.16GHz,552
+Intel Celeron E1200 @ 1.60GHz,551
+Intel Pentium E2140 @ 1.60GHz,549
+Intel Pentium T2330 @ 1.60GHz,548
+Intel Celeron @ 1.30GHz,548
+Intel T1500 @ 1.86GHz,548
+Intel Celeron G465 @ 1.90GHz,547
+AMD Athlon 64 X2 QL-60,547
+Intel Celeron T1600 @ 1.66GHz,545
+MT6761V/WD,542
+Qualcomm APQ8084,540
+Intel Atom S1260 @ 2.00GHz,540
+Intel Core2 Duo T5450 @ 1.66GHz,538
+mt6762m,538
+Intel Pentium U5400 @ 1.20GHz,538
+Intel Atom Z3735F @ 1.33GHz,538
+AMD TurionX2 Dual Core Mobile RM-70,536
+AMD Athlon 64 X2 Dual-Core TK-53,535
+AMD Sempron Dual Core 2100,533
+Intel Pentium D 830 @ 3.00GHz,532
+Intel Core2 Duo T5470 @ 1.60GHz,531
+AMD Athlon 64 X2 Dual Core 3400+,531
+AMD Opteron 165,531
+AMD E1-6010 APU,529
+AMD Athlon Neo X2 Dual Core L335,529
+AMD Athlon II Neo K345 Dual-Core,527
+MT8735A,527
+Intel Pentium T2310 @ 1.46GHz,526
+AMD Athlon 64 X2 QL-62,525
+Intel Core2 Duo T5250 @ 1.50GHz,525
+Intel Atom C2350 @ 1.74GHz,523
+AMD Turion 64 X2 Mobile TL-52,523
+MT6592,521
+AMD Athlon 64 X2 Dual-Core TK-55,518
+AMD Athlon 64 FX-57,517
+SAMSUNG JF,516
+Intel T2050 @ 2.00GHz,516
+Intel Core2 Duo L7400 @ 1.50GHz,516
+Intel Core2 Duo L7300 @ 1.40GHz,513
+Intel Core2 Duo T5500 @ 1.66GHz,513
+Intel Atom D2701 @ 2.13GHz,511
+Intel Core2 Duo SU9400 @ 1.40GHz,509
+Intel Celeron N2808 @ 1.58GHz,509
+MT8161P,508
+Rockchip RK3288 (Flattened Device Tree),508
+AMD Turion X2 Ultra Dual-Core Mobile ZM-80,506
+AMD Sempron 145,506
+AMD E2-2000 APU,505
+Intel Core2 Duo U7300 @ 1.30GHz,503
+Intel Atom Z3736F @ 1.33GHz,502
+"Qualcomm Technologies, Inc MSM8917",501
+AMD Sempron 130,501
+Intel Core Duo T2700 @ 2.33GHz,498
+Intel Pentium D 940 @ 3.20GHz,498
+Intel Celeron N2815 @ 1.86GHz,497
+MediaTek MT6735,497
+AMD Turion X2 Dual Core Mobile RM-70,497
+MT8735,495
+Rockchip RK3328 box liantong avb,491
+Intel Celeron N2820 @ 2.13GHz,490
+Intel Celeron N2807 @ 1.58GHz,489
+Intel Pentium SU4100 @ 1.30GHz,488
+Intel Atom Z3770D @ 1.49GHz,488
+Intel Celeron N2806 @ 1.60GHz,487
+AMD E-350D APU,486
+AMD G-T56N,485
+AMD Athlon 64 3100+,484
+Intel Core i3-330UM @ 1.20GHz,484
+ARM Cortex-A53 4 Core 1800 MHz,482
+Intel Xeon 3.20GHz,478
+MT8167A,478
+AMD Athlon II Neo N36L Dual-Core,478
+Intel Celeron 925 @ 2.30GHz,477
+"Qualcomm Technologies, Inc APQ8017",476
+AMD Athlon Neo X2 Dual Core L325,476
+Intel T1400 @ 1.73GHz,475
+Intel Celeron 847 @ 1.10GHz,474
+Unisoc SC9832e,474
+AMD E1-2200 APU,474
+Intel Celeron U3400 @ 1.07GHz,473
+AMD Sempron 140,472
+AMD TurionX2 Dual Core Mobile RM-72,471
+Intel Celeron G460 @ 1.80GHz,469
+Intel Pentium Extreme Edition 955 @ 3.46GHz,469
+Intel Core2 Duo T5270 @ 1.40GHz,468
+Intel Core2 Duo L7100 @ 1.20GHz,467
+AMD Athlon 64 FX-59,465
+ARM Cortex-A53 4 Core 1512 MHz,463
+Intel Atom D2700 @ 2.13GHz,461
+Intel Atom E3827 @ 1.74GHz,460
+Intel Celeron SU2300 @ 1.20GHz,460
+"Qualcomm Technologies, Inc QM215",459
+AMD Opteron 154,457
+AMD Athlon Neo X2 Dual Core 6850e,456
+AMD Turion 64 X2 Mobile TL-50,455
+Intel Core2 Duo T5200 @ 1.60GHz,454
+QCT APQ8064 DEB,453
+QCT APQ8064 FLO,452
+AMD Turion 64 X2 Mobile TL-56,451
+AMD Opteron 254,451
+Intel Core Duo T2600 @ 2.16GHz,450
+MediaTek MT6737,448
+AMD Turion 64 X2 Mobile TL-58,447
+AMD E2-1800 APU,443
+AMD G-T56E,442
+Intel Core2 Duo U9300 @ 1.20GHz,440
+Intel Atom N2800 @ 1.86GHz,438
+"Qualcomm Technologies, Inc MSM8920",436
+Intel Atom D2550 @ 1.86GHz,434
+Intel Atom D2560 @ 2.00GHz,433
+AMD G-T48E,432
+ARM Cortex-A53 4 Core 1500 MHz,432
+AMD Turion Neo X2 Dual Core L625,432
+Intel Pentium D 915 @ 2.80GHz,430
+AMD Athlon LE-1640,430
+AMD E-450 APU,429
+AMD Opteron 152,428
+Sony Mobile fusion3,428
+ARM Cortex-A53 4 Core 1296 MHz,426
+Intel Celeron G440 @ 1.60GHz,425
+Intel Xeon 3.00GHz,425
+Qualcomm MSM8916,424
+Samsung Exynos 7570,424
+AMD E-350 APU,423
+AMD Athlon LE-1620,421
+Intel Celeron N2810 @ 2.00GHz,420
+AMD E-350,418
+AMD Athlon II Neo K325 Dual-Core,417
+AMD Athlon LE-1660,416
+Samsung GrandPrimePlus LTE LTN OPEN rev04 board ba,415
+MediaTek MT6739WW,413
+AMD Athlon LE-1600,412
+AMD Athlon 1640B,412
+MT8765WB,411
+AMD A4-1250 APU,410
+Intel Celeron 450 @ 2.20GHz,410
+"Qualcomm Technologies, Inc QCM2150",409
+AMD E1-2100 APU,409
+Intel Core Duo T2500 @ 2.00GHz,408
+Intel Atom E3805 @ 1.33GHz,406
+Intel Atom D510 @ 1.66GHz,406
+Intel Core2 Duo U7500 @ 1.06GHz,405
+MT8735P,405
+AMD Athlon 64 FX-55,404
+Intel Core Duo T2450 @ 2.00GHz,404
+Intel Core Duo L2500 @ 1.83GHz,404
+Intel Xeon 3.60GHz,403
+Intel Core i7-2630UM @ 1.60GHz,400
+ARM Cortex-A53 4 Core 1600 MHz,400
+AMD Turion 64 Mobile ML-42,400
+AMD Geode NX 2400+,400
+AMD Sempron LE-1300,400
+QCT APQ8064 MAKO,399
+ARM ARMv7 rev 4 (v7l) 4 Core 1400 MHz,399
+Intel Atom D525 @ 1.80GHz,397
+ARM Cortex-A53 4 Core 1392 MHz,397
+AMD Athlon 64 3500+,396
+ARM ARMv7 rev 4 (v7l) 4 Core 1200 MHz,396
+Intel Celeron 900 @ 2.20GHz,396
+AMD Athlon 64 3700+,394
+VIA Nano X2 U4025 @ 1.2 GHz,393
+MediaTek MT6739WA,393
+AMD Opteron 150,393
+Intel Xeon 3.80GHz,393
+AMD Opteron 148,392
+AMD E1-1500 APU,392
+Intel Celeron 807 @ 1.50GHz,392
+QCT APQ8064 MTP,389
+Intel Core Duo L2300 @ 1.50GHz,387
+Rockchip rk3326 863 rkisp1 board,386
+Intel Pentium 4 3.73GHz,385
+"Qualcomm Technologies, Inc MSM8916",385
+AMD Turion 64 Mobile ML-44,384
+Intel Core Duo T2350 @ 1.86GHz,384
+Intel Pentium T2130 @ 1.86GHz,382
+QCT APQ8064 AWIFI,382
+AMD V140,379
+AMD Athlon X2 Dual Core L310,379
+Intel Atom E3825 @ 1.33GHz,378
+AMD E1-1200 APU,377
+AMD Athlon 64 3300+,375
+Intel Xeon 3.40GHz,375
+Intel Pentium D 805 @ 2.66GHz,374
+Intel Celeron D 360 @ 3.46GHz,372
+MediaTek MT8735B,371
+Intel Celeron 827E @ 1.40GHz,371
+AMD A4-1200 APU,369
+Intel Celeron 440 @ 2.00GHz,368
+MediaTek MT8167B,366
+AMD Sempron 3600+,364
+AMD Turion 64 Mobile MK-38,362
+"Qualcomm Technologies, Inc APQ8016",361
+Intel Core Duo T2400 @ 1.83GHz,361
+AMD Sempron 3800+,360
+Intel Pentium 4 3.80GHz,358
+MT8735M,358
+AMD Athlon II 160u,358
+AMD Athlon X2 Dual Core 3250e,357
+Mobile AMD Athlon 64 3700+,356
+Manta,356
+MediaTek MT6737M,355
+Intel Core2 Duo U7700 @ 1.33GHz,354
+ARM Cortex-A7 4 Core 1368 MHz,353
+AMD V120,352
+ARM Cortex-A53 4 Core 1000 MHz,350
+AMD Sempron LE-1200,349
+Intel Pentium T2080 @ 1.73GHz,348
+Intel Core Duo L2400 @ 1.66GHz,348
+Intel Core Duo T2250 @ 1.73GHz,347
+AMD Opteron 146,346
+Mobile Intel Pentium 4 3.33GHz,344
+Intel Celeron 570 @ 2.26GHz,344
+ARM Cortex-A53 4 Core 1152 MHz,343
+AMD E-300 APU,343
+Intel 2.80GHz,341
+ARM Cortex-A7 4 Core 1300 MHz,341
+Intel Atom N570 @ 1.66GHz,341
+AMD Athlon 64 4000+,340
+AMD Athlon II 170u,340
+Intel Celeron 560 @ 2.13GHz,339
+AMD Athlon TF-36,338
+AMD Sempron M100,338
+AMD V160,337
+Qualcomm MSM8928,337
+AMD Turion 64 Mobile ML-40,336
+Mobile AMD Sempron 3800+,335
+ARM Cortex-A72 4 Core 1750 MHz,335
+Intel Celeron N2805 @ 1.46GHz,335
+AMD Turion 64 Mobile ML-37,334
+Intel Pentium 4 3.20GHz,334
+ARM Cortex-A35 4 Core 1296 MHz,334
+AMD Turion 64 Mobile MK-36,334
+Mobile AMD Athlon 64 3400+,333
+AMD Athlon 2850e,333
+Qualcomm MSM8228,332
+Unisoc SC7731e,330
+Intel Pentium T2060 @ 1.60GHz,330
+ARM Cortex-A35 4 Core 1200 MHz,329
+Rockchip rk3326 evb board,328
+ARM Cortex-A53 4 Core 1400 MHz,326
+Mobile AMD Athlon 64 3200+,326
+MT6735P,326
+Intel Atom N2600 @ 1.60GHz,323
+ARM Cortex-A53 4 Core 1368 MHz,322
+Intel Core Duo T2300 @ 1.66GHz,320
+Intel Core Duo T2050 @ 1.60GHz,320
+Rockchip RK3328,319
+AMD Athlon 64 3400+,317
+AMD Opteron 144,316
+Intel Core2 Duo U7600 @ 1.20GHz,316
+AMD Sempron LE-1100,315
+VIA Eden X2 U4200 @ 1.0+ GHz,315
+AMD Turion 64 Mobile MT-37,315
+Intel Pentium 4 3.60GHz,315
+AMD Sempron 3300+,315
+AMD C-70 APU,314
+Intel Celeron D 420 @ 1.60GHz,313
+Mobile AMD Athlon 64 4000+,313
+Samsung GrandPrimePlus LTE CIS rev04 board based o,312
+AMD C-60 APU,312
+MT6739WM,310
+Intel Pentium 4 3.00GHz,310
+MT6735M,308
+Qualcomm MSM8226,308
+Intel Atom 330 @ 1.60GHz,307
+AMD Z-01,305
+Intel Atom E3826 @ 1.46GHz,304
+AMD Athlon 64 3000+,303
+Mobile AMD Sempron 3600+,302
+AMD Athlon II Neo K125,302
+AMD Athlon 64 3200+,301
+Intel Celeron 550 @ 2.00GHz,301
+AMD Sempron LE-1250,301
+Qualcomm MSM8926,300
+ARM Cortex-A53 4 Core 1200 MHz,299
+AMD G-T40N,299
+Intel Atom Z2760 @ 1.80GHz,298
+AMD Sempron 3100+,298
+AMD Athlon II Neo K145,298
+UNIVERSAL3475,297
+Intel Pentium 4 3.46GHz,295
+AMD Athlon 64 2800+,295
+Intel Pentium 4 3.40GHz,295
+Intel Atom N550 @ 1.50GHz,295
+Spreadtrum SC7731e,294
+Qualcomm MSM8626,294
+Mobile AMD Sempron 3300+,294
+Intel Celeron 430 @ 1.80GHz,293
+AMD Athlon 64 3800+,292
+AMD Sempron 3400+,292
+"Qualcomm Technologies, Inc MSM8216",292
+Intel Pentium M 2.10GHz,292
+Qualcomm APQ8026,291
+AMD Athlon 2800+,291
+Intel Celeron M 530 @ 1.73GHz,291
+AMD C-60,290
+AMD G-T40E,289
+AMD Sempron SI-40,288
+"Qualcomm Technologies, Inc APQ8009",286
+AMD Turion 64 Mobile MT-32,286
+AMD Turion 64 Mobile ML-32,285
+Intel Celeron D 352 @ 3.20GHz,283
+Intel Celeron 540 @ 1.86GHz,283
+AMD Athlon XP 3100+,282
+AMD Athlon XP 3200+,281
+Rockchip RK3326,281
+Intel Pentium M 1.80GHz,280
+ARM Cortex-A72 4 Core 800 MHz,279
+AMD Turion 64 Mobile MT-34,279
+VIA Nano L2100@1800MHz,279
+Mobile AMD Sempron 3100+,277
+AMD Turion 64 Mobile ML-30,277
+AMD Turion 64 Mobile ML-34,277
+AMD Athlon XP 2900+,276
+AMD Athlon 2650e,274
+"Qualcomm Technologies, Inc MSM8909",271
+Intel Pentium M 2.13GHz,271
+ARM Cortex-A7 4 Core 1200 MHz,270
+Intel Pentium M 2.00GHz,270
+AMD Athlon Neo MV-40,270
+Mobile AMD Sempron 3400+,269
+ARM Cortex-A7 4 Core 1008 MHz,269
+Mobile AMD Sempron 3000+,269
+Intel Celeron 530 @ 1.73GHz,268
+AMD Sempron SI-42,268
+Intel Celeron 743 @ 1.30GHz,268
+AMD Sempron 3000+,268
+AMD Sempron 210U,267
+Intel Celeron 3.20GHz,267
+Intel Celeron M 723 @ 1.20GHz,267
+AMD C-50,265
+AMD Athlon TF-20,265
+Intel Celeron 3.33GHz,263
+VIA Eden C1050@1.06GHz,263
+AMD Z-60 APU,262
+AMD Athlon XP 3000+,262
+AMD Athlon XP 2800+,260
+Intel Xeon 2.80GHz,260
+Mobile AMD Sempron 2600+,256
+AMD Athlon XP 2700+,256
+Intel Core Duo U2400 @ 1.06GHz,255
+AMD Turion 64 Mobile ML-28,254
+VIA Nano L2007@1600MHz,254
+Intel Core Solo T1400 @ 1.83GHz,253
+AMD Sempron 2600+,253
+Intel Celeron M 1.70GHz,252
+msm8960dt,252
+Intel Core2 Solo U3500 @ 1.40GHz,252
+AMD Sempron LE-1150,251
+Intel Celeron D 356 @ 3.33GHz,251
+AMD Sempron 3200+,251
+Intel Pentium 4 3.06GHz,249
+AMD GX-210JA SOC,248
+SAMSUNG SERRANO,247
+AMD Sempron M120,247
+AMD Turion 64 Mobile MT-30,246
+Mobile AMD Sempron 3200+,245
+AMD Athlon XP2400+,243
+AMD Athlon 64 2600+,243
+AMD Sempron 2800+,243
+AMD Athlon XP 2600+,242
+Mobile AMD Athlon XP-M 2600+,241
+Mobile AMD Athlon 2500+,241
+Intel Celeron 807UE @ 1.00GHz,241
+Intel Pentium M 1.50GHz,240
+Intel Pentium M 1.70GHz,239
+Intel Pentium SU2700 @ 1.30GHz,239
+ARM Cortex-A7 4 Core 900 MHz,238
+Mobile AMD Athlon XP-M 3000+,238
+Mobile AMD Athlon XP-M 2800+,238
+Intel Pentium M 1700MHz,237
+Mobile AMD Sempron 3500+,237
+Mobile AMD Athlon XP-M 2200+,237
+Mobile AMD Sempron 2800+,237
+Intel Pentium 4 2.80GHz,236
+Intel Celeron 420 @ 1.60GHz,235
+AMD Athlon XP 2400+,234
+Rockchip RK3229,234
+Intel Celeron 3.06GHz,234
+Intel Core2 Solo U2100 @ 1.06GHz,233
+Mobile AMD Athlon 4 2400+,233
+Intel Atom D2500 @ 1.86GHz,233
+Intel Celeron D 347 @ 3.06GHz,232
+Mobile Intel Pentium 4 3.20GHz,232
+AMD Sempron 3500+,232
+AMD Athlon XP 2500+,231
+Intel Celeron 2.93GHz,230
+Intel Celeron M 450 @ 2.00GHz,230
+Intel Pentium M 1.60GHz,229
+Intel Pentium M 2.26GHz,227
+Mobile AMD Athlon XP-M 2500+,226
+Mobile AMD Athlon XP-M 2400+,225
+Intel Pentium M 1.40GHz,225
+Intel Atom N470 @ 1.83GHz,224
+Intel Celeron 2.53GHz,222
+Intel Atom D425 @ 1.80GHz,222
+Intel Pentium M 1.86GHz,222
+Intel Celeron M 360 1.40GHz,221
+Intel Core Duo U2500 @ 1.20GHz,220
+Mobile Intel Pentium 4 3.06GHz,220
+Intel Celeron M 1500MHz,217
+Intel Celeron M 1.50GHz,216
+Intel Celeron M 520 @ 1.60GHz,215
+Intel Pentium 4 2.60GHz,215
+AMD Athlon XP 2200+,214
+Intel Celeron 723 @ 1.20GHz,213
+Intel Atom 230 @ 1.60GHz,210
+AMD Athlon XP 2100+,210
+Intel Core Solo T1300 @ 1.66GHz,210
+Intel Celeron 220 @ 1.20GHz,209
+Intel Pentium M 1400MHz,208
+AMD Sempron 2500+,207
+AMD Sempron 2300+,207
+Intel Celeron M 1.30GHz,205
+Mobile Intel Pentium 4 2.80GHz,205
+Intel Pentium M 1.73GHz,205
+AMD Sempron 2400+,205
+AMD Athlon XP 1900+,203
+ARM Cortex-A53 4 Core 1536 MHz,202
+Intel Atom N450 @ 1.66GHz,201
+Intel Pentium M 1.20GHz,199
+ARM Cortex-A72 4 Core 1850 MHz,199
+VIA Nano U2500@1200MHz,199
+RK30board,198
+Intel Pentium M 1300MHz,197
+Intel Celeron M 1300MHz,197
+AMD Athlon L110,197
+Intel Pentium M 1.30GHz,196
+Mobile AMD Athlon XP-M 2000+,196
+AMD Athlon XP 1800+,195
+AMD Athlon XP 2000+,195
+Intel Pentium III 1400S @ 1400MHz,194
+Intel Core Solo T1350 @ 1.86GHz,194
+Mobile AMD Athlon XP-M 1800+,193
+Intel Pentium III 1400 @ 1400MHz,193
+Intel Pentium M 1600MHz,193
+AMD E-240,192
+Mobile AMD Athlon MP-M 2400+,192
+AMD Athlon 1500+,191
+Intel Celeron M 1.60GHz,190
+Intel Celeron 2.80GHz,190
+Intel Atom N2100 @ 1.60GHz,188
+Intel Pentium M 1500MHz,188
+VIA Nano U2250 (1.6GHz Capable),187
+Intel Atom E3815 @ 1.46GHz,184
+VIA Nano U3500@1000MHz,184
+Intel Pentium M 1.10GHz,184
+AMD V105,184
+AMD Sempron 2200+,184
+AMD Athlon XP1600+,183
+Intel Atom Z530 @ 1.60GHz,183
+Mobile Intel Celeron 1333MHz,183
+Mobile Intel Pentium 4 2.66GHz,182
+Intel Celeron 2.26GHz,182
+Intel Xeon 2.40GHz,180
+Intel Atom N475 @ 1.83GHz,179
+VIA Nano U2250@1300+MHz,179
+Intel Atom N455 @ 1.66GHz,179
+AMD C-30,178
+AMD G-T52R,177
+Intel Atom D410 @ 1.66GHz,177
+AMD Athlon XP 1700+,176
+Intel Atom N270 @ 1.60GHz,175
+Intel Atom N280 @ 1.66GHz,175
+AMD Athlon XP 1600+,174
+ARM Cortex-A72 4 Core 1200 MHz,174
+Intel Celeron 215 @ 1.33GHz,174
+Mobile AMD Athlon MP-M 1800+,173
+Intel Celeron M 440 @ 1.86GHz,169
+Intel Celeron M 430 @ 1.73GHz,169
+Mobile AMD Athlon XP-M 1600+,169
+AMD Athlon XP 1500+,167
+Intel Celeron 2.13GHz,166
+VIA Nano L2207@1600MHz,165
+Intel XEON 2.20GHz,164
+Intel Celeron 2.50GHz,164
+Mobile AMD Sempron 2100+,164
+Intel Core Solo U1500 @ 1.33GHz,164
+Intel Pentium III Mobile 1133MHz,164
+Intel Pentium 4 2.53GHz,162
+Intel Pentium III Mobile 1066MHz,160
+Intel Pentium 4 2.50GHz,160
+Intel Celeron 2.70GHz,159
+Intel Celeron 1200MHz,159
+Intel Atom Z670 @ 1.50GHz,158
+Intel Pentium 4 2.66GHz,157
+Intel Pentium 4 2.20GHz,157
+Intel Pentium III Mobile 1200MHz,156
+Intel Pentium M 1000MHz,156
+Intel Pentium M 1200MHz,155
+Intel Pentium 4 3.83GHz,154
+AMD Athlon 64 2000+,154
+Intel Celeron 2.66GHz,154
+Mobile Intel Celeron 2.40GHz,154
+Intel Atom N435 @ 1.33GHz,153
+Intel Xeon 2.00GHz,152
+Intel Pentium 4 2.26GHz,151
+Intel Pentium 4 2.93GHz,150
+VIA C7-D 1800MHz,150
+Intel Celeron M 1.00GHz,149
+Intel Celeron 2.30GHz,148
+Mobile Intel Celeron 2.20GHz,147
+Mobile Intel Pentium III - M 1200MHz,146
+VIA C7-M 6300MHz,145
+Mobile Intel Pentium 4 - M 2.20GHz,143
+Intel Celeron 2.60GHz,143
+Intel Celeron 2.40GHz,143
+ARM Cortex-A7 2 Core 1080 MHz,142
+Intel Pentium M 900MHz,141
+Mobile Intel Pentium 4 - M 2.40GHz,139
+Intel Celeron 1000MHz,139
+Intel Celeron M 420 @ 1.60GHz,139
+Intel Celeron 2.20GHz,139
+Mobile Intel Pentium 4 - M 2.00GHz,138
+Intel Pentium 4 Mobile 1.90GHz,136
+VIA Esther 1500MHz,135
+Intel Pentium 4 2.00GHz,133
+Mobile Intel Celeron 2.00GHz,133
+Intel Pentium 4 Mobile 2.00GHz,132
+Intel Pentium 4 2.40GHz,131
+Intel Core Solo U1400 @ 1.20GHz,130
+Mobile Intel Pentium III - M 933MHz,130
+AMD G-T44R,130
+Intel Core Solo U1300 @ 1.06GHz,127
+Intel Celeron M 443 @ 1.20GHz,125
+Intel Celeron 2.00GHz,125
+AMD Sempron 200U,125
+Intel Celeron M 410 @ 1.46GHz,123
+Intel Celeron M 900MHz,123
+Intel Atom Z520 @ 1.33GHz,122
+Mobile Intel Pentium 4 - M 1.70GHz,121
+Mobile Intel Celeron 1.80GHz,121
+AMD G-T40R,120
+Mobile Intel Pentium 4 - M 1.80GHz,119
+Intel Pentium III Mobile 800MHz,119
+Mobile Intel Celeron 1.70GHz,118
+Intel Pentium 4 Mobile 1.60GHz,116
+VIA C7-M 1600MHz,116
+Intel Pentium 4 1.80GHz,115
+Intel Pentium 4 Mobile 1.80GHz,114
+Intel Pentium 4 1800MHz,114
+Intel Celeron 1100MHz,113
+VIA C7-M 1200MHz,112
+Intel Celeron B710 @ 1.60GHz,106
+Intel Pentium 4 1.90GHz,104
+VIA Nehemiah,101
+Intel Celeron 1.70GHz,101
+Intel Pentium 4 1700MHz,100
+Intel Pentium III Mobile 866MHz,99
+Intel Celeron 1.80GHz,96
+VIA Esther 1000MHz,95
+ARM Cortex-A7 2 Core 960 MHz,93
+VIA Eden 1200MHz,93
+Intel Pentium 4 1.70GHz,86
+Intel Pentium 4 1.50GHz,86
+Intel Pentium 4 1.60GHz,84
+Intel Pentium 4 1400MHz,83
+Intel Pentium 4 1500MHz,81
+VIA Eden 1000MHz,80
+Intel Pentium 4 1300MHz,77
