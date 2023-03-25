@@ -11,10 +11,6 @@ RUN pip3 install --no-cache-dir -r requirements.txt
 
 COPY . /usr/src/app
 
-RUN prefect orion start
-RUN prefect config set PREFECT_API_URL=http://127.0.0.1:4200/api
+EXPOSE 8080
 
-EXPOSE 4200
-
-RUN python3 flow.py
-ENTRYPOINT prefect agent start -q update_products
+ENTRYPOINT python3 run.py
