@@ -12,6 +12,8 @@ services:
     volumes:
       -./workflow_orchestration/backups:/usr/src/app/backups
       -./sqlite_db:/usr/src/app/db
+    ports:
+      -"4200:4200"
 
   proxy:
     build: 
@@ -24,12 +26,12 @@ services:
 
   api:
     build:
-      context: ./api/
+      context: ./recommender_api/
+    restart: always
     networks:
       - backnet
       - frontnet
     depends_on:
-      - recommenderDB
       - proxy
     volumes:
       -./sqlite_db:/usr/src/app/db
